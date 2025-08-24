@@ -13,4 +13,4 @@ ROFI - baseada em minimal rofi theme
 ![Alt text](/screenshots/rofi.png?raw=true "Rofi")
 
 ****
-WALLPAPER - [<Dark Souls Pixelated>](<https://wall.alphacoders.com/big.php?i=860193>)
+WALLPAPER - [Dark Souls Pixelated](https://wall.alphacoders.com/big.php?i=860193)
