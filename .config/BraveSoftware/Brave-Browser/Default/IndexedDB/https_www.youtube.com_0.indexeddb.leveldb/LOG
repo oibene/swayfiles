@@ -1,0 +1,18 @@
+2025/08/23-21:31:26.715 30d Reusing MANIFEST /home/b/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/23-21:31:26.715 30d Recovering log #42
+2025/08/23-21:31:26.720 30d Reusing old log /home/b/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000042.log 
+2025/08/23-21:31:27.846 30d Compacting 1@1 + 1@2 files
+2025/08/23-21:31:27.850 30d Generated table #45@1: 643 keys, 158216 bytes
+2025/08/23-21:31:27.850 30d Compacted 1@1 + 1@2 files => 158216 bytes
+2025/08/23-21:31:27.851 30d compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/23-21:31:27.851 30d Delete type=2 #43
+2025/08/23-21:31:27.851 30d Delete type=2 #40
+2025/08/23-21:31:39.708 30e Level-0 table #47: started
+2025/08/23-21:31:39.755 30e Level-0 table #47: 1319927 bytes OK
+2025/08/23-21:31:39.757 30e Delete type=0 #42
+2025/08/23-21:34:35.599 30d Compacting 1@1 + 1@2 files
+2025/08/23-21:34:35.641 30d Generated table #48@1: 661 keys, 152504 bytes
+2025/08/23-21:34:35.641 30d Compacted 1@1 + 1@2 files => 152504 bytes
+2025/08/23-21:34:35.642 30d compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/23-21:34:35.642 30d Delete type=2 #47
+2025/08/23-21:34:35.642 30d Delete type=2 #45

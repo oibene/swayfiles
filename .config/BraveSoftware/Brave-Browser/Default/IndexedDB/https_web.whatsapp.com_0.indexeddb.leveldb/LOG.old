@@ -1,0 +1,37 @@
+2025/08/24-09:25:51.211 2e5 Reusing MANIFEST /home/b/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/24-09:25:51.211 2e5 Recovering log #836
+2025/08/24-09:25:51.220 2e5 Reusing old log /home/b/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000836.log 
+2025/08/24-09:25:52.541 2e5 Level-0 table #851: started
+2025/08/24-09:25:52.547 2e5 Level-0 table #851: 386649 bytes OK
+2025/08/24-09:25:52.548 2e5 Delete type=0 #836
+2025/08/24-09:25:52.548 2e5 Manual compaction at level-0 from '\x00D\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00E\x00\x00\x00' @ 0 : 0; will stop at '\x00D\x00\x00\x05' @ 2282022 : 1
+2025/08/24-09:25:52.548 2e5 Compacting 1@0 + 0@1 files
+2025/08/24-09:25:52.553 2e5 Generated table #852@0: 5224 keys, 116048 bytes
+2025/08/24-09:25:52.553 2e5 Compacted 1@0 + 0@1 files => 116048 bytes
+2025/08/24-09:25:52.554 2e5 compacted to: files[ 0 1 10 0 0 0 0 ]
+2025/08/24-09:25:52.554 2e5 Delete type=2 #851
+2025/08/24-09:25:52.555 2e5 Manual compaction at level-0 from '\x00D\x00\x00\x05' @ 2282022 : 1 .. '\x00E\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/24-09:25:53.590 2e7 Compacting 1@1 + 10@2 files
+2025/08/24-09:25:53.643 2e7 Generated table #853@1: 87581 keys, 2238652 bytes
+2025/08/24-09:25:53.671 2e7 Generated table #854@1: 33192 keys, 2264209 bytes
+2025/08/24-09:25:53.690 2e7 Generated table #855@1: 3524 keys, 2155876 bytes
+2025/08/24-09:25:53.705 2e7 Generated table #856@1: 3193 keys, 2155158 bytes
+2025/08/24-09:25:53.720 2e7 Generated table #857@1: 3549 keys, 2158730 bytes
+2025/08/24-09:25:53.759 2e7 Generated table #858@1: 33299 keys, 2247144 bytes
+2025/08/24-09:25:53.783 2e7 Generated table #859@1: 26270 keys, 2216330 bytes
+2025/08/24-09:25:53.807 2e7 Generated table #860@1: 49442 keys, 2184974 bytes
+2025/08/24-09:25:53.846 2e7 Generated table #861@1: 103192 keys, 2254667 bytes
+2025/08/24-09:25:53.875 2e7 Generated table #862@1: 75410 keys, 1692291 bytes
+2025/08/24-09:25:53.875 2e7 Compacted 1@1 + 10@2 files => 21568031 bytes
+2025/08/24-09:25:53.877 2e7 compacted to: files[ 0 0 10 0 0 0 0 ]
+2025/08/24-09:25:53.877 2e7 Delete type=2 #847
+2025/08/24-09:25:53.877 2e7 Delete type=2 #846
+2025/08/24-09:25:53.877 2e7 Delete type=2 #841
+2025/08/24-09:25:53.877 2e7 Delete type=2 #844
+2025/08/24-09:25:53.877 2e7 Delete type=2 #848
+2025/08/24-09:25:53.877 2e7 Delete type=2 #843
+2025/08/24-09:25:53.877 2e7 Delete type=2 #840
+2025/08/24-09:25:53.877 2e7 Delete type=2 #845
+2025/08/24-09:25:53.877 2e7 Delete type=2 #839
+2025/08/24-09:25:53.877 2e7 Delete type=2 #852
+2025/08/24-09:25:53.877 2e7 Delete type=2 #842

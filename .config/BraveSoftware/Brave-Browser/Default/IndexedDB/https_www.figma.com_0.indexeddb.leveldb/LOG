@@ -1,0 +1,7 @@
+2025/08/23-21:08:03.615 2d7 Reusing MANIFEST /home/b/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/23-21:08:03.615 2d7 Recovering log #3
+2025/08/23-21:08:03.615 2d7 Reusing old log /home/b/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/000003.log 
+2025/08/23-21:08:04.137 2d5 Level-0 table #5: started
+2025/08/23-21:08:04.138 2d5 Level-0 table #5: 3267 bytes OK
+2025/08/23-21:08:04.140 2d5 Delete type=0 #3
+2025/08/23-21:08:04.141 2d5 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

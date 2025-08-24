@@ -1,0 +1,6 @@
+2025/08/24-09:44:23.357 2d3 Reusing MANIFEST /home/b/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/24-09:44:23.358 2d3 Recovering log #3
+2025/08/24-09:44:23.363 2d3 Reusing old log /home/b/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000003.log 
+2025/08/24-10:04:11.264 2d4 Level-0 table #5: started
+2025/08/24-10:04:11.311 2d4 Level-0 table #5: 1946959 bytes OK
+2025/08/24-10:04:11.313 2d4 Delete type=0 #3
