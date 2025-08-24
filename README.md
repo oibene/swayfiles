@@ -7,8 +7,10 @@ WAYBAR - não lembro da onde peguei :P
 
 ![Alt text](/screenshots/bar.png?raw=true "Waybar")
 
-
 ROFI - baseada em minimal rofi theme
 ****
 
 ![Alt text](/screenshots/rofi.png?raw=true "Rofi")
+
+****
+WALLPAPER - [<Dark Souls Pixelated>](<https://wall.alphacoders.com/big.php?i=860193>)
