@@ -7,7 +7,7 @@
 
 "modules-left": ["custom/archicon","sway/workspaces"],
 "modules-center": ["clock"],
-"modules-right":  ["pulseaudio","backlight","battery", "network", "memory","cpu", "tray", "sway/mode"],
+"modules-right":  ["temperature","pulseaudio","backlight","battery", "network", "memory","cpu", "tray", "sway/mode"],
 
 
 // ********************************
@@ -28,12 +28,20 @@
 
 "clock":{
   "timezone": "America/Sao_Paulo",
-  "format": "  {:%a, %d %b,  󰥔  %H:%M}",
-  "format-alt":"{:%a, %d %b, %H:%M}" // caso icons nao carreguem
+  "format": "  {:%a, %d %b  |  󰥔  %H:%M}",
+  "format-alt":"{:%a, %d %b  |  %H:%M}" // caso icons nao carreguem
 },
 
 // *******************************
 // MODULES RIGHT
+
+"temperature": {
+  "format": " {temperatureC}°C",            
+  "format-critical": " {temperatureC}°C",
+  "interval": 1,
+  "critical-threshold": 80,
+  "on-click": "kitty -e htop"
+},
 
 "pulseaudio":{
   "format": "{icon} {volume}% {format_source}",
