@@ -1,0 +1,80 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "f4cbaf62ec14103fdd3912f8910b09f205cb7f62ab54298406806c26ed419aea",
+    "telemetry.devDeviceId": "b7bc329f-a39b-4bb4-9d5e-c20e1baee3e5",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/bernio/Urban_Soul_Ecommerce/urbansoul-app"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/bernio/Urban_Soul_Ecommerce/urbansoul-app": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1758841308745": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/bernio/Urban_Soul_Ecommerce/urbansoul-app",
+            "backupPath": "/home/bernio/.config/Code - OSS/Backups/fdbc85320b77b324e49663510889ae60",
+            "uiState": {
+                "mode": 0,
+                "x": 2,
+                "y": 305,
+                "width": 1813,
+                "height": 773
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e2e",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cdd6f4",
+            "background": "#1e1e2e",
+            "editorBackground": "#1e1e2e",
+            "titleBarBackground": "#11111b",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#11111b",
+            "activityBarBorder": "rgba(0, 0, 0, 0)",
+            "sideBarBackground": "#181825",
+            "sideBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarBackground": "#11111b",
+            "statusBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarNoFolderBackground": "#11111b",
+            "windowBorder": "rgba(0, 0, 0, 0)"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 265,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 265,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "b44730aaef28802fde0c3c290d27ad43": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

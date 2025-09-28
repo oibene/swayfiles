@@ -1,0 +1,19 @@
+2025-09-25 22:13:09.069 [info] Extension host with pid 863 started
+2025-09-25 22:13:09.069 [info] Skipping acquiring lock for /home/bernio/.config/Code - OSS/User/workspaceStorage/b44730aaef28802fde0c3c290d27ad43.
+2025-09-25 22:13:09.141 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-25 22:13:09.147 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-09-25 22:13:09.185 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-25 22:13:09.247 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-25 22:13:09.364 [info] Eager extensions activated
+2025-09-25 22:13:09.379 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-25 22:13:09.383 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-25 22:13:09.415 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-09-25 22:13:09.472 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-09-25 22:13:09.480 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-09-25 22:13:09.609 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-09-25 22:13:14.342 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-09-25 22:13:14.352 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-09-25 22:13:14.365 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-09-25 22:13:14.430 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-09-25 22:13:19.756 [info] Extension host terminating: renderer closed the MessagePort
+2025-09-25 22:13:19.774 [info] Extension host with pid 863 exiting with code 0

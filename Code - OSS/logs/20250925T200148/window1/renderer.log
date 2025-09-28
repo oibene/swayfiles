@@ -1,0 +1,311 @@
+2025-09-25 20:01:49.696 [info] Started local extension host with pid 2281.
+2025-09-25 20:01:49.779 [info] Started initializing default profile extensions in extensions installation folder. file:///home/bernio/.vscode-oss/extensions
+2025-09-25 20:01:49.931 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-09-25 20:01:49.932 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/bernio/.vscode-oss/extensions
+2025-09-25 20:01:52.692 [info] [perf] Render performance baseline is 26ms
+2025-09-25 20:05:16.195 [error] Canceled: Canceled
+    at QC (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:7:1282)
+    at bgn (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3683:37230)
+    at async qSt.c (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:503:48702)
+    at async BJe.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1266:40839)
+    at async BJe.getManifest (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1266:38840)
+    at async WW.vb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2333:7426)
+    at async WW.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2333:5826)
+    at async PGe.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:610:58577)
+    at async PGe.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:610:57132)
+    at async PGe.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:610:56214)
+2025-09-25 20:13:55.543 [info] Started local extension host with pid 3321.
+2025-09-25 20:13:55.673 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-09-25 20:13:58.234 [info] [perf] Render performance baseline is 29ms
+2025-09-25 20:14:00.953 [error] Error while getting the latest version for the extension vscode-icons-team.vscode-icons. SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-09-25 20:14:01.666 [error] Error while getting the latest version for the extension bradlc.vscode-tailwindcss. SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-09-25 20:14:01.868 [error] Error while getting the latest version for the extension kochan.vs-nord-theme. SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-09-25 20:14:02.073 [error] Error while getting the latest version for the extension esbenp.prettier-vscode. SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-09-25 20:15:14.473 [error] Error while getting the latest version for the extension Kochan.vs-nord-theme. SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-09-25 20:16:40.825 [warning] [File Watcher ('parcel')] Watcher shutdown because watched path got deleted (path: /home/bernio/Urban_Soul_Ecommerce/node_modules)
+2025-09-25 21:11:11.094 [error] Error: file:///home/bernio/Urban_Soul_Ecommerce/urbansoul-app/src/app/pages/header.tsx has changed in the meantime
+    at _ft.q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2627:15099)
+    at _ft.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2627:15960)
+    at qft.o (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2627:19074)
+    at qft.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2627:18506)
+    at Gft.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2627:20388)
+    at Szt.$tryApplyWorkspaceEdit (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:503:7224)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38484)
+2025-09-25 21:11:11.135 [warning] IGNORING workspace edit: Error: file:///home/bernio/Urban_Soul_Ecommerce/urbansoul-app/src/app/pages/header.tsx has changed in the meantime
+2025-09-25 21:17:18.526 [error] Error: file:///home/bernio/Urban_Soul_Ecommerce/urbansoul-app/src/app/pages/header.tsx has changed in the meantime
+    at _ft.q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2627:15099)
+    at _ft.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2627:15960)
+    at qft.o (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2627:19074)
+    at qft.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2627:18506)
+    at Gft.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2627:20388)
+    at Szt.$tryApplyWorkspaceEdit (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:503:7224)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38484)
+2025-09-25 21:17:18.527 [warning] IGNORING workspace edit: Error: file:///home/bernio/Urban_Soul_Ecommerce/urbansoul-app/src/app/pages/header.tsx has changed in the meantime
+2025-09-25 21:51:29.877 [error] Error: file:///home/bernio/Urban_Soul_Ecommerce/urbansoul-app/src/app/pages/header.tsx has changed in the meantime
+    at _ft.q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2627:15099)
+    at _ft.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2627:15960)
+    at qft.o (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2627:19074)
+    at qft.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2627:18506)
+    at Gft.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2627:20388)
+    at Szt.$tryApplyWorkspaceEdit (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:503:7224)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38484)
+2025-09-25 21:51:29.877 [warning] IGNORING workspace edit: Error: file:///home/bernio/Urban_Soul_Ecommerce/urbansoul-app/src/app/pages/header.tsx has changed in the meantime

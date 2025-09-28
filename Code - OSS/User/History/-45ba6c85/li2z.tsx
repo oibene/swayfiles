@@ -1,0 +1,27 @@
+export default function ModalAccount(){
+    return(
+        <div className="absolute bg-dark-gray w-80 h-50">
+            <div className="font-noto font-bold text-light-gray text-sm">
+
+                <div>
+                    
+                </div>
+                <p className="m-4">CONTA</p>
+
+                <div className="flex ml-4">
+                    <div className="h-15 w-15 rounded-full bg-light-gray"></div>
+                    <div className="ml-4 content-center">
+                        <p>Nome Conta</p>
+                        <p>email@email.com</p>
+                    </div>
+
+                </div>
+                <hr className="w-full h-0.5 rounded-sm"/>
+                <p>ALTERAR CONTA</p>
+                <p>LOGOUT</p>
+
+            </div>
+
+        </div>
+    )
+}
