@@ -1,0 +1,4016 @@
+[Info  - 17:50:13] 2025/10/18 17:50:13 Created View (#1)
+	directory=/home/bernio/urbansoul-API
+	view_type="GoMod"
+	root_dir="file:///home/bernio/urbansoul-API"
+	go_version="go version go1.25.2 X:nodwarf5 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/bernio/.cache/go-build GOMODCACHE:/home/bernio/go/pkg/mod GOPATH:/home/bernio/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.2 X:nodwarf5 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 17:50:13] 2025/10/18 17:50:13 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/bernio/urbansoul-API
+	query=[/home/bernio/urbansoul-API/... builtin]
+	packages=2
+	duration=178.50801ms
+
+[Info  - 17:50:43] 2025/10/18 17:50:43 background imports cache refresh starting
+
+[Info  - 17:50:43] 2025/10/18 17:50:43 background refresh finished after 94.179627ms
+
+[Error - 17:51:44] 2025/10/18 17:51:44 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:3:9: missing import path
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Info  - 17:51:46] 2025/10/18 17:51:46 go/packages.Load #2
+	view_id="1"
+	snapshot=18
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=38.541734ms
+
+[Info  - 17:51:46] 2025/10/18 17:51:46 go/packages.Load #3
+	view_id="1"
+	snapshot=18
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=34.479589ms
+
+[Error - 17:51:47] 2025/10/18 17:51:47 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:4:5: missing import path
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 17:51:48] 2025/10/18 17:51:48 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:4:6: missing import path
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 17:51:49] 2025/10/18 17:51:49 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:4:3: missing import path
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Info  - 17:51:50] 2025/10/18 17:51:50 go/packages.Load #5
+	view_id="1"
+	snapshot=27
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=30.084236ms
+
+[Info  - 17:51:50] 2025/10/18 17:51:50 go/packages.Load #4
+	view_id="1"
+	snapshot=27
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=75.379047ms
+
+[Info  - 17:52:05] 2025/10/18 17:52:05 background imports cache refresh starting
+
+[Info  - 17:52:05] 2025/10/18 17:52:05 background refresh finished after 4.00644ms
+
+[Error - 17:52:15] 2025/10/18 17:52:15 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:5:3: missing import path
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Info  - 17:52:17] 2025/10/18 17:52:17 go/packages.Load #6
+	view_id="1"
+	snapshot=31
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=40.73782ms
+
+[Info  - 17:52:17] 2025/10/18 17:52:17 go/packages.Load #7
+	view_id="1"
+	snapshot=31
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=99.274512ms
+
+[Info  - 17:52:18] 2025/10/18 17:52:18 go/packages.Load #9
+	view_id="1"
+	snapshot=32
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=46.296773ms
+
+[Info  - 17:52:18] 2025/10/18 17:52:18 go/packages.Load #8
+	view_id="1"
+	snapshot=32
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=69.569841ms
+
+[Info  - 17:52:18] 2025/10/18 17:52:18 go/packages.Load #10
+	view_id="1"
+	snapshot=33
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=39.025514ms
+
+[Info  - 17:52:18] 2025/10/18 17:52:18 go/packages.Load #11
+	view_id="1"
+	snapshot=33
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=30.719843ms
+
+[Info  - 17:52:19] 2025/10/18 17:52:19 go/packages.Load #12
+	view_id="1"
+	snapshot=34
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=39.223501ms
+
+[Info  - 17:52:19] 2025/10/18 17:52:19 go/packages.Load #13
+	view_id="1"
+	snapshot=34
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=31.213901ms
+
+[Info  - 17:52:19] 2025/10/18 17:52:19 go/packages.Load #14
+	view_id="1"
+	snapshot=35
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=38.68299ms
+
+[Info  - 17:52:19] 2025/10/18 17:52:19 go/packages.Load #15
+	view_id="1"
+	snapshot=35
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=29.440931ms
+
+[Info  - 17:52:19] 2025/10/18 17:52:19 go/packages.Load #16
+	view_id="1"
+	snapshot=36
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=38.284814ms
+
+[Info  - 17:52:19] 2025/10/18 17:52:19 go/packages.Load #17
+	view_id="1"
+	snapshot=37
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=39.155312ms
+
+[Info  - 17:52:19] 2025/10/18 17:52:19 go/packages.Load #18
+	view_id="1"
+	snapshot=37
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=32.142783ms
+
+[Info  - 17:52:21] 2025/10/18 17:52:21 go/packages.Load #19
+	view_id="1"
+	snapshot=38
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=36.772682ms
+
+[Info  - 17:52:21] 2025/10/18 17:52:21 go/packages.Load #20
+	view_id="1"
+	snapshot=38
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=35.340212ms
+
+[Info  - 17:52:21] 2025/10/18 17:52:21 go/packages.Load #21
+	view_id="1"
+	snapshot=39
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=39.174568ms
+
+[Info  - 17:52:21] 2025/10/18 17:52:21 go/packages.Load #22
+	view_id="1"
+	snapshot=39
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=31.077261ms
+
+[Info  - 17:52:21] 2025/10/18 17:52:21 go/packages.Load #23
+	view_id="1"
+	snapshot=40
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=39.755708ms
+
+[Info  - 17:52:21] 2025/10/18 17:52:21 go/packages.Load #24
+	view_id="1"
+	snapshot=40
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=31.252341ms
+
+[Info  - 17:52:21] 2025/10/18 17:52:21 go/packages.Load #25
+	view_id="1"
+	snapshot=41
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=38.172839ms
+
+[Info  - 17:52:21] 2025/10/18 17:52:21 go/packages.Load #26
+	view_id="1"
+	snapshot=41
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=31.598308ms
+
+[Info  - 17:52:22] 2025/10/18 17:52:22 go/packages.Load #27
+	view_id="1"
+	snapshot=42
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=40.899383ms
+
+[Info  - 17:52:22] 2025/10/18 17:52:22 go/packages.Load #28
+	view_id="1"
+	snapshot=42
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=64.882574ms
+
+[Info  - 17:52:22] 2025/10/18 17:52:22 go/packages.Load #29
+	view_id="1"
+	snapshot=43
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=46.256946ms
+
+[Info  - 17:52:22] 2025/10/18 17:52:22 go/packages.Load #30
+	view_id="1"
+	snapshot=43
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=44.156104ms
+
+[Info  - 17:52:22] 2025/10/18 17:52:22 go/packages.Load #31
+	view_id="1"
+	snapshot=44
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=38.865203ms
+
+[Info  - 17:52:22] 2025/10/18 17:52:22 go/packages.Load #32
+	view_id="1"
+	snapshot=45
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=38.674325ms
+
+[Info  - 17:52:22] 2025/10/18 17:52:22 go/packages.Load #33
+	view_id="1"
+	snapshot=45
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=30.086881ms
+
+[Info  - 17:52:22] 2025/10/18 17:52:22 go/packages.Load #34
+	view_id="1"
+	snapshot=46
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=35.298476ms
+
+[Info  - 17:52:22] 2025/10/18 17:52:22 go/packages.Load #35
+	view_id="1"
+	snapshot=46
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=30.073757ms
+
+[Info  - 17:52:23] 2025/10/18 17:52:23 go/packages.Load #36
+	view_id="1"
+	snapshot=47
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=43.339227ms
+
+[Info  - 17:52:23] 2025/10/18 17:52:23 go/packages.Load #37
+	view_id="1"
+	snapshot=47
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=32.1596ms
+
+[Info  - 17:52:23] 2025/10/18 17:52:23 go/packages.Load #38
+	view_id="1"
+	snapshot=48
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=37.572293ms
+
+[Info  - 17:52:23] 2025/10/18 17:52:23 go/packages.Load #39
+	view_id="1"
+	snapshot=48
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=30.160769ms
+
+[Error - 17:52:30] Request textDocument/hover failed.
+  Message: no package data for import "github.com/lib/pq"
+  Code: 0 
+[Info  - 17:52:33] 2025/10/18 17:52:33 go/packages.Load #40
+	view_id="1"
+	snapshot=49
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=38.54467ms
+
+[Info  - 17:52:33] 2025/10/18 17:52:33 go/packages.Load #41
+	view_id="1"
+	snapshot=49
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=35.896585ms
+
+[Info  - 17:52:47] 2025/10/18 17:52:47 background imports cache refresh starting
+
+[Info  - 17:52:47] 2025/10/18 17:52:47 background refresh finished after 3.604332ms
+
+[Info  - 17:52:50] 2025/10/18 17:52:50 go/packages.Load #42
+	view_id="1"
+	snapshot=56
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=33.599296ms
+
+[Info  - 17:52:50] 2025/10/18 17:52:50 go/packages.Load #43
+	view_id="1"
+	snapshot=56
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=32.478992ms
+
+[Info  - 17:52:51] 2025/10/18 17:52:51 go/packages.Load #44
+	view_id="1"
+	snapshot=57
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=33.745766ms
+
+[Info  - 17:52:51] 2025/10/18 17:52:51 go/packages.Load #45
+	view_id="1"
+	snapshot=57
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=29.480735ms
+
+[Info  - 17:52:51] 2025/10/18 17:52:51 go/packages.Load #46
+	view_id="1"
+	snapshot=58
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=38.339179ms
+
+[Info  - 17:52:51] 2025/10/18 17:52:51 go/packages.Load #47
+	view_id="1"
+	snapshot=58
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=34.24798ms
+
+[Info  - 17:52:51] 2025/10/18 17:52:51 go/packages.Load #48
+	view_id="1"
+	snapshot=59
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=39.532655ms
+
+[Info  - 17:52:51] 2025/10/18 17:52:51 go/packages.Load #49
+	view_id="1"
+	snapshot=59
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=32.248388ms
+
+[Info  - 17:52:51] 2025/10/18 17:52:51 go/packages.Load #50
+	view_id="1"
+	snapshot=60
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=38.982625ms
+
+[Info  - 17:52:51] 2025/10/18 17:52:51 go/packages.Load #51
+	view_id="1"
+	snapshot=60
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=30.375874ms
+
+[Info  - 17:52:52] 2025/10/18 17:52:52 go/packages.Load #52
+	view_id="1"
+	snapshot=61
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=41.002519ms
+
+[Info  - 17:52:52] 2025/10/18 17:52:52 go/packages.Load #53
+	view_id="1"
+	snapshot=61
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=31.929731ms
+
+[Info  - 17:52:52] 2025/10/18 17:52:52 go/packages.Load #54
+	view_id="1"
+	snapshot=62
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=38.28255ms
+
+[Info  - 17:52:52] 2025/10/18 17:52:52 go/packages.Load #55
+	view_id="1"
+	snapshot=62
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=32.748094ms
+
+[Info  - 17:52:52] 2025/10/18 17:52:52 go/packages.Load #57
+	view_id="1"
+	snapshot=63
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=35.167838ms
+
+[Info  - 17:52:52] 2025/10/18 17:52:52 go/packages.Load #56
+	view_id="1"
+	snapshot=63
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=36.465568ms
+
+[Info  - 17:52:53] 2025/10/18 17:52:53 go/packages.Load #58
+	view_id="1"
+	snapshot=64
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=32.142829ms
+
+[Info  - 17:52:53] 2025/10/18 17:52:53 go/packages.Load #59
+	view_id="1"
+	snapshot=65
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=31.310874ms
+
+[Info  - 17:52:53] 2025/10/18 17:52:53 go/packages.Load #60
+	view_id="1"
+	snapshot=66
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=62.200707ms
+
+[Info  - 17:52:53] 2025/10/18 17:52:53 go/packages.Load #61
+	view_id="1"
+	snapshot=66
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=34.622338ms
+
+[Info  - 17:52:53] 2025/10/18 17:52:53 go/packages.Load #62
+	view_id="1"
+	snapshot=67
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=45.16962ms
+
+[Info  - 17:52:53] 2025/10/18 17:52:53 go/packages.Load #63
+	view_id="1"
+	snapshot=67
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=30.962509ms
+
+[Info  - 17:52:53] 2025/10/18 17:52:53 go/packages.Load #64
+	view_id="1"
+	snapshot=68
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=39.550046ms
+
+[Info  - 17:52:54] 2025/10/18 17:52:54 go/packages.Load #65
+	view_id="1"
+	snapshot=68
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=31.1327ms
+
+[Info  - 17:52:54] 2025/10/18 17:52:54 go/packages.Load #66
+	view_id="1"
+	snapshot=69
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=36.912511ms
+
+[Info  - 17:52:54] 2025/10/18 17:52:54 go/packages.Load #67
+	view_id="1"
+	snapshot=69
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=30.245899ms
+
+[Info  - 17:52:54] 2025/10/18 17:52:54 go/packages.Load #68
+	view_id="1"
+	snapshot=70
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=38.874688ms
+
+[Info  - 17:52:54] 2025/10/18 17:52:54 go/packages.Load #69
+	view_id="1"
+	snapshot=70
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=30.776452ms
+
+[Info  - 17:52:54] 2025/10/18 17:52:54 go/packages.Load #70
+	view_id="1"
+	snapshot=71
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=40.433208ms
+
+[Info  - 17:52:54] 2025/10/18 17:52:54 go/packages.Load #71
+	view_id="1"
+	snapshot=71
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=33.349307ms
+
+[Info  - 17:52:55] 2025/10/18 17:52:55 go/packages.Load #72
+	view_id="1"
+	snapshot=72
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=32.034587ms
+
+[Info  - 17:52:55] 2025/10/18 17:52:55 go/packages.Load #73
+	view_id="1"
+	snapshot=73
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=43.200629ms
+
+[Info  - 17:52:55] 2025/10/18 17:52:55 go/packages.Load #74
+	view_id="1"
+	snapshot=73
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=31.369404ms
+
+[Info  - 17:53:17] 2025/10/18 17:53:17 background imports cache refresh starting
+
+[Info  - 17:53:17] 2025/10/18 17:53:17 background refresh finished after 3.717792ms
+
+[Info  - 17:54:07] 2025/10/18 17:54:07 go/packages.Load #75
+	view_id="1"
+	snapshot=111
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=33.553213ms
+
+[Info  - 17:54:07] 2025/10/18 17:54:07 go/packages.Load #76
+	view_id="1"
+	snapshot=111
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=31.657946ms
+
+[Info  - 17:54:08] 2025/10/18 17:54:08 go/packages.Load #77
+	view_id="1"
+	snapshot=112
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=36.355663ms
+
+[Info  - 17:54:08] 2025/10/18 17:54:08 go/packages.Load #78
+	view_id="1"
+	snapshot=112
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=29.242314ms
+
+[Info  - 17:54:08] 2025/10/18 17:54:08 go/packages.Load #79
+	view_id="1"
+	snapshot=113
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=38.356894ms
+
+[Info  - 17:54:08] 2025/10/18 17:54:08 go/packages.Load #80
+	view_id="1"
+	snapshot=113
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=33.570785ms
+
+[Info  - 17:54:08] 2025/10/18 17:54:08 go/packages.Load #81
+	view_id="1"
+	snapshot=114
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=39.97357ms
+
+[Info  - 17:54:08] 2025/10/18 17:54:08 go/packages.Load #82
+	view_id="1"
+	snapshot=114
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=33.635605ms
+
+[Info  - 17:54:08] 2025/10/18 17:54:08 go/packages.Load #83
+	view_id="1"
+	snapshot=115
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=41.041512ms
+
+[Info  - 17:54:08] 2025/10/18 17:54:08 go/packages.Load #84
+	view_id="1"
+	snapshot=115
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=34.944776ms
+
+[Info  - 17:54:09] 2025/10/18 17:54:09 go/packages.Load #85
+	view_id="1"
+	snapshot=116
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=40.270136ms
+
+[Info  - 17:54:09] 2025/10/18 17:54:09 go/packages.Load #86
+	view_id="1"
+	snapshot=116
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=30.832071ms
+
+[Info  - 17:54:09] 2025/10/18 17:54:09 go/packages.Load #87
+	view_id="1"
+	snapshot=117
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=39.351885ms
+
+[Info  - 17:54:09] 2025/10/18 17:54:09 go/packages.Load #88
+	view_id="1"
+	snapshot=117
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=30.656709ms
+
+[Info  - 17:54:09] 2025/10/18 17:54:09 go/packages.Load #89
+	view_id="1"
+	snapshot=118
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=39.265387ms
+
+[Info  - 17:54:09] 2025/10/18 17:54:09 go/packages.Load #90
+	view_id="1"
+	snapshot=118
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=31.523681ms
+
+[Info  - 17:54:09] 2025/10/18 17:54:09 go/packages.Load #91
+	view_id="1"
+	snapshot=119
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=40.709583ms
+
+[Info  - 17:54:09] 2025/10/18 17:54:09 go/packages.Load #92
+	view_id="1"
+	snapshot=119
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=41.71181ms
+
+[Info  - 17:54:10] 2025/10/18 17:54:10 go/packages.Load #93
+	view_id="1"
+	snapshot=120
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=32.591014ms
+
+[Info  - 17:54:11] 2025/10/18 17:54:11 background imports cache refresh starting
+
+[Info  - 17:54:11] 2025/10/18 17:54:11 background refresh finished after 3.464855ms
+
+[Info  - 17:54:12] 2025/10/18 17:54:12 go/packages.Load #94
+	view_id="1"
+	snapshot=121
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=37.098797ms
+
+[Info  - 17:54:12] 2025/10/18 17:54:12 go/packages.Load #95
+	view_id="1"
+	snapshot=121
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=36.132298ms
+
+[Info  - 17:54:12] 2025/10/18 17:54:12 go/packages.Load #97
+	view_id="1"
+	snapshot=122
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=40.216747ms
+
+[Info  - 17:54:12] 2025/10/18 17:54:12 go/packages.Load #96
+	view_id="1"
+	snapshot=122
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=44.593046ms
+
+[Info  - 17:54:12] 2025/10/18 17:54:12 go/packages.Load #99
+	view_id="1"
+	snapshot=123
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=40.683037ms
+
+[Info  - 17:54:12] 2025/10/18 17:54:12 go/packages.Load #98
+	view_id="1"
+	snapshot=123
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=43.813655ms
+
+[Info  - 17:54:12] 2025/10/18 17:54:12 go/packages.Load #101
+	view_id="1"
+	snapshot=124
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=75.617776ms
+
+[Info  - 17:54:12] 2025/10/18 17:54:12 go/packages.Load #100
+	view_id="1"
+	snapshot=124
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=77.578027ms
+
+[Info  - 17:54:13] 2025/10/18 17:54:13 go/packages.Load #102
+	view_id="1"
+	snapshot=125
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=54.445344ms
+
+[Info  - 17:54:13] 2025/10/18 17:54:13 go/packages.Load #103
+	view_id="1"
+	snapshot=125
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=38.531685ms
+
+[Info  - 17:54:18] 2025/10/18 17:54:18 go/packages.Load #104
+	view_id="1"
+	snapshot=126
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=33.743547ms
+
+[Info  - 17:54:18] 2025/10/18 17:54:18 go/packages.Load #105
+	view_id="1"
+	snapshot=126
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=28.411368ms
+
+[Info  - 17:54:18] 2025/10/18 17:54:18 go/packages.Load #106
+	view_id="1"
+	snapshot=127
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=37.320961ms
+
+[Info  - 17:54:18] 2025/10/18 17:54:18 go/packages.Load #107
+	view_id="1"
+	snapshot=127
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=31.618514ms
+
+[Info  - 17:54:18] 2025/10/18 17:54:18 go/packages.Load #108
+	view_id="1"
+	snapshot=128
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=38.355402ms
+
+[Info  - 17:54:18] 2025/10/18 17:54:18 go/packages.Load #109
+	view_id="1"
+	snapshot=128
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=30.483558ms
+
+[Info  - 17:54:19] 2025/10/18 17:54:19 go/packages.Load #111
+	view_id="1"
+	snapshot=129
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=32.682983ms
+
+[Info  - 17:54:19] 2025/10/18 17:54:19 go/packages.Load #110
+	view_id="1"
+	snapshot=129
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=58.405842ms
+
+[Info  - 17:54:19] 2025/10/18 17:54:19 go/packages.Load #112
+	view_id="1"
+	snapshot=130
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=39.893595ms
+
+[Info  - 17:54:19] 2025/10/18 17:54:19 go/packages.Load #113
+	view_id="1"
+	snapshot=130
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=32.243415ms
+
+[Info  - 17:54:19] 2025/10/18 17:54:19 go/packages.Load #114
+	view_id="1"
+	snapshot=131
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=39.481515ms
+
+[Info  - 17:54:19] 2025/10/18 17:54:19 go/packages.Load #115
+	view_id="1"
+	snapshot=131
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=30.475764ms
+
+[Info  - 17:54:20] 2025/10/18 17:54:20 go/packages.Load #116
+	view_id="1"
+	snapshot=132
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=43.973675ms
+
+[Info  - 17:54:20] 2025/10/18 17:54:20 go/packages.Load #117
+	view_id="1"
+	snapshot=132
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=34.854431ms
+
+[Info  - 17:54:22] 2025/10/18 17:54:22 go/packages.Load #118
+	view_id="1"
+	snapshot=133
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=35.736064ms
+
+[Info  - 17:54:22] 2025/10/18 17:54:22 go/packages.Load #119
+	view_id="1"
+	snapshot=133
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=31.952788ms
+
+[Info  - 17:54:22] 2025/10/18 17:54:22 go/packages.Load #120
+	view_id="1"
+	snapshot=134
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=38.79328ms
+
+[Info  - 17:54:22] 2025/10/18 17:54:22 go/packages.Load #121
+	view_id="1"
+	snapshot=134
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=31.149685ms
+
+[Info  - 17:54:23] 2025/10/18 17:54:23 go/packages.Load #122
+	view_id="1"
+	snapshot=135
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=42.917122ms
+
+[Info  - 17:54:23] 2025/10/18 17:54:23 go/packages.Load #123
+	view_id="1"
+	snapshot=135
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=33.583007ms
+
+[Info  - 17:54:23] 2025/10/18 17:54:23 go/packages.Load #125
+	view_id="1"
+	snapshot=136
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=35.672014ms
+
+[Info  - 17:54:23] 2025/10/18 17:54:23 go/packages.Load #124
+	view_id="1"
+	snapshot=136
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=64.438702ms
+
+[Info  - 17:54:24] 2025/10/18 17:54:24 go/packages.Load #126
+	view_id="1"
+	snapshot=137
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=40.394532ms
+
+[Info  - 17:54:24] 2025/10/18 17:54:24 go/packages.Load #127
+	view_id="1"
+	snapshot=137
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=31.985386ms
+
+[Info  - 17:54:42] 2025/10/18 17:54:42 background imports cache refresh starting
+
+[Info  - 17:54:42] 2025/10/18 17:54:42 background refresh finished after 3.636663ms
+
+[Info  - 17:55:41] 2025/10/18 17:55:41 background imports cache refresh starting
+
+[Info  - 17:55:41] 2025/10/18 17:55:41 background refresh finished after 3.478674ms
+
+[Info  - 17:56:07] 2025/10/18 17:56:07 go/packages.Load #128
+	view_id="1"
+	snapshot=148
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=34.951143ms
+
+[Error - 17:56:07] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+  Code: 0 
+[Error - 17:56:15] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+  Code: 0 
+[Error - 17:56:15] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+  Code: 0 
+[Error - 17:56:15] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+  Code: 0 
+[Error - 17:56:15] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+  Code: 0 
+[Error - 17:56:15] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+  Code: 0 
+[Error - 17:56:16] Request textDocument/codeAction failed.
+  Message: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+  Code: 0 
+[Error - 17:56:16] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+  Code: 0 
+[Error - 17:56:16] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+  Code: 0 
+[Error - 17:56:16] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+  Code: 0 
+[Error - 17:56:17] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+  Code: 0 
+[Info  - 17:56:17] 2025/10/18 17:56:17 go/packages.Load #129
+	view_id="1"
+	snapshot=159
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=50.840935ms
+
+[Info  - 17:56:17] 2025/10/18 17:56:17 go/packages.Load #130
+	view_id="1"
+	snapshot=159
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=25.493793ms
+
+[Info  - 17:56:17] 2025/10/18 17:56:17 go/packages.Load #131
+	view_id="1"
+	snapshot=160
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=13.431815ms
+
+[Info  - 17:56:17] 2025/10/18 17:56:17 go/packages.Load #132
+	view_id="1"
+	snapshot=160
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=14.823824ms
+
+[Info  - 17:56:18] 2025/10/18 17:56:18 go/packages.Load #133
+	view_id="1"
+	snapshot=161
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=13.871563ms
+
+[Info  - 17:56:18] 2025/10/18 17:56:18 go/packages.Load #134
+	view_id="1"
+	snapshot=161
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=13.662109ms
+
+[Info  - 17:56:18] 2025/10/18 17:56:18 go/packages.Load #135
+	view_id="1"
+	snapshot=162
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=15.366732ms
+
+[Info  - 17:56:18] 2025/10/18 17:56:18 go/packages.Load #136
+	view_id="1"
+	snapshot=162
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=14.908605ms
+
+[Info  - 17:56:18] 2025/10/18 17:56:18 go/packages.Load #137
+	view_id="1"
+	snapshot=163
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=16.324369ms
+
+[Info  - 17:56:18] 2025/10/18 17:56:18 go/packages.Load #138
+	view_id="1"
+	snapshot=163
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=16.306664ms
+
+[Info  - 17:56:18] 2025/10/18 17:56:18 go/packages.Load #139
+	view_id="1"
+	snapshot=164
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=14.385983ms
+
+[Info  - 17:56:18] 2025/10/18 17:56:18 go/packages.Load #140
+	view_id="1"
+	snapshot=164
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=15.686529ms
+
+[Info  - 17:56:18] 2025/10/18 17:56:18 go/packages.Load #142
+	view_id="1"
+	snapshot=165
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=14.463349ms
+
+[Info  - 17:56:18] 2025/10/18 17:56:18 go/packages.Load #141
+	view_id="1"
+	snapshot=165
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=14.658003ms
+
+[Info  - 17:56:18] 2025/10/18 17:56:18 go/packages.Load #144
+	view_id="1"
+	snapshot=166
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=14.620276ms
+
+[Info  - 17:56:18] 2025/10/18 17:56:18 go/packages.Load #143
+	view_id="1"
+	snapshot=166
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database.go]
+	packages=1
+	duration=14.914071ms
+
+[Info  - 17:56:33] 2025/10/18 17:56:33 go/packages.Load #145
+	view_id="1"
+	snapshot=170
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=35.962615ms
+
+[Error - 17:56:33] 2025/10/18 17:56:33 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:10:2: expected 1 expression (and 4 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Info  - 17:56:51] 2025/10/18 17:56:51 background imports cache refresh starting
+
+[Info  - 17:56:51] 2025/10/18 17:56:51 background refresh finished after 3.575246ms
+
+[Info  - 17:57:05] 2025/10/18 17:57:05 go/packages.Load #146
+	view_id="1"
+	snapshot=171
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=16.501159ms
+
+[Info  - 17:57:05] 2025/10/18 17:57:05 go/packages.Load #147
+	view_id="1"
+	snapshot=173
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=11.511007ms
+
+[Info  - 17:57:07] 2025/10/18 17:57:07 go/packages.Load #148
+	view_id="1"
+	snapshot=174
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=34.394247ms
+
+[Error - 17:57:12] 2025/10/18 17:57:12 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/database/database.go:4:13: expected '(', found newline (and 2 more errors)
+	file="/home/bernio/urbansoul-API/database/database.go"
+
+[Error - 17:57:13] 2025/10/18 17:57:13 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/database/database.go:4:14: expected '(', found newline (and 2 more errors)
+	file="/home/bernio/urbansoul-API/database/database.go"
+
+[Error - 17:57:14] 2025/10/18 17:57:14 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/database/database.go:4:15: expected '(', found newline (and 2 more errors)
+	file="/home/bernio/urbansoul-API/database/database.go"
+
+[Error - 17:57:15] 2025/10/18 17:57:15 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/database/database.go:4:15: expected '(', found newline (and 2 more errors)
+	file="/home/bernio/urbansoul-API/database/database.go"
+
+[Info  - 17:57:37] 2025/10/18 17:57:37 background imports cache refresh starting
+
+[Info  - 17:57:37] 2025/10/18 17:57:37 background refresh finished after 3.474546ms
+
+[Error - 17:58:13] 2025/10/18 17:58:13 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{sqlx Connect})
+	position=5:25
+
+[Error - 17:58:23] 2025/10/18 17:58:23 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{sqlx Connect})
+	position=5:36
+
+[Info  - 17:58:34] 2025/10/18 17:58:34 background imports cache refresh starting
+
+[Info  - 17:58:34] 2025/10/18 17:58:34 background refresh finished after 3.492802ms
+
+[Error - 17:58:43] 2025/10/18 17:58:43 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:10:2: expected 1 expression (and 4 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Info  - 17:58:45] 2025/10/18 17:58:45 go/packages.Load #150
+	view_id="1"
+	snapshot=280
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=36.937893ms
+
+[Info  - 17:58:45] 2025/10/18 17:58:45 go/packages.Load #151
+	view_id="1"
+	snapshot=280
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=35.338612ms
+
+[Info  - 17:58:47] 2025/10/18 17:58:47 go/packages.Load #152
+	view_id="1"
+	snapshot=283
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=41.146436ms
+
+[Info  - 17:58:47] 2025/10/18 17:58:47 go/packages.Load #153
+	view_id="1"
+	snapshot=283
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=37.137694ms
+
+[Info  - 17:59:14] 2025/10/18 17:59:14 background imports cache refresh starting
+
+[Info  - 17:59:14] 2025/10/18 17:59:14 background refresh finished after 4.161278ms
+
+[Info  - 17:59:20] 2025/10/18 17:59:20 go/packages.Load #154
+	view_id="1"
+	snapshot=296
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=13.858395ms
+
+[Info  - 17:59:22] 2025/10/18 17:59:22 go/packages.Load #155
+	view_id="1"
+	snapshot=297
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=32.026475ms
+
+[Info  - 17:59:26] 2025/10/18 17:59:26 go/packages.Load #156
+	view_id="1"
+	snapshot=298
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=36.871897ms
+
+[Info  - 17:59:26] 2025/10/18 17:59:26 go/packages.Load #157
+	view_id="1"
+	snapshot=298
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=36.106227ms
+
+[Info  - 17:59:31] 2025/10/18 17:59:31 go/packages.Load #158
+	view_id="1"
+	snapshot=302
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=9.948056ms
+
+[Info  - 17:59:32] 2025/10/18 17:59:32 go/packages.Load #159
+	view_id="1"
+	snapshot=302
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=36.370769ms
+
+[Info  - 17:59:36] 2025/10/18 17:59:36 go/packages.Load #160
+	view_id="1"
+	snapshot=308
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=15.930547ms
+
+[Info  - 17:59:37] 2025/10/18 17:59:37 go/packages.Load #161
+	view_id="1"
+	snapshot=308
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=32.455747ms
+
+[Info  - 17:59:46] 2025/10/18 17:59:46 go/packages.Load #162
+	view_id="1"
+	snapshot=323
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=15.881908ms
+
+[Info  - 17:59:46] 2025/10/18 17:59:46 go/packages.Load #163
+	view_id="1"
+	snapshot=323
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=36.296361ms
+
+[Info  - 17:59:46] 2025/10/18 17:59:46 go/packages.Load #164
+	view_id="1"
+	snapshot=324
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=56.457743ms
+
+[Info  - 17:59:46] 2025/10/18 17:59:46 go/packages.Load #165
+	view_id="1"
+	snapshot=324
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=30.554912ms
+
+[Info  - 17:59:46] 2025/10/18 17:59:46 go/packages.Load #166
+	view_id="1"
+	snapshot=325
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=14.632578ms
+
+[Info  - 17:59:46] 2025/10/18 17:59:46 go/packages.Load #167
+	view_id="1"
+	snapshot=326
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=17.650685ms
+
+[Info  - 17:59:46] 2025/10/18 17:59:46 go/packages.Load #168
+	view_id="1"
+	snapshot=327
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=15.904326ms
+
+[Info  - 17:59:47] 2025/10/18 17:59:47 go/packages.Load #169
+	view_id="1"
+	snapshot=328
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=17.216759ms
+
+[Info  - 17:59:47] 2025/10/18 17:59:47 go/packages.Load #170
+	view_id="1"
+	snapshot=329
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=16.596881ms
+
+[Info  - 17:59:47] 2025/10/18 17:59:47 go/packages.Load #171
+	view_id="1"
+	snapshot=330
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=11.382545ms
+
+[Info  - 17:59:47] 2025/10/18 17:59:47 go/packages.Load #172
+	view_id="1"
+	snapshot=330
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=36.85014ms
+
+[Info  - 17:59:47] 2025/10/18 17:59:47 go/packages.Load #173
+	view_id="1"
+	snapshot=331
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=15.159857ms
+
+[Info  - 17:59:47] 2025/10/18 17:59:47 go/packages.Load #174
+	view_id="1"
+	snapshot=331
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=13.7386ms
+
+[Info  - 17:59:48] 2025/10/18 17:59:48 go/packages.Load #175
+	view_id="1"
+	snapshot=331
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=37.444237ms
+
+[Info  - 17:59:48] 2025/10/18 17:59:48 go/packages.Load #177
+	view_id="1"
+	snapshot=332
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=13.468574ms
+
+[Info  - 17:59:48] 2025/10/18 17:59:48 go/packages.Load #176
+	view_id="1"
+	snapshot=332
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=14.716684ms
+
+[Info  - 17:59:48] 2025/10/18 17:59:48 go/packages.Load #178
+	view_id="1"
+	snapshot=333
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=17.767998ms
+
+[Info  - 17:59:48] 2025/10/18 17:59:48 go/packages.Load #179
+	view_id="1"
+	snapshot=333
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=17.437537ms
+
+[Info  - 17:59:48] 2025/10/18 17:59:48 go/packages.Load #181
+	view_id="1"
+	snapshot=334
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=17.881169ms
+
+[Info  - 17:59:48] 2025/10/18 17:59:48 go/packages.Load #180
+	view_id="1"
+	snapshot=334
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=17.92431ms
+
+[Info  - 17:59:48] 2025/10/18 17:59:48 go/packages.Load #182
+	view_id="1"
+	snapshot=335
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=17.197194ms
+
+[Info  - 17:59:49] 2025/10/18 17:59:49 go/packages.Load #183
+	view_id="1"
+	snapshot=335
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=39.359525ms
+
+[Info  - 17:59:50] 2025/10/18 17:59:50 go/packages.Load #184
+	view_id="1"
+	snapshot=336
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=10.768836ms
+
+[Info  - 17:59:50] 2025/10/18 17:59:50 go/packages.Load #185
+	view_id="1"
+	snapshot=337
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=11.777168ms
+
+[Info  - 17:59:50] 2025/10/18 17:59:50 go/packages.Load #186
+	view_id="1"
+	snapshot=338
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=17.422031ms
+
+[Info  - 17:59:51] 2025/10/18 17:59:51 go/packages.Load #187
+	view_id="1"
+	snapshot=339
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=10.564653ms
+
+[Info  - 17:59:51] 2025/10/18 17:59:51 go/packages.Load #188
+	view_id="1"
+	snapshot=340
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=18.201017ms
+
+[Info  - 17:59:51] 2025/10/18 17:59:51 go/packages.Load #189
+	view_id="1"
+	snapshot=341
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=18.533421ms
+
+[Info  - 17:59:51] 2025/10/18 17:59:51 go/packages.Load #190
+	view_id="1"
+	snapshot=342
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=19.62201ms
+
+[Info  - 17:59:51] 2025/10/18 17:59:51 go/packages.Load #191
+	view_id="1"
+	snapshot=342
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=36.580023ms
+
+[Info  - 17:59:51] 2025/10/18 17:59:51 go/packages.Load #192
+	view_id="1"
+	snapshot=343
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=17.525869ms
+
+[Info  - 17:59:52] 2025/10/18 17:59:52 go/packages.Load #193
+	view_id="1"
+	snapshot=343
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=36.548339ms
+
+[Info  - 17:59:52] 2025/10/18 17:59:52 go/packages.Load #194
+	view_id="1"
+	snapshot=344
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=9.146614ms
+
+[Error - 17:59:53] 2025/10/18 17:59:53 imports fixes: allImportsFixes: context canceled
+	file="/home/bernio/urbansoul-API/database/database.go"
+
+[Info  - 17:59:53] 2025/10/18 17:59:53 go/packages.Load #196
+	view_id="1"
+	snapshot=345
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=11.192248ms
+
+[Info  - 17:59:53] 2025/10/18 17:59:53 go/packages.Load #197
+	view_id="1"
+	snapshot=346
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=16.349704ms
+
+[Info  - 17:59:53] 2025/10/18 17:59:53 go/packages.Load #198
+	view_id="1"
+	snapshot=347
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=16.645016ms
+
+[Info  - 17:59:53] 2025/10/18 17:59:53 go/packages.Load #199
+	view_id="1"
+	snapshot=347
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=36.357702ms
+
+[Info  - 17:59:56] 2025/10/18 17:59:56 background imports cache refresh starting
+
+[Info  - 17:59:56] 2025/10/18 17:59:56 background refresh finished after 3.541854ms
+
+[Error - 18:00:16] 2025/10/18 18:00:16 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/database/database.go:11:10: missing ',' in argument list (and 7 more errors)
+	file="/home/bernio/urbansoul-API/database/database.go"
+
+[Info  - 18:00:29] 2025/10/18 18:00:29 background imports cache refresh starting
+
+[Info  - 18:00:29] 2025/10/18 18:00:29 background refresh finished after 3.435855ms
+
+[Info  - 18:01:17] 2025/10/18 18:01:17 background imports cache refresh starting
+
+[Info  - 18:01:17] 2025/10/18 18:01:17 background refresh finished after 3.46278ms
+
+[Error - 18:01:50] 2025/10/18 18:01:50 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/database/database.go:9:18: expected type, found ')'
+	file="/home/bernio/urbansoul-API/database/database.go"
+
+[Error - 18:01:51] 2025/10/18 18:01:51 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/database/database.go:9:17: expected type, found ')'
+	file="/home/bernio/urbansoul-API/database/database.go"
+
+[Info  - 18:02:19] 2025/10/18 18:02:19 go/packages.Load #202
+	view_id="1"
+	snapshot=543
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=47.549146ms
+
+[Info  - 18:02:19] 2025/10/18 18:02:19 go/packages.Load #201
+	view_id="1"
+	snapshot=543
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=74.629257ms
+
+[Info  - 18:02:20] 2025/10/18 18:02:20 go/packages.Load #203
+	view_id="1"
+	snapshot=543
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=51.32579ms
+
+[Info  - 18:02:20] 2025/10/18 18:02:20 go/packages.Load #204
+	view_id="1"
+	snapshot=544
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=14.882469ms
+
+[Info  - 18:02:21] 2025/10/18 18:02:21 go/packages.Load #205
+	view_id="1"
+	snapshot=544
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=31.535951ms
+
+[Info  - 18:02:21] 2025/10/18 18:02:21 background imports cache refresh starting
+
+[Info  - 18:02:21] 2025/10/18 18:02:21 background refresh finished after 3.326373ms
+
+[Error - 18:02:53] Request textDocument/hover failed.
+  Message: no package data for import "github.com/lib/pq"
+  Code: 0 
+[Info  - 18:02:57] 2025/10/18 18:02:57 background imports cache refresh starting
+
+[Info  - 18:02:57] 2025/10/18 18:02:57 background refresh finished after 3.694653ms
+
+[Error - 18:03:30] 2025/10/18 18:03:30 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:8:5: expected ';', found database (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Info  - 18:03:57] 2025/10/18 18:03:57 go/packages.Load #207
+	view_id="1"
+	snapshot=630
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=102.675383ms
+
+[Info  - 18:03:57] 2025/10/18 18:03:57 go/packages.Load #208
+	view_id="1"
+	snapshot=630
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=88.74663ms
+
+[Info  - 18:03:59] 2025/10/18 18:03:59 background imports cache refresh starting
+
+[Info  - 18:03:59] 2025/10/18 18:03:59 background refresh finished after 3.320774ms
+
+[Error - 18:04:18] 2025/10/18 18:04:18 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{db ping})
+	position=14:20
+
+[Info  - 18:04:34] 2025/10/18 18:04:34 background imports cache refresh starting
+
+[Info  - 18:04:34] 2025/10/18 18:04:34 background refresh finished after 3.648566ms
+
+[Info  - 18:05:05] 2025/10/18 18:05:05 background imports cache refresh starting
+
+[Info  - 18:05:05] 2025/10/18 18:05:05 background refresh finished after 3.446586ms
+
+[Info  - 18:05:45] 2025/10/18 18:05:45 go/packages.Load #209
+	view_id="1"
+	snapshot=713
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=10.062167ms
+
+[Info  - 18:05:45] 2025/10/18 18:05:45 go/packages.Load #210
+	view_id="1"
+	snapshot=715
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=10.304448ms
+
+[Info  - 18:05:46] 2025/10/18 18:05:46 go/packages.Load #211
+	view_id="1"
+	snapshot=716
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI urbanAPI/database]
+	packages=2
+	duration=50.149151ms
+
+[Error - 18:05:48] Request textDocument/foldingRange failed.
+  Message: context canceled
+  Code: 0 
+[Error - 18:05:51] 2025/10/18 18:05:51 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:3:9: expected '(', found newline (and 2 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:05:54] 2025/10/18 18:05:54 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:3:17: expected '(', found newline (and 2 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:05:55] 2025/10/18 18:05:55 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:3:19: expected '(', found newline (and 2 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:05:56] 2025/10/18 18:05:56 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:3:21: expected '(', found newline (and 2 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:05:58] 2025/10/18 18:05:58 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:3:21: expected '(', found newline (and 2 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 18:06:19] 2025/10/18 18:06:19 background imports cache refresh starting
+
+[Info  - 18:06:19] 2025/10/18 18:06:19 background refresh finished after 3.359058ms
+
+[Error - 18:06:49] 2025/10/18 18:06:49 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:3:14: expected type, found newline
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 18:06:49] 2025/10/18 18:06:49 background imports cache refresh starting
+
+[Info  - 18:06:49] 2025/10/18 18:06:49 background refresh finished after 3.563834ms
+
+[Error - 18:06:51] 2025/10/18 18:06:51 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:3:15: expected type, found newline
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 18:07:21] 2025/10/18 18:07:21 background imports cache refresh starting
+
+[Info  - 18:07:21] 2025/10/18 18:07:21 background refresh finished after 3.698506ms
+
+[Info  - 18:07:51] 2025/10/18 18:07:51 background imports cache refresh starting
+
+[Info  - 18:07:51] 2025/10/18 18:07:51 background refresh finished after 3.757222ms
+
+[Error - 18:07:56] 2025/10/18 18:07:56 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:12:49: missing parameter type
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 18:08:19] 2025/10/18 18:08:19 go/packages.Load #213
+	view_id="1"
+	snapshot=985
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=13.537084ms
+
+[Info  - 18:08:31] 2025/10/18 18:08:31 background imports cache refresh starting
+
+[Info  - 18:08:31] 2025/10/18 18:08:31 background refresh finished after 3.543331ms
+
+[Error - 18:08:47] 2025/10/18 18:08:47 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{data Query})
+	position=18:25
+
+[Info  - 18:09:01] 2025/10/18 18:09:01 background imports cache refresh starting
+
+[Info  - 18:09:01] 2025/10/18 18:09:01 background refresh finished after 3.762818ms
+
+[Error - 18:09:40] 2025/10/18 18:09:40 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:14:49: missing parameter type (and 1 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:09:40] Request textDocument/formatting failed.
+  Message: 14:49: missing parameter type (and 1 more errors)
+  Code: 0 
+[Info  - 18:10:20] 2025/10/18 18:10:20 go/packages.Load #215
+	view_id="1"
+	snapshot=1121
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=50.356963ms
+
+[Info  - 18:10:20] 2025/10/18 18:10:20 go/packages.Load #216
+	view_id="1"
+	snapshot=1121
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=52.026942ms
+
+[Error - 18:10:27] 2025/10/18 18:10:27 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:17:49: missing parameter type (and 1 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:10:27] Request textDocument/formatting failed.
+  Message: 17:49: missing parameter type (and 1 more errors)
+  Code: 0 
+[Error - 18:10:29] 2025/10/18 18:10:29 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:17:49: missing parameter type (and 1 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:10:29] Request textDocument/formatting failed.
+  Message: 17:49: missing parameter type (and 1 more errors)
+  Code: 0 
+[Info  - 18:10:36] 2025/10/18 18:10:36 background imports cache refresh starting
+
+[Info  - 18:10:36] 2025/10/18 18:10:36 background refresh finished after 3.713575ms
+
+[Error - 18:11:18] 2025/10/18 18:11:18 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{rows Err})
+	position=27:20
+
+[Info  - 18:11:40] 2025/10/18 18:11:40 background imports cache refresh starting
+
+[Info  - 18:11:40] 2025/10/18 18:11:40 background refresh finished after 3.938856ms
+
+[Error - 18:12:03] 2025/10/18 18:12:03 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:17:49: missing parameter type (and 1 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:12:03] Request textDocument/formatting failed.
+  Message: 17:49: missing parameter type (and 1 more errors)
+  Code: 0 
+[Error - 18:12:09] 2025/10/18 18:12:09 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:17:49: missing parameter type (and 1 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:12:09] Request textDocument/formatting failed.
+  Message: 17:49: missing parameter type (and 1 more errors)
+  Code: 0 
+[Error - 18:12:10] 2025/10/18 18:12:10 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:17:49: missing parameter type (and 1 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:12:10] Request textDocument/formatting failed.
+  Message: 17:49: missing parameter type (and 1 more errors)
+  Code: 0 
+[Error - 18:12:12] 2025/10/18 18:12:12 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:17:49: missing parameter type (and 1 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:12:12] Request textDocument/formatting failed.
+  Message: 17:49: missing parameter type (and 1 more errors)
+  Code: 0 
+[Error - 18:12:13] 2025/10/18 18:12:13 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:17:49: missing parameter type (and 1 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:12:26] Request textDocument/hover failed.
+  Message: no package data for import "github.com/jmoiron/sqlx"
+  Code: 0 
+[Error - 18:12:35] 2025/10/18 18:12:35 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:17:49: missing parameter type (and 1 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 18:12:36] 2025/10/18 18:12:36 background imports cache refresh starting
+
+[Info  - 18:12:36] 2025/10/18 18:12:36 background refresh finished after 3.420016ms
+
+[Error - 18:12:37] 2025/10/18 18:12:37 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:17:49: missing parameter type (and 1 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:12:38] 2025/10/18 18:12:38 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:17:49: missing parameter type (and 1 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:12:46] 2025/10/18 18:12:46 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:22:73: missing ',' in argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:12:46] Request textDocument/formatting failed.
+  Message: 22:73: missing ',' in argument list
+  Code: 0 
+[Error - 18:12:48] 2025/10/18 18:12:48 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:22:73: missing ',' in argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:12:48] Request textDocument/formatting failed.
+  Message: 22:73: missing ',' in argument list
+  Code: 0 
+[Error - 18:12:54] 2025/10/18 18:12:54 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:22:73: missing ',' in argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:12:54] Request textDocument/formatting failed.
+  Message: 22:73: missing ',' in argument list
+  Code: 0 
+[Error - 18:12:54] 2025/10/18 18:12:54 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:22:73: missing ',' in argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:12:54] Request textDocument/formatting failed.
+  Message: 22:73: missing ',' in argument list
+  Code: 0 
+[Error - 18:12:54] 2025/10/18 18:12:54 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:22:73: missing ',' in argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:12:54] Request textDocument/formatting failed.
+  Message: 22:73: missing ',' in argument list
+  Code: 0 
+[Info  - 18:13:05] 2025/10/18 18:13:05 go/packages.Load #217
+	view_id="1"
+	snapshot=1301
+	directory=/home/bernio/urbansoul-API
+	query=[/home/bernio/urbansoul-API/... builtin]
+	packages=4
+	duration=139.564376ms
+
+[Info  - 18:13:15] 2025/10/18 18:13:15 go/packages.Load #218
+	view_id="1"
+	snapshot=1302
+	directory=/home/bernio/urbansoul-API
+	query=[/home/bernio/urbansoul-API/... builtin]
+	packages=4
+	duration=56.810217ms
+
+[Error - 18:13:16] 2025/10/18 18:13:16 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:22:73: missing ',' in argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:13:16] Request textDocument/formatting failed.
+  Message: 22:73: missing ',' in argument list
+  Code: 0 
+[Error - 18:13:22] 2025/10/18 18:13:22 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:22:73: missing ',' in argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:13:23] 2025/10/18 18:13:23 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:22:73: missing ',' in argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:13:25] 2025/10/18 18:13:25 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:22:73: missing ',' in argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:13:25] 2025/10/18 18:13:25 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{data Query})
+	position=21:72
+
+[Info  - 18:13:55] 2025/10/18 18:13:55 background imports cache refresh starting
+
+[Info  - 18:13:55] 2025/10/18 18:13:55 background refresh finished after 5.956083ms
+
+[Info  - 18:14:30] 2025/10/18 18:14:30 background imports cache refresh starting
+
+[Info  - 18:14:30] 2025/10/18 18:14:30 background refresh finished after 3.694256ms
+
+[Info  - 18:15:02] 2025/10/18 18:15:02 background imports cache refresh starting
+
+[Info  - 18:15:02] 2025/10/18 18:15:02 background refresh finished after 3.528351ms
+
+[Info  - 18:15:33] 2025/10/18 18:15:33 background imports cache refresh starting
+
+[Info  - 18:15:33] 2025/10/18 18:15:33 background refresh finished after 3.667801ms
+
+[Info  - 18:15:57] 2025/10/18 18:15:57 go/packages.Load #219
+	view_id="1"
+	snapshot=1326
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=70.830896ms
+
+[Info  - 18:15:57] 2025/10/18 18:15:57 go/packages.Load #220
+	view_id="1"
+	snapshot=1326
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=82.005863ms
+
+[Info  - 18:16:08] 2025/10/18 18:16:08 go/packages.Load #221
+	view_id="1"
+	snapshot=1340
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=79.328334ms
+
+[Info  - 18:16:08] 2025/10/18 18:16:08 go/packages.Load #222
+	view_id="1"
+	snapshot=1340
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=67.863013ms
+
+[Info  - 18:16:25] 2025/10/18 18:16:25 background imports cache refresh starting
+
+[Info  - 18:16:25] 2025/10/18 18:16:25 background refresh finished after 4.029802ms
+
+[Info  - 18:16:32] 2025/10/18 18:16:32 go/packages.Load #223
+	view_id="1"
+	snapshot=1384
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=82.890499ms
+
+[Info  - 18:16:32] 2025/10/18 18:16:32 go/packages.Load #224
+	view_id="1"
+	snapshot=1384
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=64.757527ms
+
+[Info  - 18:16:37] 2025/10/18 18:16:37 go/packages.Load #225
+	view_id="1"
+	snapshot=1389
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=35.343243ms
+
+[Info  - 18:16:37] 2025/10/18 18:16:37 go/packages.Load #226
+	view_id="1"
+	snapshot=1389
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=40.242554ms
+
+[Info  - 18:16:51] 2025/10/18 18:16:51 go/packages.Load #228
+	view_id="1"
+	snapshot=1398
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=79.68907ms
+
+[Info  - 18:16:51] 2025/10/18 18:16:51 go/packages.Load #229
+	view_id="1"
+	snapshot=1398
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=74.748163ms
+
+[Info  - 18:16:52] 2025/10/18 18:16:52 go/packages.Load #230
+	view_id="1"
+	snapshot=1399
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=78.397641ms
+
+[Info  - 18:16:52] 2025/10/18 18:16:52 go/packages.Load #231
+	view_id="1"
+	snapshot=1399
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=71.845804ms
+
+[Info  - 18:16:54] 2025/10/18 18:16:54 go/packages.Load #233
+	view_id="1"
+	snapshot=1404
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=88.168511ms
+
+[Info  - 18:16:54] 2025/10/18 18:16:54 go/packages.Load #234
+	view_id="1"
+	snapshot=1404
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=76.519764ms
+
+[Info  - 18:17:02] 2025/10/18 18:17:02 background imports cache refresh starting
+
+[Info  - 18:17:02] 2025/10/18 18:17:02 background refresh finished after 3.909668ms
+
+[Info  - 18:17:31] 2025/10/18 18:17:31 go/packages.Load #235
+	view_id="1"
+	snapshot=1450
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=91.60624ms
+
+[Info  - 18:17:31] 2025/10/18 18:17:31 go/packages.Load #236
+	view_id="1"
+	snapshot=1450
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=91.755924ms
+
+[Info  - 18:17:40] 2025/10/18 18:17:40 background imports cache refresh starting
+
+[Info  - 18:17:40] 2025/10/18 18:17:40 background refresh finished after 3.608568ms
+
+[Info  - 18:17:42] 2025/10/18 18:17:42 go/packages.Load #238
+	view_id="1"
+	snapshot=1462
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=87.882807ms
+
+[Info  - 18:17:42] 2025/10/18 18:17:42 go/packages.Load #239
+	view_id="1"
+	snapshot=1462
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/database/database.go]
+	packages=1
+	duration=82.739217ms
+
+[Info  - 18:17:43] 2025/10/18 18:17:43 go/packages.Load #240
+	view_id="1"
+	snapshot=1463
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI/controller]
+	packages=1
+	duration=56.104286ms
+
+[Info  - 18:18:13] 2025/10/18 18:18:13 background imports cache refresh starting
+
+[Info  - 18:18:13] 2025/10/18 18:18:13 background refresh finished after 3.671087ms
+
+[Error - 18:18:51] 2025/10/18 18:18:51 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:24:27: expected operand, found ',' (and 24 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:18:54] 2025/10/18 18:18:54 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:24:27: expected operand, found ',' (and 24 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:18:54] 2025/10/18 18:18:54 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:24:28: expected operand, found ',' (and 24 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:18:55] 2025/10/18 18:18:55 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:24:27: expected operand, found ',' (and 24 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:18:56] 2025/10/18 18:18:56 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:24:28: expected operand, found ',' (and 24 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 18:19:01] 2025/10/18 18:19:01 background imports cache refresh starting
+
+[Info  - 18:19:01] 2025/10/18 18:19:01 background refresh finished after 3.920694ms
+
+[Info  - 18:19:32] 2025/10/18 18:19:32 background imports cache refresh starting
+
+[Info  - 18:19:32] 2025/10/18 18:19:32 background refresh finished after 3.615238ms
+
+[Info  - 18:20:26] 2025/10/18 18:20:26 background imports cache refresh starting
+
+[Info  - 18:20:26] 2025/10/18 18:20:26 background refresh finished after 3.257764ms
+
+[Error - 18:20:46] 2025/10/18 18:20:46 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:24:46: missing ',' in argument list (and 27 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:21:03] 2025/10/18 18:21:03 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:26:13: missing ',' in argument list (and 26 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:21:13] 2025/10/18 18:21:13 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:26:13: missing ',' in argument list (and 26 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 18:22:04] 2025/10/18 18:22:04 background imports cache refresh starting
+
+[Info  - 18:22:04] 2025/10/18 18:22:04 background refresh finished after 3.729096ms
+
+[Info  - 18:22:36] 2025/10/18 18:22:36 background imports cache refresh starting
+
+[Info  - 18:22:36] 2025/10/18 18:22:36 background refresh finished after 3.674032ms
+
+[Info  - 18:23:20] 2025/10/18 18:23:20 background imports cache refresh starting
+
+[Info  - 18:23:20] 2025/10/18 18:23:20 background refresh finished after 3.651192ms
+
+[Info  - 18:24:01] 2025/10/18 18:24:01 background imports cache refresh starting
+
+[Info  - 18:24:01] 2025/10/18 18:24:01 background refresh finished after 3.710785ms
+
+[Info  - 18:24:26] 2025/10/18 18:24:26 go/packages.Load #242
+	view_id="1"
+	snapshot=1592
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=82.11399ms
+
+[Info  - 18:24:26] 2025/10/18 18:24:26 go/packages.Load #243
+	view_id="1"
+	snapshot=1592
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=72.086793ms
+
+[Info  - 18:24:38] 2025/10/18 18:24:38 background imports cache refresh starting
+
+[Info  - 18:24:38] 2025/10/18 18:24:38 background refresh finished after 2.070176ms
+
+[Error - 18:25:15] 2025/10/18 18:25:15 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:7:7: expected ';', found controller (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Info  - 18:25:26] 2025/10/18 18:25:26 go/packages.Load #245
+	view_id="1"
+	snapshot=1629
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=87.389469ms
+
+[Info  - 18:25:26] 2025/10/18 18:25:26 go/packages.Load #246
+	view_id="1"
+	snapshot=1629
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=80.06723ms
+
+[Info  - 18:25:45] 2025/10/18 18:25:45 background imports cache refresh starting
+
+[Info  - 18:25:45] 2025/10/18 18:25:45 background refresh finished after 3.793083ms
+
+[Info  - 18:26:36] 2025/10/18 18:26:36 background imports cache refresh starting
+
+[Info  - 18:26:36] 2025/10/18 18:26:36 background refresh finished after 3.799079ms
+
+[Error - 18:27:15] 2025/10/18 18:27:15 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:20:36: missing ',' in argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 18:27:31] 2025/10/18 18:27:31 background imports cache refresh starting
+
+[Info  - 18:27:31] 2025/10/18 18:27:31 background refresh finished after 3.892504ms
+
+[Info  - 18:28:09] 2025/10/18 18:28:09 background imports cache refresh starting
+
+[Info  - 18:28:09] 2025/10/18 18:28:09 background refresh finished after 3.78977ms
+
+[Info  - 18:28:40] 2025/10/18 18:28:40 background imports cache refresh starting
+
+[Info  - 18:28:40] 2025/10/18 18:28:40 background refresh finished after 3.61555ms
+
+[Info  - 18:29:20] 2025/10/18 18:29:20 background imports cache refresh starting
+
+[Info  - 18:29:20] 2025/10/18 18:29:20 background refresh finished after 3.822406ms
+
+[Info  - 18:30:27] 2025/10/18 18:30:27 background imports cache refresh starting
+
+[Info  - 18:30:27] 2025/10/18 18:30:27 background refresh finished after 2.144522ms
+
+[Info  - 18:30:57] 2025/10/18 18:30:57 background imports cache refresh starting
+
+[Info  - 18:30:57] 2025/10/18 18:30:57 background refresh finished after 3.86129ms
+
+[Error - 18:31:08] 2025/10/18 18:31:08 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:31:23: expected '(', found int
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:31:08] Request textDocument/formatting failed.
+  Message: 31:23: expected '(', found int
+  Code: 0 
+[Error - 18:31:09] 2025/10/18 18:31:09 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:31:23: expected '(', found int
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:31:09] Request textDocument/formatting failed.
+  Message: 31:23: expected '(', found int
+  Code: 0 
+[Error - 18:31:18] 2025/10/18 18:31:18 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:31:23: expected '(', found int (and 1 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:31:18] Request textDocument/formatting failed.
+  Message: 31:23: expected '(', found int
+  Code: 0 
+[Error - 18:31:21] 2025/10/18 18:31:21 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:31:23: expected '(', found int (and 1 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:31:22] 2025/10/18 18:31:22 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:31:21: expected '(', found ')' (and 3 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:31:23] 2025/10/18 18:31:23 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:31:20: expected '(', found ')' (and 3 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:31:24] 2025/10/18 18:31:24 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:31:22: expected declaration, found ')'
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:31:24] Request textDocument/formatting failed.
+  Message: 31:22: expected declaration, found ')'
+  Code: 0 
+[Error - 18:31:24] 2025/10/18 18:31:24 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:31:22: expected declaration, found ')'
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:31:26] 2025/10/18 18:31:26 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:31:38: expected type argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:31:26] Request textDocument/formatting failed.
+  Message: 31:38: expected type argument list
+  Code: 0 
+[Error - 18:31:27] 2025/10/18 18:31:27 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:31:38: expected type argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 18:31:32] 2025/10/18 18:31:32 background imports cache refresh starting
+
+[Info  - 18:31:32] 2025/10/18 18:31:32 background refresh finished after 3.907341ms
+
+[Error - 18:31:35] 2025/10/18 18:31:35 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:31:38: expected type argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:31:38] 2025/10/18 18:31:38 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:31:38: expected type argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:31:38] Request textDocument/formatting failed.
+  Message: 31:38: expected type argument list
+  Code: 0 
+[Error - 18:31:50] 2025/10/18 18:31:50 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:31:38: expected type argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:31:50] Request textDocument/formatting failed.
+  Message: 31:38: expected type argument list
+  Code: 0 
+[Error - 18:32:04] 2025/10/18 18:32:04 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:29:38: expected type argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:32:04] Request textDocument/formatting failed.
+  Message: 29:38: expected type argument list
+  Code: 0 
+[Error - 18:32:07] 2025/10/18 18:32:07 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:29:38: expected type argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:32:07] Request textDocument/formatting failed.
+  Message: 29:38: expected type argument list
+  Code: 0 
+[Error - 18:32:15] 2025/10/18 18:32:15 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:29:38: expected type argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:32:15] Request textDocument/formatting failed.
+  Message: 29:38: expected type argument list
+  Code: 0 
+[Error - 18:32:37] 2025/10/18 18:32:37 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:29:38: expected type argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:32:37] Request textDocument/formatting failed.
+  Message: 29:38: expected type argument list
+  Code: 0 
+[Error - 18:32:42] 2025/10/18 18:32:42 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:29:38: expected type argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:32:42] Request textDocument/formatting failed.
+  Message: 29:38: expected type argument list
+  Code: 0 
+[Error - 18:33:00] 2025/10/18 18:33:00 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:29:38: expected type argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:33:00] Request textDocument/formatting failed.
+  Message: 29:38: expected type argument list
+  Code: 0 
+[Error - 18:33:04] 2025/10/18 18:33:04 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:29:38: expected type argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 18:33:05] 2025/10/18 18:33:05 background imports cache refresh starting
+
+[Info  - 18:33:05] 2025/10/18 18:33:05 background refresh finished after 3.771606ms
+
+[Error - 18:33:08] 2025/10/18 18:33:08 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:29:38: expected type argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:33:12] 2025/10/18 18:33:12 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:29:38: expected type argument list
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 18:33:52] 2025/10/18 18:33:52 background imports cache refresh starting
+
+[Info  - 18:33:52] 2025/10/18 18:33:52 background refresh finished after 3.542294ms
+
+[Info  - 18:40:02] 2025/10/18 18:40:02 background imports cache refresh starting
+
+[Info  - 18:40:02] 2025/10/18 18:40:02 background refresh finished after 3.527303ms
+
+[Info  - 18:41:00] 2025/10/18 18:41:00 background imports cache refresh starting
+
+[Info  - 18:41:00] 2025/10/18 18:41:00 background refresh finished after 3.884083ms
+
+[Info  - 18:41:53] 2025/10/18 18:41:53 background imports cache refresh starting
+
+[Info  - 18:41:53] 2025/10/18 18:41:53 background refresh finished after 2.283842ms
+
+[Info  - 18:43:03] 2025/10/18 18:43:03 background imports cache refresh starting
+
+[Info  - 18:43:03] 2025/10/18 18:43:03 background refresh finished after 3.686068ms
+
+[Error - 18:43:40] 2025/10/18 18:43:40 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:8:2: expected declaration, found Customer
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:43:41] 2025/10/18 18:43:41 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:8:1: expected declaration, found Customer
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:43:44] 2025/10/18 18:43:44 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:8:1: expected declaration, found 'struct'
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:43:48] 2025/10/18 18:43:48 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:8:1: expected declaration, found 'struct'
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 18:43:49] 2025/10/18 18:43:49 background imports cache refresh starting
+
+[Info  - 18:43:49] 2025/10/18 18:43:49 background refresh finished after 3.965022ms
+
+[Error - 18:43:49] 2025/10/18 18:43:49 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:8:1: expected declaration, found 'struct'
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:43:50] 2025/10/18 18:43:50 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:8:1: expected declaration, found 'struct'
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:43:54] 2025/10/18 18:43:54 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:8:1: expected declaration, found Customer
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 18:43:59] 2025/10/18 18:43:59 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:8:2: expected declaration, found Customer
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 18:44:30] 2025/10/18 18:44:30 background imports cache refresh starting
+
+[Info  - 18:44:30] 2025/10/18 18:44:30 background refresh finished after 2.195927ms
+
+[Info  - 18:45:13] 2025/10/18 18:45:13 background imports cache refresh starting
+
+[Info  - 18:45:13] 2025/10/18 18:45:13 background refresh finished after 3.734567ms
+
+[Info  - 18:45:45] 2025/10/18 18:45:45 background imports cache refresh starting
+
+[Info  - 18:45:45] 2025/10/18 18:45:45 background refresh finished after 3.705146ms
+
+[Info  - 18:46:21] 2025/10/18 18:46:21 background imports cache refresh starting
+
+[Info  - 18:46:21] 2025/10/18 18:46:21 background refresh finished after 3.832177ms
+
+[Info  - 18:47:48] 2025/10/18 18:47:48 background imports cache refresh starting
+
+[Info  - 18:47:48] 2025/10/18 18:47:48 background refresh finished after 3.660778ms
+
+[Info  - 18:48:40] 2025/10/18 18:48:40 background imports cache refresh starting
+
+[Info  - 18:48:40] 2025/10/18 18:48:40 background refresh finished after 3.690691ms
+
+[Info  - 18:51:56] 2025/10/18 18:51:56 background imports cache refresh starting
+
+[Info  - 18:51:56] 2025/10/18 18:51:56 background refresh finished after 4.696541ms
+
+[Info  - 18:54:53] 2025/10/18 18:54:53 background imports cache refresh starting
+
+[Info  - 18:54:53] 2025/10/18 18:54:53 background refresh finished after 4.150046ms
+
+[Info  - 18:55:27] 2025/10/18 18:55:27 background imports cache refresh starting
+
+[Info  - 18:55:27] 2025/10/18 18:55:27 background refresh finished after 4.222995ms
+
+[Info  - 18:56:00] 2025/10/18 18:56:00 background imports cache refresh starting
+
+[Info  - 18:56:00] 2025/10/18 18:56:00 background refresh finished after 3.941626ms
+
+[Info  - 18:56:30] 2025/10/18 18:56:30 background imports cache refresh starting
+
+[Info  - 18:56:30] 2025/10/18 18:56:30 background refresh finished after 4.365118ms
+
+[Info  - 18:57:15] 2025/10/18 18:57:15 background imports cache refresh starting
+
+[Info  - 18:57:15] 2025/10/18 18:57:15 background refresh finished after 3.561746ms
+
+[Info  - 18:57:55] 2025/10/18 18:57:55 go/packages.Load #247
+	view_id="1"
+	snapshot=2353
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=74.929095ms
+
+[Error - 18:57:55] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 18:57:55] 2025/10/18 18:57:55 go/packages.Load #249
+	view_id="1"
+	snapshot=2354
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=76.037843ms
+
+[Info  - 18:57:55] 2025/10/18 18:57:55 go/packages.Load #250
+	view_id="1"
+	snapshot=2354
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=68.449885ms
+
+[Info  - 18:57:55] 2025/10/18 18:57:55 go/packages.Load #251
+	view_id="1"
+	snapshot=2355
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=85.184297ms
+
+[Info  - 18:57:55] 2025/10/18 18:57:55 go/packages.Load #252
+	view_id="1"
+	snapshot=2355
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=74.475346ms
+
+[Info  - 18:57:55] 2025/10/18 18:57:55 go/packages.Load #253
+	view_id="1"
+	snapshot=2356
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=76.037866ms
+
+[Info  - 18:57:55] 2025/10/18 18:57:55 go/packages.Load #254
+	view_id="1"
+	snapshot=2356
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=69.389904ms
+
+[Info  - 18:57:55] 2025/10/18 18:57:55 go/packages.Load #255
+	view_id="1"
+	snapshot=2357
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=65.406372ms
+
+[Info  - 18:57:55] 2025/10/18 18:57:55 go/packages.Load #256
+	view_id="1"
+	snapshot=2357
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=61.642667ms
+
+[Info  - 18:57:56] 2025/10/18 18:57:56 go/packages.Load #257
+	view_id="1"
+	snapshot=2358
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=68.442793ms
+
+[Info  - 18:57:56] 2025/10/18 18:57:56 go/packages.Load #258
+	view_id="1"
+	snapshot=2358
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=63.947533ms
+
+[Info  - 18:57:56] 2025/10/18 18:57:56 go/packages.Load #259
+	view_id="1"
+	snapshot=2359
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=66.195609ms
+
+[Info  - 18:57:56] 2025/10/18 18:57:56 go/packages.Load #260
+	view_id="1"
+	snapshot=2359
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=60.76734ms
+
+[Info  - 18:57:56] 2025/10/18 18:57:56 go/packages.Load #261
+	view_id="1"
+	snapshot=2360
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=56.110549ms
+
+[Info  - 18:57:57] 2025/10/18 18:57:57 go/packages.Load #262
+	view_id="1"
+	snapshot=2361
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=127.363544ms
+
+[Info  - 18:57:57] 2025/10/18 18:57:57 go/packages.Load #263
+	view_id="1"
+	snapshot=2361
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=131.366315ms
+
+[Info  - 18:57:57] 2025/10/18 18:57:57 go/packages.Load #265
+	view_id="1"
+	snapshot=2363
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=80.354525ms
+
+[Info  - 18:57:57] 2025/10/18 18:57:57 go/packages.Load #266
+	view_id="1"
+	snapshot=2363
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=56.670607ms
+
+[Info  - 18:57:57] 2025/10/18 18:57:57 go/packages.Load #267
+	view_id="1"
+	snapshot=2364
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=64.529709ms
+
+[Info  - 18:57:57] 2025/10/18 18:57:57 go/packages.Load #268
+	view_id="1"
+	snapshot=2364
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=57.47009ms
+
+[Info  - 18:57:57] 2025/10/18 18:57:57 go/packages.Load #269
+	view_id="1"
+	snapshot=2365
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=66.496669ms
+
+[Info  - 18:57:57] 2025/10/18 18:57:57 go/packages.Load #270
+	view_id="1"
+	snapshot=2365
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=58.118023ms
+
+[Info  - 18:57:58] 2025/10/18 18:57:58 go/packages.Load #271
+	view_id="1"
+	snapshot=2366
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=77.123353ms
+
+[Info  - 18:57:58] 2025/10/18 18:57:58 go/packages.Load #272
+	view_id="1"
+	snapshot=2366
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=57.185068ms
+
+[Info  - 18:58:01] 2025/10/18 18:58:01 go/packages.Load #273
+	view_id="1"
+	snapshot=2367
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=57.944941ms
+
+[Info  - 18:58:01] 2025/10/18 18:58:01 go/packages.Load #274
+	view_id="1"
+	snapshot=2367
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=56.247128ms
+
+[Info  - 18:58:04] 2025/10/18 18:58:04 go/packages.Load #275
+	view_id="1"
+	snapshot=2368
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=64.108358ms
+
+[Error - 18:58:04] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 18:58:04] 2025/10/18 18:58:04 go/packages.Load #277
+	view_id="1"
+	snapshot=2369
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=64.635643ms
+
+[Info  - 18:58:04] 2025/10/18 18:58:04 go/packages.Load #278
+	view_id="1"
+	snapshot=2369
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=61.014838ms
+
+[Info  - 18:58:04] 2025/10/18 18:58:04 go/packages.Load #279
+	view_id="1"
+	snapshot=2370
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=72.902424ms
+
+[Info  - 18:58:04] 2025/10/18 18:58:04 go/packages.Load #280
+	view_id="1"
+	snapshot=2370
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=63.094447ms
+
+[Info  - 18:58:06] 2025/10/18 18:58:06 go/packages.Load #281
+	view_id="1"
+	snapshot=2371
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=81.262774ms
+
+[Info  - 18:58:06] 2025/10/18 18:58:06 go/packages.Load #282
+	view_id="1"
+	snapshot=2371
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=67.924506ms
+
+[Info  - 18:58:06] 2025/10/18 18:58:06 go/packages.Load #283
+	view_id="1"
+	snapshot=2372
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=72.821103ms
+
+[Info  - 18:58:06] 2025/10/18 18:58:06 go/packages.Load #284
+	view_id="1"
+	snapshot=2372
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=71.062069ms
+
+[Info  - 18:58:06] 2025/10/18 18:58:06 go/packages.Load #285
+	view_id="1"
+	snapshot=2373
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=63.540083ms
+
+[Error - 18:58:06] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 18:58:06] 2025/10/18 18:58:06 go/packages.Load #287
+	view_id="1"
+	snapshot=2374
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=64.878626ms
+
+[Info  - 18:58:06] 2025/10/18 18:58:06 go/packages.Load #288
+	view_id="1"
+	snapshot=2374
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=96.303736ms
+
+[Info  - 18:58:07] 2025/10/18 18:58:07 go/packages.Load #289
+	view_id="1"
+	snapshot=2375
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=63.677068ms
+
+[Info  - 18:58:07] 2025/10/18 18:58:07 go/packages.Load #290
+	view_id="1"
+	snapshot=2375
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=55.192069ms
+
+[Info  - 18:58:07] 2025/10/18 18:58:07 go/packages.Load #291
+	view_id="1"
+	snapshot=2376
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=59.623691ms
+
+[Info  - 18:58:07] 2025/10/18 18:58:07 go/packages.Load #292
+	view_id="1"
+	snapshot=2376
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=54.883637ms
+
+[Info  - 18:58:07] 2025/10/18 18:58:07 go/packages.Load #293
+	view_id="1"
+	snapshot=2377
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=60.477323ms
+
+[Info  - 18:58:07] 2025/10/18 18:58:07 go/packages.Load #294
+	view_id="1"
+	snapshot=2377
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=55.199215ms
+
+[Info  - 18:58:07] 2025/10/18 18:58:07 go/packages.Load #295
+	view_id="1"
+	snapshot=2378
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=61.254588ms
+
+[Info  - 18:58:08] 2025/10/18 18:58:08 go/packages.Load #299
+	view_id="1"
+	snapshot=2381
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=95.95263ms
+
+[Info  - 18:58:08] 2025/10/18 18:58:08 go/packages.Load #298
+	view_id="1"
+	snapshot=2381
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=103.79687ms
+
+[Info  - 18:58:09] 2025/10/18 18:58:09 go/packages.Load #300
+	view_id="1"
+	snapshot=2384
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=70.252945ms
+
+[Info  - 18:58:09] 2025/10/18 18:58:09 go/packages.Load #301
+	view_id="1"
+	snapshot=2384
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=58.987202ms
+
+[Info  - 18:58:24] 2025/10/18 18:58:24 background imports cache refresh starting
+
+[Info  - 18:58:24] 2025/10/18 18:58:24 background refresh finished after 4.122942ms
+
+[Error - 18:58:48] 2025/10/18 18:58:48 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{mux NewRouter})
+	position=10:24
+
+[Info  - 18:59:06] 2025/10/18 18:59:06 go/packages.Load #302
+	view_id="1"
+	snapshot=2420
+	directory=/home/bernio/urbansoul-API
+	query=[/home/bernio/urbansoul-API/... builtin]
+	packages=4
+	duration=96.509155ms
+
+[Info  - 18:59:08] 2025/10/18 18:59:08 background imports cache refresh starting
+
+[Info  - 18:59:08] 2025/10/18 18:59:08 background refresh finished after 4.125629ms
+
+[Info  - 18:59:39] 2025/10/18 18:59:39 background imports cache refresh starting
+
+[Info  - 18:59:39] 2025/10/18 18:59:39 background refresh finished after 4.667638ms
+
+[Error - 18:59:58] 2025/10/18 18:59:58 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:14:27: expected operand, found ')' (and 5 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 18:59:58] 2025/10/18 18:59:58 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:14:28: expected operand, found ')' (and 5 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Info  - 19:00:21] 2025/10/18 19:00:21 background imports cache refresh starting
+
+[Info  - 19:00:21] 2025/10/18 19:00:21 background refresh finished after 4.253693ms
+
+[Info  - 19:00:52] 2025/10/18 19:00:52 background imports cache refresh starting
+
+[Info  - 19:00:52] 2025/10/18 19:00:52 background refresh finished after 4.068992ms
+
+[Error - 19:01:24] 2025/10/18 19:01:24 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:17:26: missing ',' in parameter list (and 1 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 19:01:26] 2025/10/18 19:01:26 background imports cache refresh starting
+
+[Info  - 19:01:26] 2025/10/18 19:01:26 background refresh finished after 4.540873ms
+
+[Info  - 19:01:32] 2025/10/18 19:01:32 go/packages.Load #304
+	view_id="1"
+	snapshot=2532
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=89.914523ms
+
+[Info  - 19:01:32] 2025/10/18 19:01:32 go/packages.Load #305
+	view_id="1"
+	snapshot=2532
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=69.77036ms
+
+[Info  - 19:01:34] 2025/10/18 19:01:34 go/packages.Load #306
+	view_id="1"
+	snapshot=2534
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=58.604602ms
+
+[Info  - 19:02:08] 2025/10/18 19:02:08 background imports cache refresh starting
+
+[Info  - 19:02:08] 2025/10/18 19:02:08 background refresh finished after 4.053878ms
+
+[Info  - 19:02:30] 2025/10/18 19:02:30 go/packages.Load #307
+	view_id="1"
+	snapshot=2576
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/models/customer.go]
+	packages=1
+	duration=9.986891ms
+
+[Info  - 19:02:30] 2025/10/18 19:02:30 go/packages.Load #308
+	view_id="1"
+	snapshot=2578
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/models/customer.go]
+	packages=1
+	duration=11.426924ms
+
+[Error - 19:02:35] 2025/10/18 19:02:35 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/models/customer.go:3:7: expected type, found newline
+	file="/home/bernio/urbansoul-API/models/customer.go"
+
+[Error - 19:02:38] 2025/10/18 19:02:38 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/models/customer.go:3:5: expected ';', found 'EOF' (and 2 more errors)
+	file="/home/bernio/urbansoul-API/models/customer.go"
+
+[Error - 19:02:41] 2025/10/18 19:02:41 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/models/customer.go:3:9: expected type, found newline
+	file="/home/bernio/urbansoul-API/models/customer.go"
+
+[Error - 19:02:43] 2025/10/18 19:02:43 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/models/customer.go:3:21: expected type, found newline
+	file="/home/bernio/urbansoul-API/models/customer.go"
+
+[Info  - 19:02:43] 2025/10/18 19:02:43 background imports cache refresh starting
+
+[Info  - 19:02:43] 2025/10/18 19:02:43 background refresh finished after 4.326024ms
+
+[Error - 19:02:44] 2025/10/18 19:02:44 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/models/customer.go:3:19: expected type, found newline
+	file="/home/bernio/urbansoul-API/models/customer.go"
+
+[Error - 19:02:45] 2025/10/18 19:02:45 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/models/customer.go:3:21: expected type, found newline
+	file="/home/bernio/urbansoul-API/models/customer.go"
+
+[Error - 19:02:45] 2025/10/18 19:02:45 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/models/customer.go:3:21: expected type, found newline
+	file="/home/bernio/urbansoul-API/models/customer.go"
+
+[Error - 19:02:47] 2025/10/18 19:02:47 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/models/customer.go:3:26: expected type, found newline
+	file="/home/bernio/urbansoul-API/models/customer.go"
+
+[Error - 19:02:56] 2025/10/18 19:02:56 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/models/customer.go:3:29: expected ';', found 'EOF' (and 2 more errors)
+	file="/home/bernio/urbansoul-API/models/customer.go"
+
+[Info  - 19:03:20] 2025/10/18 19:03:20 background imports cache refresh starting
+
+[Info  - 19:03:20] 2025/10/18 19:03:20 background refresh finished after 4.220669ms
+
+[Info  - 19:03:31] 2025/10/18 19:03:31 go/packages.Load #310
+	view_id="1"
+	snapshot=2668
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=79.937861ms
+
+[Info  - 19:03:31] 2025/10/18 19:03:31 go/packages.Load #311
+	view_id="1"
+	snapshot=2668
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=72.610671ms
+
+[Info  - 19:03:32] 2025/10/18 19:03:32 go/packages.Load #312
+	view_id="1"
+	snapshot=2670
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=62.947016ms
+
+[Info  - 19:03:40] 2025/10/18 19:03:40 go/packages.Load #314
+	view_id="1"
+	snapshot=2684
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=79.442169ms
+
+[Info  - 19:03:40] 2025/10/18 19:03:40 go/packages.Load #315
+	view_id="1"
+	snapshot=2684
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=76.32983ms
+
+[Info  - 19:03:40] 2025/10/18 19:03:40 go/packages.Load #316
+	view_id="1"
+	snapshot=2684
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=59.380661ms
+
+[Info  - 19:03:46] 2025/10/18 19:03:46 go/packages.Load #318
+	view_id="1"
+	snapshot=2698
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=91.072134ms
+
+[Info  - 19:03:46] 2025/10/18 19:03:46 go/packages.Load #319
+	view_id="1"
+	snapshot=2698
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=86.134991ms
+
+[Info  - 19:03:47] 2025/10/18 19:03:47 go/packages.Load #320
+	view_id="1"
+	snapshot=2698
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=55.409564ms
+
+[Info  - 19:03:56] 2025/10/18 19:03:56 background imports cache refresh starting
+
+[Info  - 19:03:56] 2025/10/18 19:03:56 background refresh finished after 4.286886ms
+
+[Info  - 19:04:30] 2025/10/18 19:04:30 background imports cache refresh starting
+
+[Info  - 19:04:30] 2025/10/18 19:04:30 background refresh finished after 4.007221ms
+
+[Error - 19:04:49] 2025/10/18 19:04:49 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:27:25: expected operand, found ')' (and 15 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 19:04:51] 2025/10/18 19:04:51 go/packages.Load #322
+	view_id="1"
+	snapshot=2753
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=86.975042ms
+
+[Info  - 19:04:51] 2025/10/18 19:04:51 go/packages.Load #323
+	view_id="1"
+	snapshot=2753
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=96.553024ms
+
+[Info  - 19:04:53] 2025/10/18 19:04:53 go/packages.Load #324
+	view_id="1"
+	snapshot=2758
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=62.201476ms
+
+[Info  - 19:05:01] 2025/10/18 19:05:01 background imports cache refresh starting
+
+[Info  - 19:05:01] 2025/10/18 19:05:01 background refresh finished after 4.187719ms
+
+[Error - 19:05:28] 2025/10/18 19:05:28 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:29:20: expected operand, found ')' (and 16 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 19:05:28] 2025/10/18 19:05:28 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:29:20: expected operand, found ')' (and 16 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 19:05:32] 2025/10/18 19:05:32 background imports cache refresh starting
+
+[Info  - 19:05:32] 2025/10/18 19:05:32 background refresh finished after 4.424071ms
+
+[Info  - 19:06:03] 2025/10/18 19:06:03 background imports cache refresh starting
+
+[Info  - 19:06:03] 2025/10/18 19:06:03 background refresh finished after 4.456801ms
+
+[Info  - 19:06:35] 2025/10/18 19:06:35 background imports cache refresh starting
+
+[Info  - 19:06:35] 2025/10/18 19:06:35 background refresh finished after 3.817209ms
+
+[Info  - 19:07:12] 2025/10/18 19:07:12 background imports cache refresh starting
+
+[Info  - 19:07:12] 2025/10/18 19:07:12 background refresh finished after 4.346928ms
+
+[Info  - 19:12:16] 2025/10/18 19:12:16 go/packages.Load #326
+	view_id="1"
+	snapshot=2857
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=90.35939ms
+
+[Info  - 19:12:16] 2025/10/18 19:12:16 go/packages.Load #327
+	view_id="1"
+	snapshot=2857
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=90.616054ms
+
+[Info  - 19:12:25] 2025/10/18 19:12:25 background imports cache refresh starting
+
+[Info  - 19:12:25] 2025/10/18 19:12:25 background refresh finished after 4.467686ms
+
+[Info  - 19:13:29] 2025/10/18 19:13:29 background imports cache refresh starting
+
+[Info  - 19:13:29] 2025/10/18 19:13:29 background refresh finished after 4.493834ms
+
+[Info  - 19:14:57] 2025/10/18 19:14:57 background imports cache refresh starting
+
+[Info  - 19:14:57] 2025/10/18 19:14:57 background refresh finished after 4.094137ms
+
+[Info  - 19:15:33] 2025/10/18 19:15:33 background imports cache refresh starting
+
+[Info  - 19:15:33] 2025/10/18 19:15:33 background refresh finished after 3.884341ms
+
+[Info  - 19:17:28] 2025/10/18 19:17:28 go/packages.Load #328
+	view_id="1"
+	snapshot=3034
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=78.015856ms
+
+[Info  - 19:17:28] 2025/10/18 19:17:28 go/packages.Load #329
+	view_id="1"
+	snapshot=3034
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=71.336709ms
+
+[Info  - 19:17:28] 2025/10/18 19:17:28 go/packages.Load #330
+	view_id="1"
+	snapshot=3035
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=45.49494ms
+
+[Info  - 19:17:28] 2025/10/18 19:17:28 go/packages.Load #331
+	view_id="1"
+	snapshot=3035
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=37.634371ms
+
+[Info  - 19:17:29] 2025/10/18 19:17:29 go/packages.Load #332
+	view_id="1"
+	snapshot=3036
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=83.140151ms
+
+[Info  - 19:17:29] 2025/10/18 19:17:29 go/packages.Load #333
+	view_id="1"
+	snapshot=3036
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=72.0015ms
+
+[Info  - 19:17:29] 2025/10/18 19:17:29 go/packages.Load #334
+	view_id="1"
+	snapshot=3037
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=74.190157ms
+
+[Error - 19:17:29] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 19:17:29] 2025/10/18 19:17:29 go/packages.Load #336
+	view_id="1"
+	snapshot=3038
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=73.757164ms
+
+[Info  - 19:17:29] 2025/10/18 19:17:29 go/packages.Load #337
+	view_id="1"
+	snapshot=3038
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=74.69386ms
+
+[Info  - 19:17:29] 2025/10/18 19:17:29 go/packages.Load #338
+	view_id="1"
+	snapshot=3039
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=74.647758ms
+
+[Info  - 19:17:29] 2025/10/18 19:17:29 go/packages.Load #339
+	view_id="1"
+	snapshot=3039
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=67.901462ms
+
+[Info  - 19:17:29] 2025/10/18 19:17:29 go/packages.Load #340
+	view_id="1"
+	snapshot=3040
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=68.441715ms
+
+[Info  - 19:17:29] 2025/10/18 19:17:29 go/packages.Load #341
+	view_id="1"
+	snapshot=3040
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=63.637154ms
+
+[Info  - 19:17:29] 2025/10/18 19:17:29 go/packages.Load #342
+	view_id="1"
+	snapshot=3041
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=71.056394ms
+
+[Error - 19:17:29] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 19:17:29] 2025/10/18 19:17:29 go/packages.Load #344
+	view_id="1"
+	snapshot=3042
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=69.866774ms
+
+[Info  - 19:17:29] 2025/10/18 19:17:29 go/packages.Load #345
+	view_id="1"
+	snapshot=3042
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=62.716454ms
+
+[Info  - 19:17:30] 2025/10/18 19:17:30 go/packages.Load #346
+	view_id="1"
+	snapshot=3043
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=64.643262ms
+
+[Info  - 19:17:30] 2025/10/18 19:17:30 go/packages.Load #347
+	view_id="1"
+	snapshot=3043
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=60.594448ms
+
+[Info  - 19:17:31] 2025/10/18 19:17:31 go/packages.Load #349
+	view_id="1"
+	snapshot=3044
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=82.17187ms
+
+[Info  - 19:17:31] 2025/10/18 19:17:31 go/packages.Load #348
+	view_id="1"
+	snapshot=3044
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=84.089848ms
+
+[Info  - 19:17:31] 2025/10/18 19:17:31 go/packages.Load #350
+	view_id="1"
+	snapshot=3045
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=84.547905ms
+
+[Error - 19:17:31] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 19:17:31] 2025/10/18 19:17:31 go/packages.Load #352
+	view_id="1"
+	snapshot=3046
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=69.38559ms
+
+[Info  - 19:17:31] 2025/10/18 19:17:31 go/packages.Load #353
+	view_id="1"
+	snapshot=3046
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=62.24147ms
+
+[Info  - 19:17:31] 2025/10/18 19:17:31 go/packages.Load #354
+	view_id="1"
+	snapshot=3047
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=85.040985ms
+
+[Info  - 19:17:31] 2025/10/18 19:17:31 go/packages.Load #355
+	view_id="1"
+	snapshot=3047
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=81.065274ms
+
+[Info  - 19:17:32] 2025/10/18 19:17:32 go/packages.Load #356
+	view_id="1"
+	snapshot=3048
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=72.181759ms
+
+[Info  - 19:17:32] 2025/10/18 19:17:32 go/packages.Load #357
+	view_id="1"
+	snapshot=3048
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=63.265791ms
+
+[Info  - 19:17:32] 2025/10/18 19:17:32 go/packages.Load #358
+	view_id="1"
+	snapshot=3049
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=96.702276ms
+
+[Info  - 19:17:32] 2025/10/18 19:17:32 go/packages.Load #359
+	view_id="1"
+	snapshot=3049
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=74.802157ms
+
+[Info  - 19:17:32] 2025/10/18 19:17:32 go/packages.Load #360
+	view_id="1"
+	snapshot=3050
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=79.284831ms
+
+[Info  - 19:17:32] 2025/10/18 19:17:32 go/packages.Load #361
+	view_id="1"
+	snapshot=3050
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=63.436926ms
+
+[Info  - 19:17:33] 2025/10/18 19:17:33 go/packages.Load #362
+	view_id="1"
+	snapshot=3051
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=63.885461ms
+
+[Info  - 19:17:33] 2025/10/18 19:17:33 go/packages.Load #363
+	view_id="1"
+	snapshot=3051
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=63.137819ms
+
+[Info  - 19:17:34] 2025/10/18 19:17:34 go/packages.Load #364
+	view_id="1"
+	snapshot=3052
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=69.339976ms
+
+[Error - 19:17:34] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 19:17:34] 2025/10/18 19:17:34 go/packages.Load #366
+	view_id="1"
+	snapshot=3053
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=61.972753ms
+
+[Error - 19:17:34] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 19:17:34] 2025/10/18 19:17:34 go/packages.Load #368
+	view_id="1"
+	snapshot=3054
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=64.909708ms
+
+[Info  - 19:17:34] 2025/10/18 19:17:34 go/packages.Load #369
+	view_id="1"
+	snapshot=3054
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=62.501416ms
+
+[Info  - 19:17:34] 2025/10/18 19:17:34 go/packages.Load #370
+	view_id="1"
+	snapshot=3055
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=77.391615ms
+
+[Info  - 19:17:34] 2025/10/18 19:17:34 go/packages.Load #371
+	view_id="1"
+	snapshot=3055
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=79.222198ms
+
+[Error - 19:17:34] 2025/10/18 19:17:34 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:9:1: expected declaration, found corsOpt
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:17:34] Request textDocument/formatting failed.
+  Message: 9:1: expected declaration, found corsOpt
+  Code: 0 
+[Error - 19:17:35] 2025/10/18 19:17:35 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:9:1: expected declaration, found corsOpt
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:17:37] 2025/10/18 19:17:37 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:9:1: expected declaration, found corsOpt
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:17:39] 2025/10/18 19:17:39 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:9:1: expected declaration, found corsOpt
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:17:40] 2025/10/18 19:17:40 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:9:1: expected declaration, found corsOpt
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:17:43] 2025/10/18 19:17:43 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:9:1: expected declaration, found corsOpt
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:17:56] 2025/10/18 19:17:56 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:9:1: expected declaration, found corsOpt
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:11] 2025/10/18 19:18:11 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:12:27: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:11] Request textDocument/formatting failed.
+  Message: 12:27: missing ',' before newline in composite literal (and 1 more errors)
+  Code: 0 
+[Error - 19:18:17] 2025/10/18 19:18:17 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:12:28: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:17] Request textDocument/formatting failed.
+  Message: 12:28: missing ',' before newline in composite literal (and 1 more errors)
+  Code: 0 
+[Error - 19:18:18] 2025/10/18 19:18:18 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:12:28: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:21] 2025/10/18 19:18:21 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:12:30: expected operand, found '}' (and 9 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:26] 2025/10/18 19:18:26 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:12:33: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:29] 2025/10/18 19:18:29 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:13:5: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:30] 2025/10/18 19:18:30 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:13:9: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:32] 2025/10/18 19:18:32 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:13:11: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:32] 2025/10/18 19:18:32 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:13:13: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:34] 2025/10/18 19:18:34 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:13:16: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:34] 2025/10/18 19:18:34 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:13:17: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:35] 2025/10/18 19:18:35 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:13:18: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:41] 2025/10/18 19:18:41 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:13:28: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:46] 2025/10/18 19:18:46 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:14:8: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Info  - 19:18:46] 2025/10/18 19:18:46 go/packages.Load #373
+	view_id="1"
+	snapshot=3116
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=83.68125ms
+
+[Info  - 19:18:46] 2025/10/18 19:18:46 go/packages.Load #374
+	view_id="1"
+	snapshot=3116
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=74.124673ms
+
+[Error - 19:18:48] 2025/10/18 19:18:48 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:16:13: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:50] 2025/10/18 19:18:50 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:16:16: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:51] 2025/10/18 19:18:51 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:16:19: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:54] 2025/10/18 19:18:54 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:17:9: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:55] 2025/10/18 19:18:55 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:17:11: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Info  - 19:18:59] 2025/10/18 19:18:59 background imports cache refresh starting
+
+[Info  - 19:18:59] 2025/10/18 19:18:59 background refresh finished after 4.129664ms
+
+[Error - 19:18:59] 2025/10/18 19:18:59 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:17:12: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:18:59] 2025/10/18 19:18:59 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:17:12: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:00] 2025/10/18 19:19:00 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:17:13: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:04] 2025/10/18 19:19:04 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:17:20: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:06] 2025/10/18 19:19:06 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:18:7: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:07] 2025/10/18 19:19:07 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:18:9: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:08] 2025/10/18 19:19:08 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:18:13: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:12] 2025/10/18 19:19:12 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:18:19: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:14] 2025/10/18 19:19:14 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:19:9: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:14] 2025/10/18 19:19:14 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:19:10: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:15] 2025/10/18 19:19:15 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:19:9: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:18] 2025/10/18 19:19:18 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:19:12: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:20] 2025/10/18 19:19:20 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:19:21: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:23] 2025/10/18 19:19:23 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:20:10: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:24] 2025/10/18 19:19:24 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:20:9: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:25] 2025/10/18 19:19:25 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:20:11: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:32] 2025/10/18 19:19:32 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:20:22: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:35] 2025/10/18 19:19:35 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:21:9: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Info  - 19:19:36] 2025/10/18 19:19:36 background imports cache refresh starting
+
+[Info  - 19:19:36] 2025/10/18 19:19:36 background refresh finished after 4.430829ms
+
+[Error - 19:19:37] 2025/10/18 19:19:37 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:21:12: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:40] 2025/10/18 19:19:40 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:21:23: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:43] 2025/10/18 19:19:43 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:22:9: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:44] 2025/10/18 19:19:44 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:22:11: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:45] 2025/10/18 19:19:45 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:22:12: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:47] 2025/10/18 19:19:47 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:22:20: missing ',' before newline in composite literal (and 2 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:48] 2025/10/18 19:19:48 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:23:5: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:52] 2025/10/18 19:19:52 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:24:9: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:53] 2025/10/18 19:19:53 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:24:11: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:55] 2025/10/18 19:19:55 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:24:18: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:19:58] 2025/10/18 19:19:58 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:24:26: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:20:02] 2025/10/18 19:20:02 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:24:28: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:20:05] 2025/10/18 19:20:05 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:24:33: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:20:05] Request textDocument/formatting failed.
+  Message: 24:33: missing ',' before newline in composite literal (and 1 more errors)
+  Code: 0 
+[Error - 19:20:08] 2025/10/18 19:20:08 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:24:33: missing ',' before newline in composite literal (and 1 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:20:09] 2025/10/18 19:20:09 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:25:4: missing ',' before newline in argument list
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:20:09] 2025/10/18 19:20:09 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{cors New})
+	position=24:4
+
+[Info  - 19:20:12] 2025/10/18 19:20:12 background imports cache refresh starting
+
+[Info  - 19:20:12] 2025/10/18 19:20:12 background refresh finished after 4.33903ms
+
+[Info  - 19:20:43] 2025/10/18 19:20:43 background imports cache refresh starting
+
+[Info  - 19:20:43] 2025/10/18 19:20:43 background refresh finished after 4.394105ms
+
+[Info  - 19:21:45] 2025/10/18 19:21:45 background imports cache refresh starting
+
+[Info  - 19:21:45] 2025/10/18 19:21:45 background refresh finished after 4.383838ms
+
+[Error - 19:22:18] 2025/10/18 19:22:18 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{corsOpt Handler})
+	position=35:46
+
+[Info  - 19:22:33] 2025/10/18 19:22:33 background imports cache refresh starting
+
+[Info  - 19:22:33] 2025/10/18 19:22:33 background refresh finished after 4.266923ms
+
+[Info  - 19:22:38] 2025/10/18 19:22:38 go/packages.Load #375
+	view_id="1"
+	snapshot=3328
+	directory=/home/bernio/urbansoul-API
+	query=[/home/bernio/urbansoul-API/... builtin]
+	packages=5
+	duration=67.843051ms
+
+[Info  - 19:23:45] 2025/10/18 19:23:45 background imports cache refresh starting
+
+[Info  - 19:23:45] 2025/10/18 19:23:45 background refresh finished after 6.116889ms
+
+[Info  - 19:25:22] 2025/10/18 19:25:22 background imports cache refresh starting
+
+[Info  - 19:25:22] 2025/10/18 19:25:22 background refresh finished after 4.054941ms
+
+[Info  - 19:32:34] 2025/10/18 19:32:34 go/packages.Load #376
+	view_id="1"
+	snapshot=3339
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=93.184947ms
+
+[Info  - 19:32:34] 2025/10/18 19:32:34 go/packages.Load #377
+	view_id="1"
+	snapshot=3339
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=82.261713ms
+
+[Info  - 19:43:17] 2025/10/18 19:43:17 background imports cache refresh starting
+
+[Info  - 19:43:17] 2025/10/18 19:43:17 background refresh finished after 4.701776ms
+
+[Error - 19:43:47] 2025/10/18 19:43:47 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:13:56: expected ';', found `
+	Last_name   string  ` (and 4 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 19:43:48] 2025/10/18 19:43:48 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:13:56: expected ';', found `
+	Last_name   string  ` (and 4 more errors)
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 19:43:54] 2025/10/18 19:43:54 background imports cache refresh starting
+
+[Info  - 19:43:54] 2025/10/18 19:43:54 background refresh finished after 4.278743ms
+
+[Info  - 19:44:28] 2025/10/18 19:44:28 background imports cache refresh starting
+
+[Info  - 19:44:28] 2025/10/18 19:44:28 background refresh finished after 4.477826ms
+
+[Error - 19:45:48] 2025/10/18 19:45:48 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:34:1: expected statement, found ','
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 19:45:49] 2025/10/18 19:45:49 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:35:1: expected statement, found ','
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 19:45:50] 2025/10/18 19:45:50 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:35:1: expected statement, found ','
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Error - 19:45:52] 2025/10/18 19:45:52 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/controller/customers.go:35:2: expected statement, found ','
+	file="/home/bernio/urbansoul-API/controller/customers.go"
+
+[Info  - 19:46:06] 2025/10/18 19:46:06 background imports cache refresh starting
+
+[Info  - 19:46:06] 2025/10/18 19:46:06 background refresh finished after 2.208496ms
+
+[Info  - 19:46:38] 2025/10/18 19:46:38 background imports cache refresh starting
+
+[Info  - 19:46:38] 2025/10/18 19:46:38 background refresh finished after 4.284701ms
+
+[Info  - 19:47:47] 2025/10/18 19:47:47 background imports cache refresh starting
+
+[Info  - 19:47:47] 2025/10/18 19:47:47 background refresh finished after 4.195587ms
+
+[Error - 19:53:20] Request textDocument/codeAction failed.
+  Message: context canceled
+  Code: 0 
+[Info  - 19:54:36] 2025/10/18 19:54:36 background imports cache refresh starting
+
+[Info  - 19:54:36] 2025/10/18 19:54:36 background refresh finished after 4.245635ms
+
+[Info  - 19:57:35] 2025/10/18 19:57:35 background imports cache refresh starting
+
+[Info  - 19:57:35] 2025/10/18 19:57:35 background refresh finished after 4.472275ms
+
+[Error - 19:58:05] 2025/10/18 19:58:05 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:40:2: missing ',' before newline in argument list (and 4 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:58:06] 2025/10/18 19:58:06 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:32:4: expected operand, found '.' (and 3 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Error - 19:58:07] 2025/10/18 19:58:07 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:32:4: expected operand, found '.' (and 3 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Info  - 19:58:32] 2025/10/18 19:58:32 background imports cache refresh starting
+
+[Info  - 19:58:32] 2025/10/18 19:58:32 background refresh finished after 4.371651ms
+
+[Error - 19:59:18] 2025/10/18 19:59:18 imports fixes: allImportsFixes: /home/bernio/urbansoul-API/main.go:32:16: missing ',' in argument list (and 6 more errors)
+	file="/home/bernio/urbansoul-API/main.go"
+
+[Info  - 19:59:50] 2025/10/18 19:59:50 background imports cache refresh starting
+
+[Info  - 19:59:50] 2025/10/18 19:59:50 background refresh finished after 4.509821ms
+
+[Info  - 20:00:31] 2025/10/18 20:00:31 background imports cache refresh starting
+
+[Info  - 20:00:31] 2025/10/18 20:00:31 background refresh finished after 4.319444ms
+
+[Info  - 20:09:06] 2025/10/18 20:09:06 go/packages.Load #378
+	view_id="1"
+	snapshot=3546
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=82.459346ms
+
+[Info  - 20:09:06] 2025/10/18 20:09:06 go/packages.Load #379
+	view_id="1"
+	snapshot=3546
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=84.745519ms
+
+[Error - 20:09:17] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 20:09:17] 2025/10/18 20:09:17 go/packages.Load #384
+	view_id="1"
+	snapshot=3556
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=126.355404ms
+
+[Info  - 20:09:17] 2025/10/18 20:09:17 go/packages.Load #383
+	view_id="1"
+	snapshot=3556
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=130.557636ms
+
+[Info  - 20:09:36] 2025/10/18 20:09:36 background imports cache refresh starting
+
+[Info  - 20:09:36] 2025/10/18 20:09:36 background refresh finished after 4.739974ms
+
+[Info  - 20:10:10] 2025/10/18 20:10:10 go/packages.Load #385
+	view_id="1"
+	snapshot=3559
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=90.631942ms
+
+[Info  - 20:10:10] 2025/10/18 20:10:10 go/packages.Load #386
+	view_id="1"
+	snapshot=3559
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=79.371898ms
+
+[Info  - 20:10:12] 2025/10/18 20:10:12 go/packages.Load #387
+	view_id="1"
+	snapshot=3564
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=94.606944ms
+
+[Info  - 20:10:12] 2025/10/18 20:10:12 go/packages.Load #388
+	view_id="1"
+	snapshot=3564
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/main.go]
+	packages=1
+	duration=91.59085ms
+
+[Info  - 20:10:41] 2025/10/18 20:10:41 background imports cache refresh starting
+
+[Info  - 20:10:41] 2025/10/18 20:10:41 background refresh finished after 4.521559ms
+
+[Info  - 20:12:43] 2025/10/18 20:12:43 background imports cache refresh starting
+
+[Info  - 20:12:43] 2025/10/18 20:12:43 background refresh finished after 4.427599ms
+
+[Info  - 20:14:29] 2025/10/18 20:14:29 background imports cache refresh starting
+
+[Info  - 20:14:29] 2025/10/18 20:14:29 background refresh finished after 4.330467ms
+

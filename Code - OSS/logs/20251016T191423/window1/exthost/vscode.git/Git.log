@@ -1,0 +1,31 @@
+2025-10-16 19:14:26.181 [info] [main] Log level: Info
+2025-10-16 19:14:26.181 [info] [main] Validating found git in: "git"
+2025-10-16 19:14:26.181 [info] [main] Using git "2.51.0" from "git"
+2025-10-16 19:14:26.181 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-16 19:14:26.181 [info] > git rev-parse --show-toplevel [8ms]
+2025-10-16 19:14:26.181 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [5ms]
+2025-10-16 19:14:26.181 [info] [Model][openRepository] Opened repository (path): /home/bernio/urbansoul-app
+2025-10-16 19:14:26.181 [info] [Model][openRepository] Opened repository (real path): /home/bernio/urbansoul-app
+2025-10-16 19:14:26.181 [info] [Model][openRepository] Opened repository (kind): repository
+2025-10-16 19:14:26.181 [info] > git rev-parse --show-toplevel [8ms]
+2025-10-16 19:14:26.181 [info] > git config --get commit.template [15ms]
+2025-10-16 19:14:26.181 [info] > git rev-parse --show-toplevel [11ms]
+2025-10-16 19:14:26.181 [info] > git rev-parse --show-toplevel [5ms]
+2025-10-16 19:14:26.181 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-10-16 19:14:26.181 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [27ms]
+2025-10-16 19:14:26.181 [info] > git status -z -uall [33ms]
+2025-10-16 19:14:26.182 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [19ms]
+2025-10-16 19:14:26.190 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2025-10-16 19:14:26.424 [info] > git config --get --local branch.master.vscode-merge-base [226ms]
+2025-10-16 19:14:26.436 [info] > git config --get commit.template [246ms]
+2025-10-16 19:14:26.478 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [43ms]
+2025-10-16 19:14:26.508 [info] > git merge-base refs/heads/master refs/remotes/origin/master [19ms]
+2025-10-16 19:14:26.529 [info] > git check-ignore -v -z --stdin [5ms]
+2025-10-16 19:14:26.530 [info] > git diff --name-status -z --diff-filter=ADMR 94b3d092f342d1d2110f19e28acb993a8a407e1d...refs/remotes/origin/master [15ms]
+2025-10-16 19:14:26.530 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+2025-10-16 19:14:26.551 [info] > git status -z -uall [7ms]
+2025-10-16 19:14:26.581 [info] > git show --textconv :src/components/productComponent.tsx [21ms]
+2025-10-16 19:14:26.581 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [32ms]
+2025-10-16 19:14:26.592 [info] > git ls-files --stage -- src/components/productComponent.tsx [25ms]
+2025-10-16 19:14:26.609 [info] > git cat-file -s d78fa47aa1844dc66bfb363b557449461631a0c0 [7ms]
+2025-10-16 19:14:26.944 [info] > git blame --root --incremental 94b3d092f342d1d2110f19e28acb993a8a407e1d -- src/components/productComponent.tsx [40ms]

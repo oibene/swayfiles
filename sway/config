@@ -21,7 +21,7 @@ set $menu rofi -show drun
 ### Output configuration
 #
 
-output * bg ~/.config/files/themes/wall.png fill
+output * bg ~/files/themes/wall.png fill
 exec waybar
 exec wal -R
 
@@ -52,18 +52,18 @@ exec swayidle -w \
 #
 # Example configuration:
 #
-#   input type:touchpad {
-#       dwt enabled
-#       tap enabled
-#       natural_scroll enabled
-#       middle_emulation enabled
-#   }
-#
+   input type:touchpad {
+       dwt enabled
+       tap enabled
+       natural_scroll enabled
+       middle_emulation enabled
+   }
+
    input type:keyboard {
         xkb_layout "eu,br(abnt2)"
 	xkb_options grp:alt_shift_toggle
    }
-#
+
 # You can also configure each device individually.
 # Read `man 5 sway-input` for more information about this section.
 
@@ -217,7 +217,7 @@ bindsym $mod+r mode "resize"
     bindsym --locked XF86MonBrightnessUp exec brightnessctl set 5%+
 
     # Special key to take a screenshot with grim
-    bindsym Print exec grim -g "$(slurp)" save "~/.config/files/screenshots/screenshot.png"
+    bindsym Print exec grim -g "$(slurp)"  ~/screenshot.png
 
 #
 # Status Bar:

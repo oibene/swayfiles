@@ -1,12 +1,12 @@
 {
     "telemetry.sqmId": "",
     "telemetry.machineId": "f4cbaf62ec14103fdd3912f8910b09f205cb7f62ab54298406806c26ed419aea",
-    "telemetry.devDeviceId": "b7bc329f-a39b-4bb4-9d5e-c20e1baee3e5",
+    "telemetry.devDeviceId": "ac04b028-b70b-4747-845d-b5df7c8f9fed",
     "backupWorkspaces": {
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/bernio/Urban_Soul_Ecommerce/urbansoul-app"
+                "folderUri": "file:///home/bernio/urbansoul-API"
             }
         ],
         "emptyWindows": []
@@ -14,22 +14,23 @@
     "windowControlHeight": 35,
     "profileAssociations": {
         "workspaces": {
-            "file:///home/bernio/Urban_Soul_Ecommerce/urbansoul-app": "__default__profile__"
+            "file:///home/bernio/Urban_Soul_Ecommerce/urbansoul-app": "__default__profile__",
+            "file:///home/bernio/urbansoul-API": "__default__profile__",
+            "file:///home/bernio/API": "__default__profile__",
+            "file:///home/bernio/urbansoul-app": "__default__profile__"
         },
-        "emptyWindows": {
-            "1758841308745": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/bernio/Urban_Soul_Ecommerce/urbansoul-app",
-            "backupPath": "/home/bernio/.config/Code - OSS/Backups/fdbc85320b77b324e49663510889ae60",
+            "folder": "file:///home/bernio/urbansoul-API",
+            "backupPath": "/home/bernio/.config/Code - OSS/Backups/6698065588c5e6392f7729721b72a085",
             "uiState": {
                 "mode": 0,
-                "x": 2,
-                "y": 305,
-                "width": 1813,
-                "height": 773
+                "x": 0,
+                "y": 0,
+                "width": 1919,
+                "height": 1079
             }
         },
         "openedWindows": []
@@ -51,15 +52,14 @@
             "sideBarBorder": "rgba(0, 0, 0, 0)",
             "statusBarBackground": "#11111b",
             "statusBarBorder": "rgba(0, 0, 0, 0)",
-            "statusBarNoFolderBackground": "#11111b",
-            "windowBorder": "rgba(0, 0, 0, 0)"
+            "statusBarNoFolderBackground": "#11111b"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 265,
+            "sideBarWidth": 208,
             "auxiliaryBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
@@ -67,10 +67,46 @@
     },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
-            "sideBarWidth": 265,
-            "auxiliaryBarWidth": 300,
+            "sideBarWidth": 208,
+            "auxiliaryBarWidth": 239,
             "workspaces": {
                 "b44730aaef28802fde0c3c290d27ad43": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "6395da70e6f2b77771dda7ee6f24d779": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "3f5bc50e27f406c6784c2b83ce815d44": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "8772f0731069b930c9dda3af66bf32ba": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "3d3da081ba5450eb5adbbb8de1d46b91": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "e1cb125579730444fb780df9af4b86ee": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "274f7ded4d240217cf11df1db8b58482": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "07b2d575cc921715c51c955be871abad": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "b10186794404d26bb71c901f06c396cf": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "5c3d18a7a3434e3779fae39996afb4e4": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 }

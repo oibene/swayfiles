@@ -1,0 +1,111 @@
+2025-10-19 17:51:33.457 [info] Extension host with pid 1616 started
+2025-10-19 17:51:33.457 [info] Skipping acquiring lock for /home/bernio/.config/Code - OSS/User/workspaceStorage/b10186794404d26bb71c901f06c396cf.
+2025-10-19 17:51:33.511 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-19 17:51:33.519 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-19 17:51:33.591 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-19 17:51:33.728 [info] Eager extensions activated
+2025-10-19 17:51:33.800 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 17:51:33.802 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 17:51:33.820 [info] ExtensionService#_doActivateExtension alexdauenhauer.catppuccin-noctis-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 17:51:33.826 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 17:51:33.867 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 17:51:33.880 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-19 17:51:33.959 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-19 17:51:33.968 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-19 17:51:34.030 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-19 17:51:34.099 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-19 17:53:05.991 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-19 18:02:30.070 [error] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+	at onErrorNT (node:internal/child_process:483:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-10-19 18:02:31.072 [error] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+	at onErrorNT (node:internal/child_process:483:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-10-19 18:02:43.139 [error] [golang.go] provider FAILED
+2025-10-19 18:02:43.141 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 18:02:43.306 [error] [golang.go] provider FAILED
+2025-10-19 18:02:43.306 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 18:02:43.381 [error] Error: spawn git ENOENT
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:27868)
+	at Object.onceWrapper (node:events:634:26)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+	at onErrorNT (node:internal/child_process:483:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-10-19 18:02:43.382 [error] Error: spawn git ENOENT
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:27868)
+	at Object.onceWrapper (node:events:634:26)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+	at onErrorNT (node:internal/child_process:483:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-10-19 18:02:44.834 [error] [golang.go] provider FAILED
+2025-10-19 18:02:44.835 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 18:02:46.384 [error] [golang.go] provider FAILED
+2025-10-19 18:02:46.384 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 18:02:47.704 [error] [golang.go] provider FAILED
+2025-10-19 18:02:47.704 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 18:03:32.938 [error] [golang.go] provider FAILED
+2025-10-19 18:03:32.938 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 18:03:33.523 [error] [golang.go] provider FAILED
+2025-10-19 18:03:33.524 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 18:03:34.708 [error] [golang.go] provider FAILED
+2025-10-19 18:03:34.708 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 18:03:35.126 [error] [golang.go] provider FAILED
+2025-10-19 18:03:35.126 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 18:03:42.193 [error] [golang.go] provider FAILED
+2025-10-19 18:03:42.193 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 18:18:36.408 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-19 18:18:36.422 [info] Extension host with pid 1616 exiting with code 0

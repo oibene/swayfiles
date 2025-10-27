@@ -1,0 +1,1191 @@
+2025-10-18 17:50:13.471 [info] Try to start language server - activation (enabled: true)
+2025-10-18 17:50:13.556 [info] Running language server gopls(v0.20.0/go1.25.2 X:nodwarf5)
+2025-10-18 17:51:35.986 [info] Running checks...
+2025-10-18 17:51:35.986 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 17:51:36.092 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 17:51:36.093 [info] 
+2025-10-18 17:52:47.621 [info] Running checks...
+2025-10-18 17:52:47.621 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 17:52:47.689 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 17:52:47.689 [info] 
+2025-10-18 17:52:55.988 [info] Running checks...
+2025-10-18 17:52:55.988 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 17:52:56.048 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 17:52:56.048 [info] /home/bernio/urbansoul-API/main.go:4:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 17:52:56.048 [info] 
+2025-10-18 17:52:57.062 [info] Running checks...
+2025-10-18 17:52:57.063 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 17:52:57.123 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 17:52:57.123 [info] /home/bernio/urbansoul-API/main.go:4:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 17:52:57.123 [info] 
+2025-10-18 17:57:07.682 [info] Running checks...
+2025-10-18 17:57:07.682 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 17:57:07.735 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 17:57:07.735 [info] 
+2025-10-18 17:58:47.353 [info] Running checks...
+2025-10-18 17:58:47.353 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 17:58:47.413 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 17:58:47.413 [info] /home/bernio/urbansoul-API/main.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 17:58:47.413 [info] 
+2025-10-18 17:58:48.261 [info] Running checks...
+2025-10-18 17:58:48.261 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 17:58:48.324 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 17:58:48.324 [info] /home/bernio/urbansoul-API/main.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 17:58:48.324 [info] 
+2025-10-18 17:59:55.608 [info] Running checks...
+2025-10-18 17:59:55.608 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 17:59:55.650 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 17:59:55.650 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 17:59:55.650 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 17:59:55.650 [info] 
+2025-10-18 17:59:59.119 [info] Running checks...
+2025-10-18 17:59:59.119 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 17:59:59.163 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 17:59:59.163 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 17:59:59.163 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 17:59:59.163 [info] 
+2025-10-18 18:00:47.864 [info] Running checks...
+2025-10-18 18:00:47.864 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 18:00:47.907 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:00:47.907 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:00:47.907 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:00:47.907 [info] 
+2025-10-18 18:00:49.249 [info] Running checks...
+2025-10-18 18:00:49.249 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 18:00:49.291 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:00:49.291 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:00:49.291 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:00:49.291 [info] 
+2025-10-18 18:02:36.835 [info] Running checks...
+2025-10-18 18:02:36.835 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 18:02:36.878 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:02:36.878 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:02:36.878 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:02:36.878 [info] 
+2025-10-18 18:02:51.324 [info] Running checks...
+2025-10-18 18:02:51.324 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 18:02:51.367 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:02:51.367 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:02:51.367 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:02:51.367 [info] 
+2025-10-18 18:02:51.547 [info] Running checks...
+2025-10-18 18:02:51.547 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 18:02:51.590 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:02:51.590 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:02:51.590 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:02:51.590 [info] 
+2025-10-18 18:02:54.596 [info] Running checks...
+2025-10-18 18:02:54.596 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 18:02:54.636 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:02:54.636 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:02:54.636 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:02:54.636 [info] 
+2025-10-18 18:02:55.526 [info] Running checks...
+2025-10-18 18:02:55.526 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 18:02:55.567 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:02:55.567 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:02:55.567 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:02:55.567 [info] 
+2025-10-18 18:02:55.653 [info] Running checks...
+2025-10-18 18:02:55.653 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 18:02:55.691 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:02:55.691 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:02:55.691 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:02:55.691 [info] 
+2025-10-18 18:02:57.289 [info] Running checks...
+2025-10-18 18:02:57.289 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:02:57.386 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:02:57.386 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:02:57.386 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:02:57.386 [info] 
+2025-10-18 18:02:57.564 [info] Running checks...
+2025-10-18 18:02:57.564 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:02:57.622 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:02:57.622 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:02:57.622 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:02:57.622 [info] 
+2025-10-18 18:04:56.354 [info] Running checks...
+2025-10-18 18:04:56.354 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:04:56.434 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:04:56.434 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:04:56.434 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:04:56.434 [info] 
+2025-10-18 18:07:33.864 [info] Running checks...
+2025-10-18 18:07:33.864 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:07:33.924 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:07:33.924 [info] /home/bernio/urbansoul-API/controller/customers.go:4:2 field id is unused (U1000)
+2025-10-18 18:07:33.924 [info] /home/bernio/urbansoul-API/controller/customers.go:5:2 field first_name is unused (U1000)
+2025-10-18 18:07:33.924 [info] /home/bernio/urbansoul-API/controller/customers.go:6:2 field last_name is unused (U1000)
+2025-10-18 18:07:33.924 [info] /home/bernio/urbansoul-API/controller/customers.go:7:2 field email is unused (U1000)
+2025-10-18 18:07:33.924 [info] /home/bernio/urbansoul-API/controller/customers.go:8:2 field password is unused (U1000)
+2025-10-18 18:07:33.924 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field img_URL is unused (U1000)
+2025-10-18 18:07:33.924 [info] 
+2025-10-18 18:07:34.984 [info] Running checks...
+2025-10-18 18:07:34.984 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:07:35.029 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:07:35.029 [info] /home/bernio/urbansoul-API/controller/customers.go:4:2 field id is unused (U1000)
+2025-10-18 18:07:35.029 [info] /home/bernio/urbansoul-API/controller/customers.go:5:2 field first_name is unused (U1000)
+2025-10-18 18:07:35.029 [info] /home/bernio/urbansoul-API/controller/customers.go:6:2 field last_name is unused (U1000)
+2025-10-18 18:07:35.029 [info] /home/bernio/urbansoul-API/controller/customers.go:7:2 field email is unused (U1000)
+2025-10-18 18:07:35.029 [info] /home/bernio/urbansoul-API/controller/customers.go:8:2 field password is unused (U1000)
+2025-10-18 18:07:35.029 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field img_URL is unused (U1000)
+2025-10-18 18:07:35.029 [info] 
+2025-10-18 18:07:35.203 [info] Running checks...
+2025-10-18 18:07:35.203 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:07:35.245 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:07:35.245 [info] /home/bernio/urbansoul-API/controller/customers.go:4:2 field id is unused (U1000)
+2025-10-18 18:07:35.245 [info] /home/bernio/urbansoul-API/controller/customers.go:5:2 field first_name is unused (U1000)
+2025-10-18 18:07:35.245 [info] /home/bernio/urbansoul-API/controller/customers.go:6:2 field last_name is unused (U1000)
+2025-10-18 18:07:35.245 [info] /home/bernio/urbansoul-API/controller/customers.go:7:2 field email is unused (U1000)
+2025-10-18 18:07:35.245 [info] /home/bernio/urbansoul-API/controller/customers.go:8:2 field password is unused (U1000)
+2025-10-18 18:07:35.245 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field img_URL is unused (U1000)
+2025-10-18 18:07:35.245 [info] 
+2025-10-18 18:07:35.446 [info] Running checks...
+2025-10-18 18:07:35.446 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:07:35.486 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:07:35.486 [info] /home/bernio/urbansoul-API/controller/customers.go:4:2 field id is unused (U1000)
+2025-10-18 18:07:35.486 [info] /home/bernio/urbansoul-API/controller/customers.go:5:2 field first_name is unused (U1000)
+2025-10-18 18:07:35.486 [info] /home/bernio/urbansoul-API/controller/customers.go:6:2 field last_name is unused (U1000)
+2025-10-18 18:07:35.486 [info] /home/bernio/urbansoul-API/controller/customers.go:7:2 field email is unused (U1000)
+2025-10-18 18:07:35.486 [info] /home/bernio/urbansoul-API/controller/customers.go:8:2 field password is unused (U1000)
+2025-10-18 18:07:35.486 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field img_URL is unused (U1000)
+2025-10-18 18:07:35.486 [info] 
+2025-10-18 18:07:49.100 [info] Running checks...
+2025-10-18 18:07:49.100 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:07:49.147 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:07:49.147 [info] /home/bernio/urbansoul-API/controller/customers.go:14:1 missing return (compile)
+2025-10-18 18:07:49.147 [info] 
+2025-10-18 18:09:40.514 [info] Running checks...
+2025-10-18 18:09:40.514 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:09:40.571 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:09:40.571 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:09:40.571 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:09:40.571 [info] 
+2025-10-18 18:10:27.590 [info] Running checks...
+2025-10-18 18:10:27.591 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:10:27.665 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:10:27.665 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:10:27.665 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:10:27.665 [info] 
+2025-10-18 18:10:30.006 [info] Running checks...
+2025-10-18 18:10:30.007 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:10:30.081 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:10:30.081 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:10:30.081 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:10:30.081 [info] 
+2025-10-18 18:12:03.346 [info] Running checks...
+2025-10-18 18:12:03.346 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:12:03.419 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:12:03.419 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:12:03.419 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:12:03.419 [info] 
+2025-10-18 18:12:09.986 [info] Running checks...
+2025-10-18 18:12:09.986 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:12:10.085 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:12:10.085 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:12:10.085 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:12:10.085 [info] 
+2025-10-18 18:12:10.375 [info] Running checks...
+2025-10-18 18:12:10.375 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:12:10.449 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:12:10.449 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:12:10.449 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:12:10.449 [info] 
+2025-10-18 18:12:12.665 [info] Running checks...
+2025-10-18 18:12:12.665 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:12:12.737 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:12:12.737 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:12:12.737 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:12:12.737 [info] 
+2025-10-18 18:12:46.020 [info] Running checks...
+2025-10-18 18:12:46.020 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:12:46.094 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:12:46.094 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:12:46.094 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:12:46.094 [info] 
+2025-10-18 18:12:48.409 [info] Running checks...
+2025-10-18 18:12:48.409 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:12:48.483 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:12:48.483 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:12:48.483 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:12:48.483 [info] 
+2025-10-18 18:12:54.161 [info] Running checks...
+2025-10-18 18:12:54.161 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:12:54.238 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:12:54.238 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:12:54.238 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:12:54.238 [info] 
+2025-10-18 18:12:54.376 [info] Running checks...
+2025-10-18 18:12:54.376 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:12:54.452 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:12:54.452 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:12:54.452 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:12:54.452 [info] 
+2025-10-18 18:12:54.582 [info] Running checks...
+2025-10-18 18:12:54.583 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:12:54.653 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:12:54.653 [info] /home/bernio/urbansoul-API/database/database.go:4:2 no required module provides package github.com/jmoiron/sqlx; to add it:
+2025-10-18 18:12:54.653 [info] /home/bernio/urbansoul-API/database/database.go:6:2 no required module provides package github.com/lib/pq; to add it:
+2025-10-18 18:12:54.653 [info] 
+2025-10-18 18:13:16.089 [info] Running checks...
+2025-10-18 18:13:16.089 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:13:16.399 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:13:16.399 [info] /home/bernio/urbansoul-API/controller/customers.go:22:73 syntax error: unexpected name id in argument list; possibly missing comma or ) (compile)
+2025-10-18 18:13:16.399 [info] 
+2025-10-18 18:13:25.653 [info] Running checks...
+2025-10-18 18:13:25.653 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:13:25.753 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:13:25.753 [info] /home/bernio/urbansoul-API/controller/customers.go:18:6 ct redeclared in this block
+2025-10-18 18:13:25.753 [info] /home/bernio/urbansoul-API/controller/customers.go:20:10 assignment mismatch: 1 variable but database.ConnectDB returns 2 values
+2025-10-18 18:13:25.753 [info] /home/bernio/urbansoul-API/controller/customers.go:25:10 cannot use nil as Customer value in return statement
+2025-10-18 18:13:25.753 [info] /home/bernio/urbansoul-API/controller/customers.go:29:10 cannot use nil as Customer value in return statement (compile)
+2025-10-18 18:13:25.753 [info] 
+2025-10-18 18:13:45.033 [info] Running checks...
+2025-10-18 18:13:45.033 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:13:45.135 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:13:45.135 [info] /home/bernio/urbansoul-API/controller/customers.go:18:10 assignment mismatch: 1 variable but database.ConnectDB returns 2 values
+2025-10-18 18:13:45.135 [info] /home/bernio/urbansoul-API/controller/customers.go:23:10 cannot use nil as Customer value in return statement
+2025-10-18 18:13:45.135 [info] /home/bernio/urbansoul-API/controller/customers.go:27:10 cannot use nil as Customer value in return statement (compile)
+2025-10-18 18:13:45.135 [info] 
+2025-10-18 18:13:52.972 [info] Running checks...
+2025-10-18 18:13:52.972 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:13:53.068 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:13:53.068 [info] /home/bernio/urbansoul-API/controller/customers.go:23:10 cannot use nil as Customer value in return statement
+2025-10-18 18:13:53.068 [info] /home/bernio/urbansoul-API/controller/customers.go:27:10 cannot use nil as Customer value in return statement (compile)
+2025-10-18 18:13:53.068 [info] 
+2025-10-18 18:14:59.060 [info] Running checks...
+2025-10-18 18:14:59.060 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:14:59.236 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:14:59.236 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:14:59.236 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:14:59.236 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:14:59.236 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:14:59.236 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:14:59.236 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:14:59.236 [info] /home/bernio/urbansoul-API/controller/customers.go:18:2 this value of err is never used (SA4006)
+2025-10-18 18:14:59.236 [info] 
+2025-10-18 18:15:00.458 [info] Running checks...
+2025-10-18 18:15:00.458 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:15:00.551 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:15:00.551 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:15:00.551 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:15:00.551 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:15:00.551 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:15:00.551 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:15:00.551 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:15:00.551 [info] /home/bernio/urbansoul-API/controller/customers.go:18:2 this value of err is never used (SA4006)
+2025-10-18 18:15:00.551 [info] 
+2025-10-18 18:15:57.752 [info] Running checks...
+2025-10-18 18:15:57.752 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:15:57.835 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:15:57.835 [info] /home/bernio/urbansoul-API/controller/customers.go:17:15 undefined: data (compile)
+2025-10-18 18:15:57.835 [info] 
+2025-10-18 18:15:59.562 [info] Running checks...
+2025-10-18 18:15:59.562 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:15:59.638 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:15:59.638 [info] /home/bernio/urbansoul-API/controller/customers.go:17:15 undefined: db (compile)
+2025-10-18 18:15:59.638 [info] 
+2025-10-18 18:16:02.536 [info] Running checks...
+2025-10-18 18:16:02.536 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:16:02.613 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:16:02.613 [info] /home/bernio/urbansoul-API/controller/customers.go:18:15 undefined: db (compile)
+2025-10-18 18:16:02.613 [info] 
+2025-10-18 18:16:22.531 [info] Running checks...
+2025-10-18 18:16:22.531 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:16:22.649 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:16:22.649 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:16:22.649 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:16:22.649 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:16:22.649 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:16:22.649 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:16:22.649 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:16:22.649 [info] 
+2025-10-18 18:16:32.901 [info] Running checks...
+2025-10-18 18:16:32.901 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:16:32.997 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:16:32.997 [info] /home/bernio/urbansoul-API/main.go:9:5 undefined: err
+2025-10-18 18:16:32.997 [info] /home/bernio/urbansoul-API/main.go:10:13 undefined: err (compile)
+2025-10-18 18:16:32.997 [info] 
+2025-10-18 18:16:37.227 [info] Running checks...
+2025-10-18 18:16:37.227 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:16:37.299 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:16:37.299 [info] 
+2025-10-18 18:16:58.405 [info] Running checks...
+2025-10-18 18:16:58.405 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:16:58.524 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:16:58.524 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field id is unused (U1000)
+2025-10-18 18:16:58.524 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field first_name is unused (U1000)
+2025-10-18 18:16:58.524 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field last_name is unused (U1000)
+2025-10-18 18:16:58.524 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field email is unused (U1000)
+2025-10-18 18:16:58.524 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field password is unused (U1000)
+2025-10-18 18:16:58.524 [info] /home/bernio/urbansoul-API/controller/customers.go:15:2 field img_URL is unused (U1000)
+2025-10-18 18:16:58.524 [info] 
+2025-10-18 18:16:58.606 [info] Running checks...
+2025-10-18 18:16:58.606 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:16:58.701 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:16:58.701 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field id is unused (U1000)
+2025-10-18 18:16:58.701 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field first_name is unused (U1000)
+2025-10-18 18:16:58.701 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field last_name is unused (U1000)
+2025-10-18 18:16:58.701 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field email is unused (U1000)
+2025-10-18 18:16:58.701 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field password is unused (U1000)
+2025-10-18 18:16:58.701 [info] /home/bernio/urbansoul-API/controller/customers.go:15:2 field img_URL is unused (U1000)
+2025-10-18 18:16:58.701 [info] 
+2025-10-18 18:17:31.462 [info] Running checks...
+2025-10-18 18:17:31.462 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:17:31.609 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:17:31.609 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:17:31.609 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:17:31.609 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:17:31.609 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:17:31.609 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:17:31.609 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:17:31.609 [info] 
+2025-10-18 18:17:31.615 [info] Running checks...
+2025-10-18 18:17:31.615 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:17:31.707 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:17:31.707 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:17:31.707 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:17:31.707 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:17:31.707 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:17:31.707 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:17:31.707 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:17:31.707 [info] 
+2025-10-18 18:17:45.447 [info] Running checks...
+2025-10-18 18:17:45.447 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 18:17:45.575 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:17:45.575 [info] 
+2025-10-18 18:17:45.625 [info] Running checks...
+2025-10-18 18:17:45.625 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 18:17:45.713 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:17:45.713 [info] 
+2025-10-18 18:18:58.251 [info] Running checks...
+2025-10-18 18:18:58.251 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:18:58.350 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:18:58.350 [info] /home/bernio/urbansoul-API/controller/customers.go:24:15 assignment mismatch: 2 variables but data.Select returns 1 value
+2025-10-18 18:18:58.350 [info] /home/bernio/urbansoul-API/controller/customers.go:24:28 Customer (type) is not an expression (compile)
+2025-10-18 18:18:58.350 [info] 
+2025-10-18 18:20:13.479 [info] Fetching latest go developer survey
+2025-10-18 18:20:14.364 [info] Using fetched Go developer survey: v0.1.0
+2025-10-18 18:20:14.364 [info] Survey active from Mon Sep 08 2025 to Tue Sep 30 2025
+2025-10-18 18:21:43.779 [info] Running checks...
+2025-10-18 18:21:43.779 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:21:43.874 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:21:43.874 [info] /home/bernio/urbansoul-API/controller/customers.go:24:15 assignment mismatch: 2 variables but data.Select returns 1 value (compile)
+2025-10-18 18:21:43.874 [info] 
+2025-10-18 18:23:31.629 [info] Running checks...
+2025-10-18 18:23:31.630 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:23:31.746 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:23:31.747 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:23:31.747 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:23:31.747 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:23:31.747 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:23:31.747 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:23:31.747 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:23:31.747 [info] 
+2025-10-18 18:23:34.991 [info] Running checks...
+2025-10-18 18:23:34.991 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:23:35.080 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:23:35.080 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:23:35.080 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:23:35.080 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:23:35.080 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:23:35.080 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:23:35.080 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:23:35.080 [info] 
+2025-10-18 18:23:35.372 [info] Running checks...
+2025-10-18 18:23:35.372 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:23:35.471 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:23:35.471 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:23:35.471 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:23:35.471 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:23:35.471 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:23:35.471 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:23:35.471 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:23:35.471 [info] 
+2025-10-18 18:23:51.512 [info] Running checks...
+2025-10-18 18:23:51.512 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:23:51.605 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:23:51.605 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:23:51.605 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:23:51.605 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:23:51.605 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:23:51.605 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:23:51.605 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:23:51.605 [info] 
+2025-10-18 18:24:12.502 [info] Running checks...
+2025-10-18 18:24:12.502 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:24:12.595 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:24:12.595 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:24:12.595 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:24:12.595 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:24:12.595 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:24:12.595 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:24:12.595 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:24:12.595 [info] 
+2025-10-18 18:24:28.554 [info] Running checks...
+2025-10-18 18:24:28.554 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:24:28.656 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:24:28.656 [info] /home/bernio/urbansoul-API/main.go:7:2 not enough arguments in call to controller.GetCustomerByID
+2025-10-18 18:24:28.656 [info] 
+2025-10-18 18:24:32.140 [info] Running checks...
+2025-10-18 18:24:32.140 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:24:32.249 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:24:32.249 [info] 
+2025-10-18 18:24:33.808 [info] Running checks...
+2025-10-18 18:24:33.808 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:24:33.907 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:24:33.907 [info] 
+2025-10-18 18:25:40.848 [info] Running checks...
+2025-10-18 18:25:40.849 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:25:40.967 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:25:40.967 [info] 
+2025-10-18 18:26:07.033 [info] Running checks...
+2025-10-18 18:26:07.033 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:26:07.150 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:26:07.150 [info] 
+2025-10-18 18:26:15.957 [info] Running checks...
+2025-10-18 18:26:15.957 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:26:16.075 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:26:16.075 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:26:16.075 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:26:16.075 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:26:16.075 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:26:16.075 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:26:16.075 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:26:16.075 [info] 
+2025-10-18 18:26:21.581 [info] Running checks...
+2025-10-18 18:26:21.581 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 18:26:21.674 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:26:21.674 [info] 
+2025-10-18 18:27:01.391 [info] Running checks...
+2025-10-18 18:27:01.391 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 18:27:01.517 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:27:01.517 [info] 
+2025-10-18 18:27:04.924 [info] Running checks...
+2025-10-18 18:27:04.924 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 18:27:05.049 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:27:05.049 [info] 
+2025-10-18 18:27:16.266 [info] Running checks...
+2025-10-18 18:27:16.266 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:27:16.386 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:27:16.386 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:27:16.386 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:27:16.386 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:27:16.386 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:27:16.386 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:27:16.386 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:27:16.386 [info] 
+2025-10-18 18:27:16.677 [info] Running checks...
+2025-10-18 18:27:16.677 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:27:16.776 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:27:16.776 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:27:16.776 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:27:16.776 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:27:16.776 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:27:16.776 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:27:16.776 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:27:16.776 [info] 
+2025-10-18 18:27:45.365 [info] Running checks...
+2025-10-18 18:27:45.365 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 18:27:45.493 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:27:45.494 [info] 
+2025-10-18 18:27:46.827 [info] Running checks...
+2025-10-18 18:27:46.827 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 18:27:46.917 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:27:46.917 [info] 
+2025-10-18 18:27:53.401 [info] Running checks...
+2025-10-18 18:27:53.401 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:27:53.517 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:27:53.517 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:27:53.517 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:27:53.517 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:27:53.517 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:27:53.517 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:27:53.517 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:27:53.517 [info] 
+2025-10-18 18:28:03.828 [info] Running checks...
+2025-10-18 18:28:03.828 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:28:03.951 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:28:03.951 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:28:03.951 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:28:03.951 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:28:03.951 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:28:03.951 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:28:03.951 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:28:03.951 [info] 
+2025-10-18 18:28:07.489 [info] Running checks...
+2025-10-18 18:28:07.489 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:28:07.586 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:28:07.586 [info] /home/bernio/urbansoul-API/controller/customers.go:19:2 undefined: err
+2025-10-18 18:28:07.586 [info] /home/bernio/urbansoul-API/controller/customers.go:21:5 undefined: err
+2025-10-18 18:28:07.586 [info] /home/bernio/urbansoul-API/controller/customers.go:22:38 undefined: err
+2025-10-18 18:28:07.586 [info] /home/bernio/urbansoul-API/controller/customers.go:23:15 undefined: err
+2025-10-18 18:28:07.586 [info] /home/bernio/urbansoul-API/controller/customers.go:25:13 too many return values
+2025-10-18 18:28:07.586 [info] 
+2025-10-18 18:28:11.257 [info] Running checks...
+2025-10-18 18:28:11.257 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:28:11.369 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:28:11.369 [info] /home/bernio/urbansoul-API/controller/customers.go:19:2 undefined: err
+2025-10-18 18:28:11.369 [info] /home/bernio/urbansoul-API/controller/customers.go:21:5 undefined: err
+2025-10-18 18:28:11.369 [info] /home/bernio/urbansoul-API/controller/customers.go:22:38 undefined: err
+2025-10-18 18:28:11.369 [info] /home/bernio/urbansoul-API/controller/customers.go:23:15 undefined: err
+2025-10-18 18:28:11.369 [info] /home/bernio/urbansoul-API/controller/customers.go:25:13 too many return values
+2025-10-18 18:28:11.369 [info] 
+2025-10-18 18:28:22.463 [info] Running checks...
+2025-10-18 18:28:22.463 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:28:22.560 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:28:22.560 [info] /home/bernio/urbansoul-API/controller/customers.go:25:13 too many return values
+2025-10-18 18:28:22.560 [info] 
+2025-10-18 18:28:26.402 [info] Running checks...
+2025-10-18 18:28:26.402 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:28:26.519 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:28:26.519 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:28:26.519 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:28:26.519 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:28:26.519 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:28:26.519 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:28:26.519 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:28:26.519 [info] 
+2025-10-18 18:28:26.595 [info] Running checks...
+2025-10-18 18:28:26.595 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:28:26.687 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:28:26.687 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:28:26.687 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:28:26.687 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:28:26.687 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:28:26.687 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:28:26.687 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:28:26.687 [info] 
+2025-10-18 18:28:37.723 [info] Running checks...
+2025-10-18 18:28:37.723 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:28:37.841 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:28:37.841 [info] 
+2025-10-18 18:28:50.819 [info] Running checks...
+2025-10-18 18:28:50.819 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:28:50.918 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:28:50.918 [info] 
+2025-10-18 18:29:19.882 [info] Running checks...
+2025-10-18 18:29:19.882 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:29:19.975 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:29:19.975 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:29:19.975 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:29:19.975 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:29:19.975 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:29:19.975 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:29:19.975 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:29:19.975 [info] 
+2025-10-18 18:29:57.296 [info] Running checks...
+2025-10-18 18:29:57.296 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:29:57.418 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:29:57.418 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:29:57.418 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:29:57.418 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:29:57.418 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:29:57.418 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:29:57.418 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:29:57.418 [info] 
+2025-10-18 18:30:01.481 [info] Running checks...
+2025-10-18 18:30:01.481 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:30:01.602 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:30:01.602 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:30:01.602 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:30:01.602 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:30:01.602 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:30:01.602 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:30:01.602 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:30:01.602 [info] 
+2025-10-18 18:30:33.061 [info] Running checks...
+2025-10-18 18:30:33.061 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:30:33.183 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:30:33.183 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:30:33.183 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:30:33.183 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:30:33.183 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:30:33.183 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:30:33.183 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:30:33.183 [info] 
+2025-10-18 18:30:41.136 [info] Running checks...
+2025-10-18 18:30:41.136 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:30:41.227 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:30:41.227 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:30:41.227 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:30:41.227 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:30:41.227 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:30:41.227 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:30:41.227 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:30:41.227 [info] 
+2025-10-18 18:31:08.588 [info] Running checks...
+2025-10-18 18:31:08.588 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:31:08.688 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:31:08.688 [info] /home/bernio/urbansoul-API/controller/customers.go:31:23 syntax error: unexpected name int, expected ( (compile)
+2025-10-18 18:31:08.688 [info] 
+2025-10-18 18:31:09.819 [info] Running checks...
+2025-10-18 18:31:09.819 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:31:09.914 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:31:09.914 [info] /home/bernio/urbansoul-API/controller/customers.go:31:23 syntax error: unexpected name int, expected ( (compile)
+2025-10-18 18:31:09.914 [info] 
+2025-10-18 18:31:18.518 [info] Running checks...
+2025-10-18 18:31:18.518 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:31:18.618 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:31:18.618 [info] /home/bernio/urbansoul-API/controller/customers.go:31:23 syntax error: unexpected name int, expected ( (compile)
+2025-10-18 18:31:18.618 [info] 
+2025-10-18 18:31:24.422 [info] Running checks...
+2025-10-18 18:31:24.422 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:31:24.520 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:31:24.520 [info] /home/bernio/urbansoul-API/controller/customers.go:31:22 syntax error: unexpected ) after top level declaration (compile)
+2025-10-18 18:31:24.520 [info] 
+2025-10-18 18:31:26.248 [info] Running checks...
+2025-10-18 18:31:26.248 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:31:26.343 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:31:26.343 [info] /home/bernio/urbansoul-API/controller/customers.go:31:38 syntax error: unexpected ], expected type argument list (compile)
+2025-10-18 18:31:26.343 [info] 
+2025-10-18 18:31:38.587 [info] Running checks...
+2025-10-18 18:31:38.587 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:31:38.682 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:31:38.682 [info] /home/bernio/urbansoul-API/controller/customers.go:31:38 syntax error: unexpected ], expected type argument list (compile)
+2025-10-18 18:31:38.682 [info] 
+2025-10-18 18:31:50.738 [info] Running checks...
+2025-10-18 18:31:50.738 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:31:50.838 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:31:50.838 [info] /home/bernio/urbansoul-API/controller/customers.go:31:38 syntax error: unexpected ], expected type argument list (compile)
+2025-10-18 18:31:50.838 [info] 
+2025-10-18 18:32:04.829 [info] Running checks...
+2025-10-18 18:32:04.829 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:32:04.925 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:32:04.925 [info] /home/bernio/urbansoul-API/controller/customers.go:29:38 syntax error: unexpected ], expected type argument list (compile)
+2025-10-18 18:32:04.925 [info] 
+2025-10-18 18:32:07.883 [info] Running checks...
+2025-10-18 18:32:07.883 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:32:07.980 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:32:07.980 [info] /home/bernio/urbansoul-API/controller/customers.go:29:38 syntax error: unexpected ], expected type argument list (compile)
+2025-10-18 18:32:07.980 [info] 
+2025-10-18 18:32:15.781 [info] Running checks...
+2025-10-18 18:32:15.782 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:32:15.876 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:32:15.876 [info] /home/bernio/urbansoul-API/controller/customers.go:29:38 syntax error: unexpected ], expected type argument list (compile)
+2025-10-18 18:32:15.876 [info] 
+2025-10-18 18:32:37.746 [info] Running checks...
+2025-10-18 18:32:37.746 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:32:37.839 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:32:37.839 [info] /home/bernio/urbansoul-API/controller/customers.go:29:38 syntax error: unexpected ], expected type argument list (compile)
+2025-10-18 18:32:37.839 [info] 
+2025-10-18 18:32:42.326 [info] Running checks...
+2025-10-18 18:32:42.326 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:32:42.426 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:32:42.426 [info] /home/bernio/urbansoul-API/controller/customers.go:29:38 syntax error: unexpected ], expected type argument list (compile)
+2025-10-18 18:32:42.426 [info] 
+2025-10-18 18:33:00.800 [info] Running checks...
+2025-10-18 18:33:00.800 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:33:00.890 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:33:00.890 [info] /home/bernio/urbansoul-API/controller/customers.go:29:38 syntax error: unexpected ], expected type argument list (compile)
+2025-10-18 18:33:00.890 [info] 
+2025-10-18 18:33:22.949 [info] Running checks...
+2025-10-18 18:33:22.949 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:33:23.046 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:33:23.046 [info] /home/bernio/urbansoul-API/controller/customers.go:38:9 undefined: ct (compile)
+2025-10-18 18:33:23.046 [info] 
+2025-10-18 18:33:24.542 [info] Running checks...
+2025-10-18 18:33:24.542 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:33:24.659 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:33:24.659 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:33:24.659 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:33:24.659 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:33:24.659 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:33:24.659 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:33:24.659 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:33:24.659 [info] 
+2025-10-18 18:33:25.303 [info] Running checks...
+2025-10-18 18:33:25.303 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:33:25.402 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:33:25.402 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:33:25.402 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:33:25.402 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:33:25.402 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:33:25.402 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:33:25.402 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:33:25.402 [info] 
+2025-10-18 18:33:33.397 [info] Running checks...
+2025-10-18 18:33:33.397 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:33:33.519 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:33:33.519 [info] 
+2025-10-18 18:39:40.618 [info] Running checks...
+2025-10-18 18:39:40.618 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:39:40.715 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:39:40.715 [info] /home/bernio/urbansoul-API/controller/customers.go:32:2 declared and not used: row
+2025-10-18 18:39:40.715 [info] /home/bernio/urbansoul-API/controller/customers.go:32:14 assignment mismatch: 2 variables but data.Select returns 1 value (compile)
+2025-10-18 18:39:40.715 [info] 
+2025-10-18 18:40:34.297 [info] Running checks...
+2025-10-18 18:40:34.297 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:40:34.393 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:40:34.393 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:40:34.393 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:40:34.393 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:40:34.393 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:40:34.393 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:40:34.393 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:40:34.393 [info] 
+2025-10-18 18:40:47.069 [info] Running checks...
+2025-10-18 18:40:47.069 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:40:47.170 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:40:47.170 [info] /home/bernio/urbansoul-API/main.go:9:21 undefined: controller.GetAllCustomers (compile)
+2025-10-18 18:40:47.170 [info] 
+2025-10-18 18:40:48.789 [info] Running checks...
+2025-10-18 18:40:48.789 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:40:48.921 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:40:48.921 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:40:48.921 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:40:48.921 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:40:48.921 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:40:48.921 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:40:48.921 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:40:48.921 [info] 
+2025-10-18 18:41:23.218 [info] Running checks...
+2025-10-18 18:41:23.218 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:41:23.340 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:41:23.340 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:41:23.340 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:41:23.340 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:41:23.340 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:41:23.340 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:41:23.340 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:41:23.340 [info] 
+2025-10-18 18:42:33.195 [info] Running checks...
+2025-10-18 18:42:33.195 [info] Starting linting the current package at /home/bernio/urbansoul-API/database
+2025-10-18 18:42:33.325 [info] /home/bernio/urbansoul-API/database>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:42:33.325 [info] 
+2025-10-18 18:42:40.758 [info] Running checks...
+2025-10-18 18:42:40.758 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:42:40.878 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:42:40.878 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:42:40.878 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:42:40.878 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:42:40.878 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:42:40.878 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:42:40.878 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:42:40.878 [info] 
+2025-10-18 18:42:53.046 [info] Running checks...
+2025-10-18 18:42:53.046 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:42:53.165 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:42:53.165 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:42:53.165 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:42:53.165 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:42:53.165 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:42:53.165 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:42:53.165 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:42:53.165 [info] 
+2025-10-18 18:43:19.097 [info] Running checks...
+2025-10-18 18:43:19.097 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:43:19.215 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:43:19.215 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:43:19.215 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:43:19.215 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:43:19.215 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:43:19.215 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:43:19.215 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:43:19.215 [info] 
+2025-10-18 18:44:00.743 [info] Running checks...
+2025-10-18 18:44:00.743 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:44:00.848 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:44:00.848 [info] /home/bernio/urbansoul-API/controller/customers.go:9:2 field id is unused (U1000)
+2025-10-18 18:44:00.848 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:44:00.848 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:44:00.848 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:44:00.848 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:44:00.848 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:44:00.848 [info] 
+2025-10-18 18:44:43.997 [info] Running checks...
+2025-10-18 18:44:43.997 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:44:44.119 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:44:44.119 [info] /home/bernio/urbansoul-API/controller/customers.go:10:2 field first_name is unused (U1000)
+2025-10-18 18:44:44.119 [info] /home/bernio/urbansoul-API/controller/customers.go:11:2 field last_name is unused (U1000)
+2025-10-18 18:44:44.119 [info] /home/bernio/urbansoul-API/controller/customers.go:12:2 field email is unused (U1000)
+2025-10-18 18:44:44.119 [info] /home/bernio/urbansoul-API/controller/customers.go:13:2 field password is unused (U1000)
+2025-10-18 18:44:44.119 [info] /home/bernio/urbansoul-API/controller/customers.go:14:2 field img_URL is unused (U1000)
+2025-10-18 18:44:44.119 [info] 
+2025-10-18 18:45:51.395 [info] Running checks...
+2025-10-18 18:45:51.395 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:45:51.515 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:45:51.515 [info] 
+2025-10-18 18:45:51.788 [info] Running checks...
+2025-10-18 18:45:51.788 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:45:51.891 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:45:51.892 [info] 
+2025-10-18 18:45:52.026 [info] Running checks...
+2025-10-18 18:45:52.026 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:45:52.113 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:45:52.113 [info] 
+2025-10-18 18:46:11.779 [info] Running checks...
+2025-10-18 18:46:11.779 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:46:11.890 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:46:11.890 [info] 
+2025-10-18 18:47:18.774 [info] Running checks...
+2025-10-18 18:47:18.774 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:47:18.897 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:47:18.897 [info] 
+2025-10-18 18:47:32.723 [info] Running checks...
+2025-10-18 18:47:32.723 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:47:32.816 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:47:32.816 [info] 
+2025-10-18 18:47:38.573 [info] Running checks...
+2025-10-18 18:47:38.573 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:47:38.687 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:47:38.687 [info] 
+2025-10-18 18:47:46.094 [info] Running checks...
+2025-10-18 18:47:46.094 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:47:46.196 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:47:46.196 [info] /home/bernio/urbansoul-API/main.go:9:10 not enough arguments in call to controller.GetCustomerByID
+2025-10-18 18:47:46.196 [info] 
+2025-10-18 18:48:10.535 [info] Running checks...
+2025-10-18 18:48:10.535 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:48:10.646 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:48:10.646 [info] 
+2025-10-18 18:49:21.911 [info] Tools environment: GOPATH=/home/bernio/go, GOTOOLCHAIN=auto
+2025-10-18 18:49:21.911 [info] Installing 1 tool at /home/bernio/go/bin
+2025-10-18 18:49:21.911 [info]   dlv
+2025-10-18 18:49:21.911 [info] 
+2025-10-18 18:49:44.628 [info] Installing github.com/go-delve/delve/cmd/dlv@latest (/home/bernio/go/bin/dlv) SUCCEEDED
+2025-10-18 18:49:44.628 [info] 
+2025-10-18 18:49:44.628 [info] All tools successfully installed. You are ready to Go. :)
+2025-10-18 18:51:26.619 [info] Running checks...
+2025-10-18 18:51:26.619 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:51:26.709 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:51:26.709 [info] 
+2025-10-18 18:54:23.808 [info] Running checks...
+2025-10-18 18:54:23.808 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:54:23.939 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:54:23.939 [info] 
+2025-10-18 18:54:57.086 [info] Running checks...
+2025-10-18 18:54:57.086 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:54:57.220 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:54:57.220 [info] 
+2025-10-18 18:54:59.159 [info] Running checks...
+2025-10-18 18:54:59.159 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:54:59.288 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:54:59.288 [info] 
+2025-10-18 18:55:30.370 [info] Running checks...
+2025-10-18 18:55:30.370 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:55:30.486 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:55:30.486 [info] 
+2025-10-18 18:55:46.226 [info] Running checks...
+2025-10-18 18:55:46.226 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:55:46.357 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:55:46.357 [info] 
+2025-10-18 18:55:48.007 [info] Running checks...
+2025-10-18 18:55:48.007 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:55:48.115 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:55:48.115 [info] 
+2025-10-18 18:55:55.642 [info] Running checks...
+2025-10-18 18:55:55.642 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:55:55.772 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:55:55.772 [info] 
+2025-10-18 18:55:56.267 [info] Running checks...
+2025-10-18 18:55:56.267 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:55:56.369 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:55:56.369 [info] 
+2025-10-18 18:55:56.880 [info] Running checks...
+2025-10-18 18:55:56.881 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:55:56.993 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:55:56.993 [info] 
+2025-10-18 18:55:57.468 [info] Running checks...
+2025-10-18 18:55:57.468 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:55:57.574 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:55:57.574 [info] 
+2025-10-18 18:55:58.068 [info] Running checks...
+2025-10-18 18:55:58.068 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:55:58.173 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:55:58.173 [info] 
+2025-10-18 18:55:58.628 [info] Running checks...
+2025-10-18 18:55:58.628 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:55:58.729 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:55:58.729 [info] 
+2025-10-18 18:55:59.204 [info] Running checks...
+2025-10-18 18:55:59.205 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:55:59.313 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:55:59.313 [info] 
+2025-10-18 18:55:59.810 [info] Running checks...
+2025-10-18 18:55:59.810 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:55:59.918 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:55:59.918 [info] 
+2025-10-18 18:56:00.339 [info] Running checks...
+2025-10-18 18:56:00.340 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:56:00.451 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:56:00.451 [info] 
+2025-10-18 18:56:00.889 [info] Running checks...
+2025-10-18 18:56:00.889 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:56:00.996 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:56:00.996 [info] 
+2025-10-18 18:56:01.449 [info] Running checks...
+2025-10-18 18:56:01.449 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:56:01.549 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:56:01.549 [info] 
+2025-10-18 18:56:45.545 [info] Running checks...
+2025-10-18 18:56:45.545 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 18:56:45.661 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:56:45.661 [info] 
+2025-10-18 18:58:08.443 [info] Running checks...
+2025-10-18 18:58:08.443 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:58:08.603 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:58:08.603 [info] 
+2025-10-18 18:58:17.416 [info] Running checks...
+2025-10-18 18:58:17.416 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:58:17.513 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:58:17.513 [info] /home/bernio/urbansoul-API/main.go:7:2 no required module provides package github.com/gorilla/mux; to add it:
+2025-10-18 18:58:17.513 [info] 
+2025-10-18 18:58:49.494 [info] Running checks...
+2025-10-18 18:58:49.494 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:58:49.594 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:58:49.594 [info] /home/bernio/urbansoul-API/main.go:7:2 no required module provides package github.com/gorilla/mux; to add it:
+2025-10-18 18:58:49.594 [info] 
+2025-10-18 18:58:55.932 [info] Running checks...
+2025-10-18 18:58:55.932 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:58:56.033 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:58:56.033 [info] /home/bernio/urbansoul-API/main.go:7:2 no required module provides package github.com/gorilla/mux; to add it:
+2025-10-18 18:58:56.033 [info] 
+2025-10-18 18:59:09.111 [info] Running checks...
+2025-10-18 18:59:09.111 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:59:09.275 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:59:09.275 [info] /home/bernio/urbansoul-API/main.go:12:2 declared and not used: point (compile)
+2025-10-18 18:59:09.275 [info] 
+2025-10-18 18:59:09.535 [info] Running checks...
+2025-10-18 18:59:09.535 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:59:09.636 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:59:09.636 [info] /home/bernio/urbansoul-API/main.go:12:2 declared and not used: point (compile)
+2025-10-18 18:59:09.636 [info] 
+2025-10-18 18:59:09.828 [info] Running checks...
+2025-10-18 18:59:09.828 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:59:09.928 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:59:09.928 [info] /home/bernio/urbansoul-API/main.go:12:2 declared and not used: point (compile)
+2025-10-18 18:59:09.928 [info] 
+2025-10-18 18:59:11.612 [info] Running checks...
+2025-10-18 18:59:11.612 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:59:11.720 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:59:11.720 [info] /home/bernio/urbansoul-API/main.go:11:2 declared and not used: point (compile)
+2025-10-18 18:59:11.720 [info] 
+2025-10-18 18:59:17.170 [info] Running checks...
+2025-10-18 18:59:17.170 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:59:17.276 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:59:17.276 [info] /home/bernio/urbansoul-API/main.go:11:2 declared and not used: point (compile)
+2025-10-18 18:59:17.276 [info] 
+2025-10-18 18:59:51.206 [info] Running checks...
+2025-10-18 18:59:51.206 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 18:59:51.315 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 18:59:51.315 [info] /home/bernio/urbansoul-API/main.go:12:2 declared and not used: prefix
+2025-10-18 18:59:51.315 [info] /home/bernio/urbansoul-API/main.go:14:2 not enough arguments in call to point.HandleFunc
+2025-10-18 18:59:51.315 [info] 
+2025-10-18 19:01:54.321 [info] Running checks...
+2025-10-18 19:01:54.322 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:01:54.422 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:01:54.422 [info] /home/bernio/urbansoul-API/controller/customers.go:20:75 undefined: id (compile)
+2025-10-18 19:01:54.422 [info] 
+2025-10-18 19:02:00.880 [info] Running checks...
+2025-10-18 19:02:00.880 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:02:00.978 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:02:00.978 [info] /home/bernio/urbansoul-API/controller/customers.go:21:75 undefined: id (compile)
+2025-10-18 19:02:00.978 [info] 
+2025-10-18 19:02:13.808 [info] Running checks...
+2025-10-18 19:02:13.809 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:02:13.907 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:02:13.907 [info] /home/bernio/urbansoul-API/controller/customers.go:20:75 undefined: id (compile)
+2025-10-18 19:02:13.907 [info] 
+2025-10-18 19:03:12.305 [info] Running checks...
+2025-10-18 19:03:12.305 [info] Starting linting the current package at /home/bernio/urbansoul-API/models
+2025-10-18 19:03:12.354 [info] /home/bernio/urbansoul-API/models>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:03:12.354 [info] 
+2025-10-18 19:04:51.862 [info] Running checks...
+2025-10-18 19:04:51.862 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:04:51.989 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:04:51.989 [info] /home/bernio/urbansoul-API/controller/customers.go:27:74 undefined: id (compile)
+2025-10-18 19:04:51.989 [info] 
+2025-10-18 19:05:36.713 [info] Running checks...
+2025-10-18 19:05:36.713 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:05:36.816 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:05:36.816 [info] /home/bernio/urbansoul-API/controller/customers.go:32:74 undefined: id (compile)
+2025-10-18 19:05:36.816 [info] 
+2025-10-18 19:05:43.342 [info] Running checks...
+2025-10-18 19:05:43.342 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:05:43.442 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:05:43.442 [info] /home/bernio/urbansoul-API/controller/customers.go:34:74 undefined: id (compile)
+2025-10-18 19:05:43.442 [info] 
+2025-10-18 19:06:06.410 [info] Running checks...
+2025-10-18 19:06:06.410 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:06:06.548 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:06:06.548 [info] 
+2025-10-18 19:06:42.478 [info] Running checks...
+2025-10-18 19:06:42.478 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:06:42.576 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:06:42.576 [info] 
+2025-10-18 19:06:44.749 [info] Running checks...
+2025-10-18 19:06:44.749 [info] Starting linting the current package at /home/bernio/urbansoul-API/models
+2025-10-18 19:06:44.792 [info] /home/bernio/urbansoul-API/models>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:06:44.792 [info] 
+2025-10-18 19:06:51.494 [info] Running checks...
+2025-10-18 19:06:51.494 [info] Starting linting the current package at /home/bernio/urbansoul-API/models
+2025-10-18 19:06:51.530 [info] /home/bernio/urbansoul-API/models>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:06:51.530 [info] 
+2025-10-18 19:12:16.873 [info] Running checks...
+2025-10-18 19:12:16.873 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 19:12:16.995 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:12:16.995 [info] /home/bernio/urbansoul-API/main.go:13:38 cannot use controller.GetCustomerByID (value of type func(w http.ResponseWriter, r *http.Request) (ct []controller.Customer)) as func(http.ResponseWriter, *http.Request) value in argument to point.HandleFunc (compile)
+2025-10-18 19:12:16.995 [info] 
+2025-10-18 19:12:18.162 [info] Running checks...
+2025-10-18 19:12:18.162 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 19:12:18.313 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:12:18.313 [info] /home/bernio/urbansoul-API/main.go:13:38 cannot use controller.GetCustomerByID (value of type func(w http.ResponseWriter, r *http.Request) (ct []controller.Customer)) as func(http.ResponseWriter, *http.Request) value in argument to point.HandleFunc (compile)
+2025-10-18 19:12:18.313 [info] 
+2025-10-18 19:12:59.815 [info] Running checks...
+2025-10-18 19:12:59.815 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:12:59.915 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:12:59.915 [info] /home/bernio/urbansoul-API/controller/customers.go:34:21 undefined: ct
+2025-10-18 19:12:59.915 [info] /home/bernio/urbansoul-API/controller/customers.go:38:10 too many return values
+2025-10-18 19:12:59.915 [info] /home/bernio/urbansoul-API/controller/customers.go:40:9 undefined: ct (compile)
+2025-10-18 19:12:59.915 [info] 
+2025-10-18 19:13:05.951 [info] Running checks...
+2025-10-18 19:13:05.952 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:13:06.061 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:13:06.061 [info] /home/bernio/urbansoul-API/controller/customers.go:34:21 undefined: ct (compile)
+2025-10-18 19:13:06.061 [info] 
+2025-10-18 19:13:17.277 [info] Running checks...
+2025-10-18 19:13:17.277 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:13:17.382 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:13:17.382 [info] /home/bernio/urbansoul-API/controller/customers.go:34:21 undefined: ct (compile)
+2025-10-18 19:13:17.382 [info] 
+2025-10-18 19:14:50.057 [info] Running checks...
+2025-10-18 19:14:50.057 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:14:50.160 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:14:50.160 [info] /home/bernio/urbansoul-API/controller/customers.go:22:8 []Customer (type) is not an expression (compile)
+2025-10-18 19:14:50.160 [info] 
+2025-10-18 19:15:04.958 [info] Running checks...
+2025-10-18 19:15:04.958 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:15:05.102 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:15:05.102 [info] 
+2025-10-18 19:15:06.276 [info] Running checks...
+2025-10-18 19:15:06.276 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:15:06.423 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:15:06.423 [info] 
+2025-10-18 19:15:08.788 [info] Running checks...
+2025-10-18 19:15:08.788 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:15:08.883 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:15:08.883 [info] 
+2025-10-18 19:15:09.438 [info] Running checks...
+2025-10-18 19:15:09.438 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:15:09.608 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:15:09.608 [info] 
+2025-10-18 19:15:15.409 [info] Running checks...
+2025-10-18 19:15:15.409 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 19:15:15.560 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:15:15.560 [info] 
+2025-10-18 19:15:16.215 [info] Running checks...
+2025-10-18 19:15:16.215 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 19:15:16.343 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:15:16.343 [info] 
+2025-10-18 19:17:34.854 [info] Running checks...
+2025-10-18 19:17:34.854 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 19:17:34.965 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:17:34.965 [info] /home/bernio/urbansoul-API/main.go:6:2 no required module provides package github.com/rs/cors; to add it:
+2025-10-18 19:17:34.965 [info] 
+2025-10-18 19:18:11.350 [info] Running checks...
+2025-10-18 19:18:11.350 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 19:18:11.457 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:18:11.457 [info] /home/bernio/urbansoul-API/main.go:6:2 no required module provides package github.com/rs/cors; to add it:
+2025-10-18 19:18:11.457 [info] 
+2025-10-18 19:18:17.234 [info] Running checks...
+2025-10-18 19:18:17.234 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 19:18:17.339 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:18:17.339 [info] /home/bernio/urbansoul-API/main.go:6:2 no required module provides package github.com/rs/cors; to add it:
+2025-10-18 19:18:17.339 [info] 
+2025-10-18 19:20:05.863 [info] Running checks...
+2025-10-18 19:20:05.863 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 19:20:05.967 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:20:05.967 [info] /home/bernio/urbansoul-API/main.go:8:2 no required module provides package github.com/rs/cors; to add it:
+2025-10-18 19:20:05.967 [info] 
+2025-10-18 19:20:10.642 [info] Running checks...
+2025-10-18 19:20:10.643 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 19:20:10.746 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:20:10.746 [info] /home/bernio/urbansoul-API/main.go:8:2 no required module provides package github.com/rs/cors; to add it:
+2025-10-18 19:20:10.746 [info] 
+2025-10-18 19:22:24.425 [info] Running checks...
+2025-10-18 19:22:24.425 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 19:22:24.529 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:22:24.529 [info] /home/bernio/urbansoul-API/main.go:8:2 no required module provides package github.com/rs/cors; to add it:
+2025-10-18 19:22:24.529 [info] 
+2025-10-18 19:23:15.744 [info] Running checks...
+2025-10-18 19:23:15.744 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 19:23:15.905 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:23:15.905 [info] 
+2025-10-18 19:24:52.286 [info] Running checks...
+2025-10-18 19:24:52.286 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 19:24:52.426 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:24:52.426 [info] 
+2025-10-18 19:43:53.043 [info] Running checks...
+2025-10-18 19:43:53.043 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:43:53.182 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:43:53.182 [info] 
+2025-10-18 19:43:53.264 [info] Running checks...
+2025-10-18 19:43:53.264 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:43:53.364 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:43:53.364 [info] 
+2025-10-18 19:46:22.888 [info] Running checks...
+2025-10-18 19:46:22.888 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:46:23.032 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:46:23.032 [info] 
+2025-10-18 19:46:25.235 [info] Running checks...
+2025-10-18 19:46:25.235 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:46:25.338 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:46:25.338 [info] 
+2025-10-18 19:47:17.872 [info] Running checks...
+2025-10-18 19:47:17.873 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:47:17.972 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:47:17.972 [info] 
+2025-10-18 19:54:06.743 [info] Running checks...
+2025-10-18 19:54:06.743 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:54:06.845 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:54:06.845 [info] 
+2025-10-18 19:54:07.126 [info] Running checks...
+2025-10-18 19:54:07.126 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:54:07.223 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:54:07.223 [info] 
+2025-10-18 19:54:07.323 [info] Running checks...
+2025-10-18 19:54:07.323 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 19:54:07.418 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:54:07.418 [info] 
+2025-10-18 19:54:23.848 [info] Running checks...
+2025-10-18 19:54:23.848 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 19:54:23.988 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:54:23.988 [info] 
+2025-10-18 19:57:10.054 [info] Running checks...
+2025-10-18 19:57:10.054 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 19:57:10.164 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:57:10.164 [info] 
+2025-10-18 19:58:14.713 [info] Running checks...
+2025-10-18 19:58:14.713 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 19:58:14.828 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:58:14.828 [info] 
+2025-10-18 19:59:20.737 [info] Running checks...
+2025-10-18 19:59:20.737 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 19:59:20.882 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 19:59:20.882 [info] 
+2025-10-18 20:00:01.614 [info] Running checks...
+2025-10-18 20:00:01.614 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 20:00:01.722 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 20:00:01.722 [info] 
+2025-10-18 20:09:06.318 [info] Running checks...
+2025-10-18 20:09:06.318 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 20:09:06.450 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 20:09:06.450 [info] /home/bernio/urbansoul-API/main.go:36:31 undefined: corsOpt (compile)
+2025-10-18 20:09:06.450 [info] 
+2025-10-18 20:09:17.779 [info] Running checks...
+2025-10-18 20:09:17.779 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 20:09:18.001 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 20:09:18.001 [info] 
+2025-10-18 20:10:12.299 [info] Running checks...
+2025-10-18 20:10:12.299 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 20:10:12.421 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 20:10:12.421 [info] 
+2025-10-18 20:12:27.227 [info] Running checks...
+2025-10-18 20:12:27.227 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 20:12:27.327 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 20:12:27.327 [info] 
+2025-10-18 20:14:16.572 [info] Running checks...
+2025-10-18 20:14:16.572 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-18 20:14:16.711 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 20:14:16.711 [info] 

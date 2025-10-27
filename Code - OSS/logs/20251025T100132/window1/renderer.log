@@ -1,0 +1,341 @@
+2025-10-25 10:01:33.241 [info] Started local extension host with pid 1463.
+2025-10-25 10:01:34.134 [error] [Extension Host] (node:1463) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-25 10:01:36.089 [info] [perf] Render performance baseline is 28ms
+2025-10-25 10:01:42.635 [error] Error while getting the latest version for the extension alexdauenhauer.catppuccin-noctis-icons. SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-10-25 10:01:43.329 [error] Error while getting the latest version for the extension bradlc.vscode-tailwindcss. SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-10-25 10:01:44.049 [error] Error while getting the latest version for the extension catppuccin.catppuccin-vsc. SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-10-25 10:01:44.764 [error] Error while getting the latest version for the extension golang.go. SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-10-25 10:05:54.770 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-10-25 10:05:58.504 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13055
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+2025-10-25 10:05:59.773 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13055
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+2025-10-25 10:06:00.377 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-10-25 10:41:04.954 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-10-25 10:41:05.950 [error] [Extension Host] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+	at onErrorNT (node:internal/child_process:483:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-10-25 10:41:05.952 [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (file:///usr/lib/code/out/bootstrap-fork.js:3:11805)
+	at process.emit (node:events:519:28)
+2025-10-25 10:41:06.447 [error] no package metadata for file file:///home/bernio/urbansoul-API/models/models.go: Error: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:06.951 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-25 10:41:13.960 [error] no package metadata for file file:///home/bernio/urbansoul-API/controller/product.go: Error: no package metadata for file file:///home/bernio/urbansoul-API/controller/product.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:13.961 [error] getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/product.go: Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/product.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:18.207 [error] no package metadata for file file:///home/bernio/urbansoul-API/models/models.go: Error: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:18.214 [error] getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go: Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:18.432 [error] no package metadata for file file:///home/bernio/urbansoul-API/models/models.go: Error: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:20.807 [error] no package metadata for file file:///home/bernio/urbansoul-API/models/models.go: Error: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:21.534 [error] no package metadata for file file:///home/bernio/urbansoul-API/main.go: Error: no package metadata for file file:///home/bernio/urbansoul-API/main.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:21.537 [error] getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/main.go: Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/main.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:22.203 [error] no package metadata for file file:///home/bernio/urbansoul-API/models/models.go: Error: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:22.204 [error] getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go: Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:22.431 [error] no package metadata for file file:///home/bernio/urbansoul-API/models/models.go: Error: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:43:01.835 [error] getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/product_model.go: Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/product_model.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:43:07.646 [error] getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/product_model.go: Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/product_model.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:49:07.024 [error] Error: 27:24: expected type argument list (and 3 more errors)
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 11:24:57.929 [error] getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/comments.go: Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/comments.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 11:25:04.278 [error] getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/comments.go: Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/comments.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)

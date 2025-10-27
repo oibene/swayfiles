@@ -1,0 +1,53 @@
+2025-10-23 19:29:47.879 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-23 19:29:48.094 [info] Started local extension host with pid 1080.
+2025-10-23 19:29:48.424 [error] CodeExpectedError: No default agent contributed
+    at Hat.activateDefaultAgent (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2193:12401)
+2025-10-23 19:29:49.126 [error] Canceled: Canceled
+    at K0 (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:7:1282)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3814:37249
+    at Array.forEach (<anonymous>)
+    at nLt.dispose (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3814:37189)
+    at ZRe.dispose (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3814:48866)
+    at agn.dispose (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3821:7731)
+    at ogn.stopAllInReverse (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3821:7033)
+    at async Wkt.tb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3820:15899)
+2025-10-23 19:29:49.126 [error] Canceled: Canceled
+    at K0 (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:7:1282)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3814:37249
+    at Array.forEach (<anonymous>)
+    at nLt.dispose (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3814:37189)
+    at ZRe.dispose (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3814:48866)
+    at agn.dispose (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3821:7731)
+    at ogn.stopAllInReverse (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3821:7033)
+    at async Wkt.tb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3820:15899)
+2025-10-23 19:29:49.127 [error] Canceled: Canceled
+    at K0 (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:7:1282)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3814:37249
+    at Array.forEach (<anonymous>)
+    at nLt.dispose (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3814:37189)
+    at ZRe.dispose (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3814:48866)
+    at agn.dispose (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3821:7731)
+    at ogn.stopAllInReverse (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3821:7033)
+    at async Wkt.tb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3820:15899)
+2025-10-23 19:29:49.127 [error] Canceled: Canceled
+    at new _fn (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3814:35768)
+    at nLt.U (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3814:40420)
+    at n.<computed>.r.charCodeAt.n.<computed> (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3814:37905)
+    at sti.getSessions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:596:74044)
+    at vze.getSessions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:596:71221)
+    at vze.getAccounts (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:596:70430)
+    at pze.j (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:596:64878)
+    at Object.factory (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:596:64119)
+    at Uv.j (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:75818)
+    at Uv.k (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:75951)
+2025-10-23 19:29:49.127 [error] Canceled: Canceled
+    at new _fn (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3814:35768)
+    at nLt.U (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3814:40420)
+    at n.<computed>.r.charCodeAt.n.<computed> (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3814:37905)
+    at sti.getSessions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:596:74044)
+    at vze.getSessions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:596:71221)
+    at vze.getAccounts (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:596:70430)
+    at Wze.h (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:597:42474)
+    at Object.factory (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:597:41711)
+    at Uv.j (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:75818)
+    at Uv.k (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:75951)

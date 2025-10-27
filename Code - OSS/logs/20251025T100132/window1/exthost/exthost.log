@@ -1,0 +1,324 @@
+2025-10-25 10:01:33.845 [info] Extension host with pid 1463 started
+2025-10-25 10:01:33.845 [info] Skipping acquiring lock for /home/bernio/.config/Code - OSS/User/workspaceStorage/5c3d18a7a3434e3779fae39996afb4e4.
+2025-10-25 10:01:34.026 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-25 10:01:34.047 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-25 10:01:34.448 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-25 10:01:34.483 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-25 10:01:34.542 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-25 10:01:34.665 [info] Eager extensions activated
+2025-10-25 10:01:34.675 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-25 10:01:34.678 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-25 10:01:34.695 [info] ExtensionService#_doActivateExtension alexdauenhauer.catppuccin-noctis-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-10-25 10:01:34.701 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-10-25 10:01:34.745 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-25 10:01:34.842 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-25 10:01:34.850 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-25 10:01:34.902 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-25 10:01:35.022 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-25 10:06:13.257 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.265 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.288 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.288 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.327 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.327 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.366 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.366 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.403 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.403 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.444 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.444 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.488 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.488 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.527 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.527 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.565 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.565 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.606 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.606 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.648 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.649 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.685 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.686 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.731 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.731 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.771 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.771 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.809 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.809 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.852 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.852 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.894 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.894 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.936 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.936 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:13.968 [error] [golang.go] provider FAILED
+2025-10-25 10:06:13.968 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:14.013 [error] [golang.go] provider FAILED
+2025-10-25 10:06:14.013 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:14.050 [error] [golang.go] provider FAILED
+2025-10-25 10:06:14.050 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:14.096 [error] [golang.go] provider FAILED
+2025-10-25 10:06:14.096 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:14.132 [error] [golang.go] provider FAILED
+2025-10-25 10:06:14.132 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:06:14.172 [error] [golang.go] provider FAILED
+2025-10-25 10:06:14.172 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:12:21.123 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-25 10:12:21.140 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-25 10:12:21.565 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-10-25 10:41:05.948 [error] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+	at onErrorNT (node:internal/child_process:483:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-10-25 10:41:06.445 [error] [golang.go] provider FAILED
+2025-10-25 10:41:06.445 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:06.950 [error] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+	at onErrorNT (node:internal/child_process:483:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-10-25 10:41:13.915 [error] [golang.go] provider FAILED
+2025-10-25 10:41:13.915 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/controller/product.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:13.947 [error] [golang.go] provider FAILED
+2025-10-25 10:41:13.947 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/product.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:18.181 [error] [golang.go] provider FAILED
+2025-10-25 10:41:18.181 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:18.200 [error] [golang.go] provider FAILED
+2025-10-25 10:41:18.200 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:18.430 [error] [golang.go] provider FAILED
+2025-10-25 10:41:18.431 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:18.680 [error] [golang.go] provider FAILED
+2025-10-25 10:41:18.680 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:20.805 [error] [golang.go] provider FAILED
+2025-10-25 10:41:20.805 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:21.499 [error] [golang.go] provider FAILED
+2025-10-25 10:41:21.499 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/main.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:21.523 [error] [golang.go] provider FAILED
+2025-10-25 10:41:21.523 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/main.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:22.176 [error] [golang.go] provider FAILED
+2025-10-25 10:41:22.176 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:22.194 [error] [golang.go] provider FAILED
+2025-10-25 10:41:22.194 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:41:22.429 [error] [golang.go] provider FAILED
+2025-10-25 10:41:22.430 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/models/models.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:43:01.821 [error] [golang.go] provider FAILED
+2025-10-25 10:43:01.821 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/product_model.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:43:07.637 [error] [golang.go] provider FAILED
+2025-10-25 10:43:07.637 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/product_model.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 10:49:07.022 [error] [golang.go] provider FAILED
+2025-10-25 10:49:07.023 [error] Error: 27:24: expected type argument list (and 3 more errors)
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 11:24:57.906 [error] [golang.go] provider FAILED
+2025-10-25 11:24:57.906 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/comments.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 11:25:04.263 [error] [golang.go] provider FAILED
+2025-10-25 11:25:04.263 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/comments.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-25 11:57:09.301 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-25 11:57:09.322 [info] Extension host with pid 1463 exiting with code 0

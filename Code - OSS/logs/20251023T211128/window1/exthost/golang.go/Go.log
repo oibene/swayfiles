@@ -1,0 +1,108 @@
+2025-10-23 21:11:47.232 [info] Try to start language server - activation (enabled: true)
+2025-10-23 21:11:47.304 [info] Running language server gopls(v0.20.0/go1.25.2 X:nodwarf5)
+2025-10-23 21:12:58.472 [info] Running checks...
+2025-10-23 21:12:58.472 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:12:58.681 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:12:58.681 [info] 
+2025-10-23 21:13:08.148 [info] Running checks...
+2025-10-23 21:13:08.148 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:13:08.261 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:13:08.261 [info] 
+2025-10-23 21:13:20.105 [info] Running checks...
+2025-10-23 21:13:20.105 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:13:20.186 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:13:20.186 [info] 
+2025-10-23 21:13:20.275 [info] Running checks...
+2025-10-23 21:13:20.275 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:13:20.357 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:13:20.357 [info] 
+2025-10-23 21:17:42.531 [info] Running checks...
+2025-10-23 21:17:42.531 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:17:42.616 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:17:42.616 [info] /home/bernio/urbansoul-API/repository/customers.go:1:1 expected 'package', found 'EOF' (compile)
+2025-10-23 21:17:42.616 [info] 
+2025-10-23 21:18:31.217 [info] Running checks...
+2025-10-23 21:18:31.217 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:18:31.299 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:18:31.299 [info] 
+2025-10-23 21:19:47.002 [info] Running checks...
+2025-10-23 21:19:47.002 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:19:47.116 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:19:47.116 [info] 
+2025-10-23 21:19:57.008 [info] Running checks...
+2025-10-23 21:19:57.009 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:19:57.090 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:19:57.090 [info] 
+2025-10-23 21:19:57.275 [info] Running checks...
+2025-10-23 21:19:57.275 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:19:57.356 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:19:57.356 [info] 
+2025-10-23 21:20:38.429 [info] Running checks...
+2025-10-23 21:20:38.430 [info] Starting linting the current package at /home/bernio/urbansoul-API/models
+2025-10-23 21:20:38.473 [info] /home/bernio/urbansoul-API/models>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:20:38.473 [info] 
+2025-10-23 21:23:28.180 [info] Running checks...
+2025-10-23 21:23:28.180 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:23:28.299 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:23:28.299 [info] 
+2025-10-23 21:24:21.105 [info] Running checks...
+2025-10-23 21:24:21.105 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:24:21.191 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:24:21.191 [info] /home/bernio/urbansoul-API/controller/product.go:38:9 input.Product_id undefined (type models.GetCustomerInput has no field or method Product_id) (compile)
+2025-10-23 21:24:21.191 [info] 
+2025-10-23 21:24:25.917 [info] Running checks...
+2025-10-23 21:24:25.917 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:24:26.004 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:24:26.004 [info] /home/bernio/urbansoul-API/controller/product.go:37:38 input.Product_id undefined (type models.GetCustomerInput has no field or method Product_id) (compile)
+2025-10-23 21:24:26.004 [info] 
+2025-10-23 21:24:26.198 [info] Running checks...
+2025-10-23 21:24:26.198 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:24:26.278 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:24:26.278 [info] /home/bernio/urbansoul-API/controller/product.go:37:38 input.Product_id undefined (type models.GetCustomerInput has no field or method Product_id) (compile)
+2025-10-23 21:24:26.278 [info] 
+2025-10-23 21:24:57.958 [info] Running checks...
+2025-10-23 21:24:57.958 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:24:58.078 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:24:58.078 [info] 
+2025-10-23 21:24:58.155 [info] Running checks...
+2025-10-23 21:24:58.155 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:24:58.235 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:24:58.235 [info] 
+2025-10-23 21:26:51.895 [info] Running checks...
+2025-10-23 21:26:51.895 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:26:51.978 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:26:51.978 [info] /home/bernio/urbansoul-API/controller/product.go:19:17 undefined: decimal
+2025-10-23 21:26:51.978 [info] /home/bernio/urbansoul-API/controller/product.go:20:17 undefined: decimal (compile)
+2025-10-23 21:26:51.978 [info] 
+2025-10-23 21:27:43.716 [info] Running checks...
+2025-10-23 21:27:43.716 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:27:43.808 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:27:43.808 [info] /home/bernio/urbansoul-API/controller/product.go:19:17 undefined: decimal
+2025-10-23 21:27:43.808 [info] /home/bernio/urbansoul-API/controller/product.go:20:17 undefined: decimal (compile)
+2025-10-23 21:27:43.808 [info] 
+2025-10-23 21:27:43.910 [info] Running checks...
+2025-10-23 21:27:43.910 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:27:43.993 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:27:43.993 [info] /home/bernio/urbansoul-API/controller/product.go:19:17 undefined: decimal
+2025-10-23 21:27:43.993 [info] /home/bernio/urbansoul-API/controller/product.go:20:17 undefined: decimal (compile)
+2025-10-23 21:27:43.993 [info] 
+2025-10-23 21:29:46.876 [info] Running checks...
+2025-10-23 21:29:46.876 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:29:46.994 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:29:46.994 [info] 
+2025-10-23 21:31:56.986 [info] Running checks...
+2025-10-23 21:31:56.986 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-23 21:31:57.136 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:31:57.136 [info] 
+2025-10-23 21:32:45.299 [info] Running checks...
+2025-10-23 21:32:45.299 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:32:45.386 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:32:45.386 [info] 
+2025-10-23 21:33:15.849 [info] Running checks...
+2025-10-23 21:33:15.849 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:33:15.932 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:33:15.932 [info] 
+2025-10-23 21:33:17.265 [info] Running checks...
+2025-10-23 21:33:17.265 [info] Starting linting the current package at /home/bernio/urbansoul-API/controller
+2025-10-23 21:33:17.375 [info] /home/bernio/urbansoul-API/controller>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-23 21:33:17.375 [info] 

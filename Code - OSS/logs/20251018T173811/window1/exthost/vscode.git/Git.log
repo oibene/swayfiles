@@ -1,0 +1,77 @@
+2025-10-18 17:38:14.596 [info] [main] Log level: Info
+2025-10-18 17:38:14.596 [info] [main] Validating found git in: "git"
+2025-10-18 17:38:14.596 [info] [main] Using git "2.51.0" from "git"
+2025-10-18 17:38:14.596 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-18 17:38:14.596 [info] > git rev-parse --show-toplevel [24ms]
+2025-10-18 17:38:14.596 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [14ms]
+2025-10-18 17:38:14.596 [info] [Model][openRepository] Opened repository (path): /home/bernio/urbansoul-app
+2025-10-18 17:38:14.596 [info] [Model][openRepository] Opened repository (real path): /home/bernio/urbansoul-app
+2025-10-18 17:38:14.596 [info] [Model][openRepository] Opened repository (kind): repository
+2025-10-18 17:38:14.596 [info] > git rev-parse --show-toplevel [28ms]
+2025-10-18 17:38:14.596 [info] > git config --get commit.template [34ms]
+2025-10-18 17:38:14.597 [info] > git rev-parse --show-toplevel [172ms]
+2025-10-18 17:38:14.715 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [120ms]
+2025-10-18 17:38:14.719 [info] > git rev-parse --show-toplevel [25ms]
+2025-10-18 17:38:14.724 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-10-18 17:38:14.755 [info] > git status -z -uall [15ms]
+2025-10-18 17:38:14.755 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2025-10-18 17:38:14.806 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [28ms]
+2025-10-18 17:38:14.970 [info] > git show --textconv :src/components/productComponent.tsx [143ms]
+2025-10-18 17:38:14.970 [info] > git ls-files --stage -- src/components/productComponent.tsx [137ms]
+2025-10-18 17:38:14.976 [info] > git config --get --local branch.master.vscode-merge-base [163ms]
+2025-10-18 17:38:14.985 [info] > git config --get commit.template [191ms]
+2025-10-18 17:38:15.036 [info] > git check-ignore -v -z --stdin [40ms]
+2025-10-18 17:38:15.037 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [55ms]
+2025-10-18 17:38:15.045 [info] > git cat-file -s d78fa47aa1844dc66bfb363b557449461631a0c0 [70ms]
+2025-10-18 17:38:15.060 [info] > git merge-base refs/heads/master refs/remotes/origin/master [16ms]
+2025-10-18 17:38:15.076 [info] > git diff --name-status -z --diff-filter=ADMR 94b3d092f342d1d2110f19e28acb993a8a407e1d...refs/remotes/origin/master [3ms]
+2025-10-18 17:38:15.077 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
+2025-10-18 17:38:15.139 [info] > git status -z -uall [7ms]
+2025-10-18 17:38:15.140 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-10-18 17:38:15.194 [info] > git blame --root --incremental 94b3d092f342d1d2110f19e28acb993a8a407e1d -- src/components/productComponent.tsx [5ms]
+2025-10-18 17:38:26.078 [info] [main] Log level: Info
+2025-10-18 17:38:26.078 [info] [main] Validating found git in: "git"
+2025-10-18 17:38:26.078 [info] [main] Using git "2.51.0" from "git"
+2025-10-18 17:38:26.078 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-18 17:38:26.078 [info] > git rev-parse --show-toplevel [7ms]
+2025-10-18 17:38:26.083 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [2ms]
+2025-10-18 17:38:26.099 [info] [Model][openRepository] Opened repository (path): /home/bernio/urbansoul-API
+2025-10-18 17:38:26.099 [info] [Model][openRepository] Opened repository (real path): /home/bernio/urbansoul-API
+2025-10-18 17:38:26.099 [info] [Model][openRepository] Opened repository (kind): repository
+2025-10-18 17:38:26.102 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-10-18 17:38:26.113 [info] > git config --get commit.template [5ms]
+2025-10-18 17:38:26.160 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-10-18 17:38:26.160 [warning] [Git][getBranch] No such branch: main
+2025-10-18 17:38:26.171 [info] > git status -z -uall [7ms]
+2025-10-18 17:38:26.172 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-18 17:38:26.259 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [78ms]
+2025-10-18 17:38:26.259 [warning] [Git][getBranch] No such branch: main
+2025-10-18 17:38:26.260 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2025-10-18 17:38:26.286 [info] > git config --get commit.template [26ms]
+2025-10-18 17:38:26.296 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-10-18 17:38:26.296 [warning] [Git][getBranch] No such branch: main
+2025-10-18 17:38:26.307 [info] > git status -z -uall [6ms]
+2025-10-18 17:38:26.307 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-18 17:38:26.617 [info] > git check-ignore -v -z --stdin [1ms]
+2025-10-18 17:38:32.318 [info] > git show --textconv :main.go [4ms]
+2025-10-18 17:38:32.322 [info] > git ls-files --stage -- main.go [5ms]
+2025-10-18 17:38:32.327 [info] > git hash-object -t tree /dev/null [5ms]
+2025-10-18 17:38:32.328 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/bernio/urbansoul-API/main.go.git?%7B%22path%22%3A%22%2Fhome%2Fbernio%2Furbansoul-API%2Fmain.go%22%2C%22ref%22%3A%22%22%7D
+2025-10-18 17:38:32.330 [info] > git hash-object -t tree /dev/null [4ms]
+2025-10-18 17:38:32.330 [warning] [GitFileSystemProvider][stat] File not found - git:/home/bernio/urbansoul-API/main.go.git?%7B%22path%22%3A%22%2Fhome%2Fbernio%2Furbansoul-API%2Fmain.go%22%2C%22ref%22%3A%22%22%7D
+2025-10-18 17:38:32.595 [info] > git check-ignore -v -z --stdin [1ms]
+2025-10-18 17:38:33.152 [info] > git config --get commit.template [5ms]
+2025-10-18 17:38:33.152 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-10-18 17:38:33.152 [warning] [Git][getBranch] No such branch: main
+2025-10-18 17:38:33.160 [info] > git status -z -uall [4ms]
+2025-10-18 17:38:33.161 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-18 17:39:01.196 [info] > git config --get commit.template [7ms]
+2025-10-18 17:39:01.197 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-10-18 17:39:01.197 [warning] [Git][getBranch] No such branch: main
+2025-10-18 17:39:01.209 [info] > git status -z -uall [6ms]
+2025-10-18 17:39:01.209 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-18 17:39:24.977 [info] > git config --get commit.template [9ms]
+2025-10-18 17:39:24.978 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-10-18 17:39:24.978 [warning] [Git][getBranch] No such branch: main
+2025-10-18 17:39:24.990 [info] > git status -z -uall [7ms]
+2025-10-18 17:39:24.991 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]

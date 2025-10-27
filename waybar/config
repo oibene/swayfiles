@@ -28,8 +28,7 @@
 
 "clock":{
   "timezone": "America/Sao_Paulo",
-  "format": "  {:%a, %d %b  |  󰥔 %H:%M}",
-  "format-alt":"{:%a, %d %b  |  %H:%M}" // caso icons nao carreguem
+  "format": "  {:%a, %d %b  |  󰥔  %H:%M}"
 },
 
 // *******************************
@@ -54,7 +53,7 @@
   "format-icons": {
 	  "headphone": "󰋋 ",
 	  "headset": "󰋎 ",
-	  "default": ["", " ", " "]
+	  "default": [" ", "  ", "  "]
   },
   "on-click": "pavucontrol"
 },
@@ -103,7 +102,7 @@
 },
 "network": {
   "interval": 2,
-  "format-wifi": " {signalStrength}%",
+  "format-wifi": "   {signalStrength}%",
   "format-ethernet": "󰈁",
   "format-linked": " {ipaddr}",
   "format-disconnected": "  Disconnected",

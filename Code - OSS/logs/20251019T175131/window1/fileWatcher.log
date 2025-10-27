@@ -1,0 +1,2 @@
+2025-10-19 18:02:29.078 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-10-19 18:02:42.388 [error] [File Watcher (node.js)] Failed to watch /home/bernio/urbansoul-API/.git/refs/remotes/origin/main for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main')

@@ -1,0 +1,10 @@
+2025-10-18 17:38:32.402 [info] Try to start language server - activation (enabled: true)
+2025-10-18 17:38:32.487 [info] Running language server gopls(v0.20.0/go1.25.2 X:nodwarf5)
+2025-10-18 17:39:00.148 [info] Running checks...
+2025-10-18 17:39:00.148 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 17:39:00.289 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 17:39:00.289 [info] 
+2025-10-18 17:39:23.941 [info] Running checks...
+2025-10-18 17:39:23.942 [info] Starting linting the current package at /home/bernio/urbansoul-API
+2025-10-18 17:39:24.009 [info] /home/bernio/urbansoul-API>Finished running tool: /home/bernio/go/bin/staticcheck
+2025-10-18 17:39:24.009 [info] 

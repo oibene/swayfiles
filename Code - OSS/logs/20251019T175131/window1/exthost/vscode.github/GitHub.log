@@ -1,0 +1,4 @@
+2025-10-19 17:51:33.955 [info] Log level: Info
+2025-10-19 17:51:34.162 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-10-19 18:03:41.233 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-10-19 18:08:35.757 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for oibene/urbansoul-API: Error: No GitHub authentication session available.

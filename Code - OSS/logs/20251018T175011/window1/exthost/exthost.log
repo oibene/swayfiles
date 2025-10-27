@@ -1,0 +1,625 @@
+2025-10-18 17:50:13.069 [info] Extension host with pid 1260 started
+2025-10-18 17:50:13.069 [info] Skipping acquiring lock for /home/bernio/.config/Code - OSS/User/workspaceStorage/07b2d575cc921715c51c955be871abad.
+2025-10-18 17:50:13.134 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-18 17:50:13.160 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-18 17:50:13.596 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-18 17:50:13.603 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-18 17:50:13.653 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-18 17:50:13.770 [info] Eager extensions activated
+2025-10-18 17:50:13.780 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 17:50:13.783 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 17:50:13.805 [info] ExtensionService#_doActivateExtension alexdauenhauer.catppuccin-noctis-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 17:50:13.811 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 17:50:13.853 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 17:50:13.927 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-18 17:50:13.936 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-18 17:50:13.995 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-18 17:50:14.104 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-18 17:52:30.599 [error] [golang.go] provider FAILED
+2025-10-18 17:52:30.604 [error] Error: no package data for import "github.com/lib/pq"
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 17:56:07.277 [error] [golang.go] provider FAILED
+2025-10-18 17:56:07.277 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 17:56:15.325 [error] [golang.go] provider FAILED
+2025-10-18 17:56:15.325 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 17:56:15.440 [error] [golang.go] provider FAILED
+2025-10-18 17:56:15.440 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 17:56:15.623 [error] [golang.go] provider FAILED
+2025-10-18 17:56:15.623 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 17:56:15.706 [error] [golang.go] provider FAILED
+2025-10-18 17:56:15.706 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 17:56:15.825 [error] [golang.go] provider FAILED
+2025-10-18 17:56:15.825 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 17:56:16.053 [error] [golang.go] provider FAILED
+2025-10-18 17:56:16.053 [error] Error: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 17:56:16.612 [error] [golang.go] provider FAILED
+2025-10-18 17:56:16.612 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 17:56:16.705 [error] [golang.go] provider FAILED
+2025-10-18 17:56:16.705 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 17:56:16.829 [error] [golang.go] provider FAILED
+2025-10-18 17:56:16.829 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 17:56:17.605 [error] [golang.go] provider FAILED
+2025-10-18 17:56:17.605 [error] Error: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/database.go
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:02:53.046 [error] [golang.go] provider FAILED
+2025-10-18 18:02:53.046 [error] Error: no package data for import "github.com/lib/pq"
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:05:48.861 [error] [golang.go] provider FAILED
+2025-10-18 18:05:48.862 [error] Error: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:09:40.500 [error] [golang.go] provider FAILED
+2025-10-18 18:09:40.500 [error] Error: 14:49: missing parameter type (and 1 more errors)
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:10:27.576 [error] [golang.go] provider FAILED
+2025-10-18 18:10:27.577 [error] Error: 17:49: missing parameter type (and 1 more errors)
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:10:29.941 [error] [golang.go] provider FAILED
+2025-10-18 18:10:29.941 [error] Error: 17:49: missing parameter type (and 1 more errors)
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:12:03.286 [error] [golang.go] provider FAILED
+2025-10-18 18:12:03.286 [error] Error: 17:49: missing parameter type (and 1 more errors)
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:12:09.973 [error] [golang.go] provider FAILED
+2025-10-18 18:12:09.973 [error] Error: 17:49: missing parameter type (and 1 more errors)
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:12:10.318 [error] [golang.go] provider FAILED
+2025-10-18 18:12:10.318 [error] Error: 17:49: missing parameter type (and 1 more errors)
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:12:12.598 [error] [golang.go] provider FAILED
+2025-10-18 18:12:12.598 [error] Error: 17:49: missing parameter type (and 1 more errors)
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:12:26.394 [error] [golang.go] provider FAILED
+2025-10-18 18:12:26.394 [error] Error: no package data for import "github.com/jmoiron/sqlx"
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:12:46.007 [error] [golang.go] provider FAILED
+2025-10-18 18:12:46.008 [error] Error: 22:73: missing ',' in argument list
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:12:48.352 [error] [golang.go] provider FAILED
+2025-10-18 18:12:48.352 [error] Error: 22:73: missing ',' in argument list
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:12:54.149 [error] [golang.go] provider FAILED
+2025-10-18 18:12:54.150 [error] Error: 22:73: missing ',' in argument list
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:12:54.361 [error] [golang.go] provider FAILED
+2025-10-18 18:12:54.361 [error] Error: 22:73: missing ',' in argument list
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:12:54.572 [error] [golang.go] provider FAILED
+2025-10-18 18:12:54.573 [error] Error: 22:73: missing ',' in argument list
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:13:16.035 [error] [golang.go] provider FAILED
+2025-10-18 18:13:16.035 [error] Error: 22:73: missing ',' in argument list
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:31:08.531 [error] [golang.go] provider FAILED
+2025-10-18 18:31:08.531 [error] Error: 31:23: expected '(', found int
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:31:09.757 [error] [golang.go] provider FAILED
+2025-10-18 18:31:09.757 [error] Error: 31:23: expected '(', found int
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:31:18.460 [error] [golang.go] provider FAILED
+2025-10-18 18:31:18.460 [error] Error: 31:23: expected '(', found int
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:31:24.366 [error] [golang.go] provider FAILED
+2025-10-18 18:31:24.366 [error] Error: 31:22: expected declaration, found ')'
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:31:26.190 [error] [golang.go] provider FAILED
+2025-10-18 18:31:26.190 [error] Error: 31:38: expected type argument list
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:31:38.528 [error] [golang.go] provider FAILED
+2025-10-18 18:31:38.528 [error] Error: 31:38: expected type argument list
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:31:50.679 [error] [golang.go] provider FAILED
+2025-10-18 18:31:50.679 [error] Error: 31:38: expected type argument list
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:32:04.809 [error] [golang.go] provider FAILED
+2025-10-18 18:32:04.809 [error] Error: 29:38: expected type argument list
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:32:07.823 [error] [golang.go] provider FAILED
+2025-10-18 18:32:07.823 [error] Error: 29:38: expected type argument list
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:32:15.724 [error] [golang.go] provider FAILED
+2025-10-18 18:32:15.724 [error] Error: 29:38: expected type argument list
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:32:37.691 [error] [golang.go] provider FAILED
+2025-10-18 18:32:37.691 [error] Error: 29:38: expected type argument list
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:32:42.270 [error] [golang.go] provider FAILED
+2025-10-18 18:32:42.270 [error] Error: 29:38: expected type argument list
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:33:00.745 [error] [golang.go] provider FAILED
+2025-10-18 18:33:00.746 [error] Error: 29:38: expected type argument list
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:49:16.188 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-10-18 18:50:36.503 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 18:51:02.608 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugInitialConfigurations'
+2025-10-18 18:54:30.107 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 18:55:03.796 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 18:56:23.157 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 18:56:58.730 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 18:57:55.160 [error] [golang.go] provider FAILED
+2025-10-18 18:57:55.160 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:58:04.246 [error] [golang.go] provider FAILED
+2025-10-18 18:58:04.246 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:58:06.748 [error] [golang.go] provider FAILED
+2025-10-18 18:58:06.748 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:17:29.308 [error] [golang.go] provider FAILED
+2025-10-18 19:17:29.308 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:17:29.848 [error] [golang.go] provider FAILED
+2025-10-18 19:17:29.848 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:17:31.347 [error] [golang.go] provider FAILED
+2025-10-18 19:17:31.347 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:17:34.026 [error] [golang.go] provider FAILED
+2025-10-18 19:17:34.026 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:17:34.147 [error] [golang.go] provider FAILED
+2025-10-18 19:17:34.147 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:17:34.839 [error] [golang.go] provider FAILED
+2025-10-18 19:17:34.839 [error] Error: 9:1: expected declaration, found corsOpt
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:18:11.295 [error] [golang.go] provider FAILED
+2025-10-18 19:18:11.296 [error] Error: 12:27: missing ',' before newline in composite literal (and 1 more errors)
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:18:17.178 [error] [golang.go] provider FAILED
+2025-10-18 19:18:17.178 [error] Error: 12:28: missing ',' before newline in composite literal (and 1 more errors)
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:20:05.805 [error] [golang.go] provider FAILED
+2025-10-18 19:20:05.805 [error] Error: 24:33: missing ',' before newline in composite literal (and 1 more errors)
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:49:03.487 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 19:49:09.622 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 19:49:27.295 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 19:49:30.801 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 19:50:04.998 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 19:51:47.580 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 19:52:12.354 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 19:52:25.217 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 19:53:20.647 [error] [golang.go] provider FAILED
+2025-10-18 19:53:20.647 [error] Error: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:53:24.181 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 20:01:35.343 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 20:01:46.702 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 20:06:29.881 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 20:06:47.270 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-18 20:06:52.253 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 20:09:17.767 [error] [golang.go] provider FAILED
+2025-10-18 20:09:17.767 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/bernio/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 20:09:42.447 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)
+2025-10-18 20:13:31.243 [error] Error: Invalid debug adapter
+    at NGt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:525:100)
+    at NGt.$acceptDAMessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:524:33460)
+    at ALt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40383)
+    at ALt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:40161)
+    at ALt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:39249)
+    at ALt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:38350)
+    at qae.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3718:37142)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at m3.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:550:10349)

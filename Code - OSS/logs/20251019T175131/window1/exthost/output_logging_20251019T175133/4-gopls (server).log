@@ -1,0 +1,238 @@
+[Info  - 17:53:06] 2025/10/19 17:53:06 Created View (#1)
+	directory=/home/bernio/urbansoul-API
+	view_type="GoMod"
+	root_dir="file:///home/bernio/urbansoul-API"
+	go_version="go version go1.25.3 X:nodwarf5 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/bernio/.cache/go-build GOMODCACHE:/home/bernio/go/pkg/mod GOPATH:/home/bernio/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.3 X:nodwarf5 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 17:53:07] 2025/10/19 17:53:07 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/bernio/urbansoul-API
+	query=[/home/bernio/urbansoul-API/... builtin]
+	packages=5
+	duration=1.390987663s
+
+[Info  - 17:53:36] 2025/10/19 17:53:36 background imports cache refresh starting
+
+[Info  - 17:53:36] 2025/10/19 17:53:36 background refresh finished after 140.801953ms
+
+[Info  - 17:54:12] 2025/10/19 17:54:12 background imports cache refresh starting
+
+[Info  - 17:54:12] 2025/10/19 17:54:12 background refresh finished after 2.304427ms
+
+[Info  - 17:54:48] 2025/10/19 17:54:48 background imports cache refresh starting
+
+[Info  - 17:54:48] 2025/10/19 17:54:48 background refresh finished after 2.874523ms
+
+[Info  - 17:56:42] 2025/10/19 17:56:42 background imports cache refresh starting
+
+[Info  - 17:56:42] 2025/10/19 17:56:42 background refresh finished after 6.506277ms
+
+[Info  - 17:57:24] 2025/10/19 17:57:24 background imports cache refresh starting
+
+[Info  - 17:57:24] 2025/10/19 17:57:24 background refresh finished after 5.306252ms
+
+[Info  - 17:57:56] 2025/10/19 17:57:56 background imports cache refresh starting
+
+[Info  - 17:57:56] 2025/10/19 17:57:56 background refresh finished after 6.574022ms
+
+[Info  - 17:58:18] 2025/10/19 17:58:18 go/packages.Load #3
+	view_id="1"
+	snapshot=218
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=72.031166ms
+
+[Info  - 17:58:18] 2025/10/19 17:58:18 go/packages.Load #4
+	view_id="1"
+	snapshot=218
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=70.274775ms
+
+[Info  - 17:58:19] 2025/10/19 17:58:19 go/packages.Load #5
+	view_id="1"
+	snapshot=218
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=49.502168ms
+
+[Info  - 17:58:27] 2025/10/19 17:58:27 go/packages.Load #6
+	view_id="1"
+	snapshot=219
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=74.095914ms
+
+[Info  - 17:58:27] 2025/10/19 17:58:27 go/packages.Load #7
+	view_id="1"
+	snapshot=219
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=67.116326ms
+
+[Info  - 17:58:30] 2025/10/19 17:58:30 go/packages.Load #8
+	view_id="1"
+	snapshot=223
+	directory=/home/bernio/urbansoul-API
+	query=[urbanAPI]
+	packages=1
+	duration=84.446412ms
+
+[Info  - 17:58:44] 2025/10/19 17:58:44 background imports cache refresh starting
+
+[Info  - 17:58:44] 2025/10/19 17:58:44 background refresh finished after 4.66219ms
+
+[Info  - 17:59:24] 2025/10/19 17:59:24 background imports cache refresh starting
+
+[Info  - 17:59:24] 2025/10/19 17:59:24 background refresh finished after 4.246035ms
+
+[Info  - 18:02:29] 2025/10/19 18:02:29 Created View (#2)
+	directory=/home/bernio/urbansoul-API
+	view_type="AdHoc"
+	root_dir="file:///home/bernio/urbansoul-API"
+	go_version="go version go1.25.3 X:nodwarf5 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/bernio/.cache/go-build GOMODCACHE:/home/bernio/go/pkg/mod GOPATH:/home/bernio/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.3 X:nodwarf5 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 18:02:29] 2025/10/19 18:02:29 Created View (#3)
+	directory=/home/bernio/urbansoul-API
+	view_type="AdHoc"
+	root_dir="file:///home/bernio/urbansoul-API/controller"
+	go_version="go version go1.25.3 X:nodwarf5 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/bernio/.cache/go-build GOMODCACHE:/home/bernio/go/pkg/mod GOPATH:/home/bernio/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.3 X:nodwarf5 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Error - 18:02:29] 2025/10/19 18:02:29 go/packages.Load #10: err: chdir /home/bernio/urbansoul-API/controller: no such file or directory: stderr: 
+	view_id="3"
+	snapshot=0
+	directory=/home/bernio/urbansoul-API
+	query=[./ builtin]
+	packages=0
+	duration=648.797µs
+
+[Error - 18:02:29] 2025/10/19 18:02:29 initial workspace load failed: packages.Load error: err: chdir /home/bernio/urbansoul-API/controller: no such file or directory: stderr: 
+
+[Error - 18:02:29] 2025/10/19 18:02:29 go/packages.Load #9: err: chdir /home/bernio/urbansoul-API: no such file or directory: stderr: 
+	view_id="2"
+	snapshot=0
+	directory=/home/bernio/urbansoul-API
+	query=[./ builtin]
+	packages=0
+	duration=842.844µs
+
+[Error - 18:02:29] 2025/10/19 18:02:29 initial workspace load failed: packages.Load error: err: chdir /home/bernio/urbansoul-API: no such file or directory: stderr: 
+
+[Error - 18:02:30] 2025/10/19 18:02:30 errors loading workspace: packages.Load error: err: chdir /home/bernio/urbansoul-API/controller: no such file or directory: stderr: 
+	view_id="3"
+	snapshot=1
+	directory=/home/bernio/urbansoul-API
+
+[Error - 18:02:30] 2025/10/19 18:02:30 go/packages.Load #11: err: chdir /home/bernio/urbansoul-API/controller: no such file or directory: stderr: 
+	view_id="3"
+	snapshot=1
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=0
+	duration=521.914µs
+
+[Error - 18:02:30] 2025/10/19 18:02:30 MetadataForFile: packages.Load error: err: chdir /home/bernio/urbansoul-API/controller: no such file or directory: stderr: 
+
+[Error - 18:02:43] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+  Code: 0 
+[Error - 18:02:43] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+  Code: 0 
+[Error - 18:02:44] Request textDocument/hover failed.
+  Message: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+  Code: 0 
+[Error - 18:02:46] Request textDocument/codeAction failed.
+  Message: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+  Code: 0 
+[Error - 18:02:47] Request textDocument/hover failed.
+  Message: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+  Code: 0 
+[Error - 18:02:59] 2025/10/19 18:02:59 failed to get import resolver: err: chdir /home/bernio/urbansoul-API/controller: no such file or directory: stderr: 
+
+[Error - 18:02:59] 2025/10/19 18:02:59 failed to get import resolver: err: chdir /home/bernio/urbansoul-API: no such file or directory: stderr: 
+
+[Error - 18:03:32] Request textDocument/hover failed.
+  Message: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+  Code: 0 
+[Error - 18:03:33] 2025/10/19 18:03:33 no highlight: getting package for Highlight: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+
+[Error - 18:03:33] Request textDocument/codeAction failed.
+  Message: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+  Code: 0 
+[Error - 18:03:34] Request textDocument/codeAction failed.
+  Message: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+  Code: 0 
+[Error - 18:03:35] Request textDocument/codeAction failed.
+  Message: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+  Code: 0 
+[Error - 18:03:42] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/bernio/urbansoul-API/controller/customers.go
+  Code: 0 
+[Info  - 18:03:42] 2025/10/19 18:03:42 Created View (#4)
+	directory=/home/bernio/urbansoul-API
+	view_type="GoMod"
+	root_dir="file:///home/bernio/urbansoul-API"
+	go_version="go version go1.25.3 X:nodwarf5 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/bernio/.cache/go-build GOMODCACHE:/home/bernio/go/pkg/mod GOPATH:/home/bernio/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.3 X:nodwarf5 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 18:03:42] 2025/10/19 18:03:42 go/packages.Load #12
+	view_id="4"
+	snapshot=0
+	directory=/home/bernio/urbansoul-API
+	query=[/home/bernio/urbansoul-API/... builtin]
+	packages=5
+	duration=59.986223ms
+
+[Info  - 18:03:42] 2025/10/19 18:03:42 go/packages.Load #14
+	view_id="4"
+	snapshot=1
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=68.745201ms
+
+[Info  - 18:03:42] 2025/10/19 18:03:42 go/packages.Load #13
+	view_id="4"
+	snapshot=1
+	directory=/home/bernio/urbansoul-API
+	query=[file=/home/bernio/urbansoul-API/controller/customers.go]
+	packages=1
+	duration=70.310823ms
+
+[Info  - 18:03:43] 2025/10/19 18:03:43 go/packages.Load #15
+	view_id="4"
+	snapshot=1
+	directory=/home/bernio/urbansoul-API
+	query=[/home/bernio/urbansoul-API/... builtin]
+	packages=5
+	duration=50.837018ms
+
+[Info  - 18:04:12] 2025/10/19 18:04:12 background imports cache refresh starting
+
+[Info  - 18:04:12] 2025/10/19 18:04:12 background refresh finished after 11.843859ms
+
+[Info  - 18:18:36] 2025/10/19 18:18:36 Shutdown session
+	shutdown_session=1
+

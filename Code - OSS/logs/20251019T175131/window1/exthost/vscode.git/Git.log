@@ -1,0 +1,250 @@
+2025-10-19 17:51:33.721 [info] [main] Log level: Info
+2025-10-19 17:51:33.721 [info] [main] Validating found git in: "git"
+2025-10-19 17:51:33.721 [info] [main] Using git "2.51.1.dirty" from "git"
+2025-10-19 17:51:33.721 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-19 17:51:33.721 [info] > git rev-parse --show-toplevel [8ms]
+2025-10-19 17:51:33.721 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [4ms]
+2025-10-19 17:51:33.721 [info] [Model][openRepository] Opened repository (path): /home/bernio/urbansoul-API
+2025-10-19 17:51:33.721 [info] [Model][openRepository] Opened repository (real path): /home/bernio/urbansoul-API
+2025-10-19 17:51:33.721 [info] [Model][openRepository] Opened repository (kind): repository
+2025-10-19 17:51:33.721 [info] > git rev-parse --show-toplevel [3ms]
+2025-10-19 17:51:33.721 [info] > git config --get commit.template [5ms]
+2025-10-19 17:51:33.721 [info] > git rev-parse --show-toplevel [4ms]
+2025-10-19 17:51:33.721 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-10-19 17:51:33.721 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-19 17:51:33.721 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-10-19 17:51:33.721 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:51:33.729 [info] > git rev-parse refs/remotes/origin/main [8ms]
+2025-10-19 17:51:33.738 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 17:51:33.771 [info] > git status -z -uall [38ms]
+2025-10-19 17:51:33.792 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-10-19 17:51:33.874 [info] > git config --get --local branch.main.vscode-merge-base [77ms]
+2025-10-19 17:51:33.874 [warning] [Git][config] git config failed: Failed to execute git
+2025-10-19 17:51:33.878 [info] > git config --get commit.template [87ms]
+2025-10-19 17:51:33.914 [info] > git reflog main --grep-reflog=branch: Created from *. [36ms]
+2025-10-19 17:51:33.932 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [15ms]
+2025-10-19 17:51:33.937 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2025-10-19 17:51:33.940 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-10-19 17:51:33.946 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:51:33.947 [info] > git config --add --local branch.main.vscode-merge-base origin/main [7ms]
+2025-10-19 17:51:33.952 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2025-10-19 17:51:33.955 [info] > git config --get commit.template [4ms]
+2025-10-19 17:51:33.958 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-10-19 17:51:34.029 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:51:34.085 [info] > git rev-parse refs/remotes/origin/main [56ms]
+2025-10-19 17:51:34.120 [info] > git status -z -uall [32ms]
+2025-10-19 17:51:34.120 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [30ms]
+2025-10-19 17:51:34.133 [info] > git merge-base refs/heads/main refs/remotes/origin/main [4ms]
+2025-10-19 17:51:34.136 [info] > git merge-base refs/heads/main refs/remotes/origin/main [11ms]
+2025-10-19 17:51:34.149 [info] > git diff --name-status -z --diff-filter=ADMR 49767e744d0a099ec4178023958847e0da3fa132...refs/remotes/origin/main [13ms]
+2025-10-19 17:51:34.159 [info] > git diff --name-status -z --diff-filter=ADMR 49767e744d0a099ec4178023958847e0da3fa132...refs/remotes/origin/main [21ms]
+2025-10-19 17:51:34.388 [info] > git check-ignore -v -z --stdin [2ms]
+2025-10-19 17:53:05.309 [info] > git check-ignore -v -z --stdin [2ms]
+2025-10-19 17:53:06.100 [info] > git show --textconv :models/customer.go [6ms]
+2025-10-19 17:53:06.101 [info] > git ls-files --stage -- models/customer.go [2ms]
+2025-10-19 17:53:06.104 [info] > git cat-file -s 163c92bb39a1fe7472b759f6e1084a900d332513 [1ms]
+2025-10-19 17:53:12.134 [info] > git check-ignore -v -z --stdin [2ms]
+2025-10-19 17:53:12.836 [info] > git show --textconv :controller/customers.go [8ms]
+2025-10-19 17:53:12.837 [info] > git ls-files --stage -- controller/customers.go [2ms]
+2025-10-19 17:53:12.844 [info] > git cat-file -s b0aa0c8aa1ee565894cb07e4b9c478e778c2e0a7 [1ms]
+2025-10-19 17:53:22.974 [info] > git blame --root --incremental 49767e744d0a099ec4178023958847e0da3fa132 -- controller/customers.go [2ms]
+2025-10-19 17:53:26.307 [info] > git config --get commit.template [5ms]
+2025-10-19 17:53:26.308 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-10-19 17:53:26.310 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:53:26.311 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-10-19 17:53:26.330 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 17:53:26.364 [info] > git status -z -uall [49ms]
+2025-10-19 17:53:35.615 [info] > git config --get commit.template [5ms]
+2025-10-19 17:53:35.616 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-10-19 17:53:35.619 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:53:35.620 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-10-19 17:53:35.627 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 17:53:35.654 [info] > git status -z -uall [31ms]
+2025-10-19 17:53:43.934 [info] > git config --get commit.template [7ms]
+2025-10-19 17:53:43.935 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-10-19 17:53:43.941 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:53:43.943 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-10-19 17:53:43.954 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-10-19 17:53:43.980 [info] > git status -z -uall [32ms]
+2025-10-19 17:53:48.994 [info] > git config --get commit.template [4ms]
+2025-10-19 17:53:48.994 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-10-19 17:53:48.998 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:53:48.998 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-10-19 17:53:49.004 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 17:53:49.034 [info] > git status -z -uall [33ms]
+2025-10-19 17:53:59.940 [info] > git config --get commit.template [7ms]
+2025-10-19 17:53:59.942 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-10-19 17:53:59.947 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:53:59.949 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-10-19 17:53:59.959 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 17:53:59.985 [info] > git status -z -uall [32ms]
+2025-10-19 17:54:04.993 [info] > git config --get commit.template [3ms]
+2025-10-19 17:54:04.994 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-10-19 17:54:04.997 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:54:04.998 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-10-19 17:54:05.004 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 17:54:05.029 [info] > git status -z -uall [29ms]
+2025-10-19 17:54:10.047 [info] > git config --get commit.template [7ms]
+2025-10-19 17:54:10.048 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-10-19 17:54:10.054 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:54:10.055 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-10-19 17:54:10.066 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 17:54:10.092 [info] > git status -z -uall [32ms]
+2025-10-19 17:54:20.313 [info] > git config --get commit.template [8ms]
+2025-10-19 17:54:20.314 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-10-19 17:54:20.321 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:54:20.323 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-10-19 17:54:20.336 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-10-19 17:54:20.362 [info] > git status -z -uall [34ms]
+2025-10-19 17:54:25.676 [info] > git config --get commit.template [3ms]
+2025-10-19 17:54:25.677 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-10-19 17:54:25.680 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:54:25.680 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-10-19 17:54:25.687 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 17:54:25.712 [info] > git status -z -uall [29ms]
+2025-10-19 17:54:30.731 [info] > git config --get commit.template [9ms]
+2025-10-19 17:54:30.732 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-10-19 17:54:30.738 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:54:30.739 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-10-19 17:54:30.752 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-10-19 17:54:30.785 [info] > git status -z -uall [40ms]
+2025-10-19 17:56:55.518 [info] > git config --get commit.template [1ms]
+2025-10-19 17:56:55.523 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-10-19 17:56:55.526 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:56:55.527 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-10-19 17:56:55.534 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 17:56:55.562 [info] > git status -z -uall [32ms]
+2025-10-19 17:57:20.954 [info] > git config --get commit.template [8ms]
+2025-10-19 17:57:20.955 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-10-19 17:57:20.959 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:57:20.960 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-10-19 17:57:20.969 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 17:57:20.994 [info] > git status -z -uall [31ms]
+2025-10-19 17:57:26.010 [info] > git config --get commit.template [8ms]
+2025-10-19 17:57:26.011 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-10-19 17:57:26.015 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:57:26.016 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-10-19 17:57:26.024 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 17:57:26.050 [info] > git status -z -uall [31ms]
+2025-10-19 17:57:39.774 [info] > git config --get commit.template [7ms]
+2025-10-19 17:57:39.774 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-10-19 17:57:39.779 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:57:39.780 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-10-19 17:57:39.791 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 17:57:39.818 [info] > git status -z -uall [33ms]
+2025-10-19 17:57:48.766 [info] > git config --get commit.template [4ms]
+2025-10-19 17:57:48.767 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-10-19 17:57:48.770 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:57:48.771 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-10-19 17:57:48.777 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 17:57:48.802 [info] > git status -z -uall [29ms]
+2025-10-19 17:58:45.259 [info] > git config --get commit.template [7ms]
+2025-10-19 17:58:45.261 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-10-19 17:58:45.267 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:58:45.269 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-10-19 17:58:45.281 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-10-19 17:58:45.309 [info] > git status -z -uall [35ms]
+2025-10-19 17:59:33.621 [info] > git config --get commit.template [6ms]
+2025-10-19 17:59:33.621 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-10-19 17:59:33.625 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 17:59:33.626 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-10-19 17:59:33.633 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 17:59:33.658 [info] > git status -z -uall [30ms]
+2025-10-19 18:01:14.988 [info] > git config --get commit.template [1ms]
+2025-10-19 18:01:14.994 [info] > git ls-files --stage -- controller/customers.go [3ms]
+2025-10-19 18:01:14.998 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-10-19 18:01:15.001 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 18:01:15.001 [info] > git cat-file -s b0aa0c8aa1ee565894cb07e4b9c478e778c2e0a7 [4ms]
+2025-10-19 18:01:15.002 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-10-19 18:01:15.007 [info] > git status -z -uall [3ms]
+2025-10-19 18:01:15.010 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-19 18:01:15.012 [info] > git show --textconv :controller/customers.go [3ms]
+2025-10-19 18:02:10.820 [info] > git config --get commit.template [1ms]
+2025-10-19 18:02:10.830 [info] > git ls-files --stage -- controller/customers.go [6ms]
+2025-10-19 18:02:10.834 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-10-19 18:02:10.855 [info] > git cat-file -s e7330dffb4213b27b764450b989d78ce75acb6fd [21ms]
+2025-10-19 18:02:10.865 [info] > git show --textconv :controller/customers.go [6ms]
+2025-10-19 18:02:10.865 [info] > git status -z -uall [3ms]
+2025-10-19 18:02:10.866 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 18:02:10.875 [info] > git blame --root --incremental 0e4089ec25df779a869e638b9fce0ae5564a29f6 -- controller/customers.go [4ms]
+2025-10-19 18:02:10.877 [info] > git merge-base refs/heads/main refs/remotes/origin/main [3ms]
+2025-10-19 18:02:10.883 [info] > git diff --name-status -z --diff-filter=ADMR 49767e744d0a099ec4178023958847e0da3fa132...refs/remotes/origin/main [1ms]
+2025-10-19 18:02:42.364 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/HEAD'
+2025-10-19 18:02:42.371 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/config'
+2025-10-19 18:02:42.380 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/config'
+2025-10-19 18:02:42.383 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/HEAD'
+2025-10-19 18:03:41.179 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-19 18:03:41.190 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [4ms]
+2025-10-19 18:03:41.199 [info] [Model][openRepository] Opened repository (path): /home/bernio/urbansoul-API
+2025-10-19 18:03:41.199 [info] [Model][openRepository] Opened repository (real path): /home/bernio/urbansoul-API
+2025-10-19 18:03:41.199 [info] [Model][openRepository] Opened repository (kind): repository
+2025-10-19 18:03:41.205 [info] > git config --get commit.template [1ms]
+2025-10-19 18:03:41.208 [warning] [Git][getHEAD] Failed to parse HEAD file: Repository is using reftable format.
+2025-10-19 18:03:41.210 [info] > git symbolic-ref --short HEAD [2ms]
+2025-10-19 18:03:41.210 [info] fatal: No such ref: HEAD
+2025-10-19 18:03:41.214 [info] > git rev-parse HEAD [2ms]
+2025-10-19 18:03:41.214 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-10-19 18:03:41.220 [info] > git status -z -uall [3ms]
+2025-10-19 18:03:41.221 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 18:03:41.229 [info] > git config --get commit.template [1ms]
+2025-10-19 18:03:41.229 [info] > git symbolic-ref --short HEAD [3ms]
+2025-10-19 18:03:41.229 [info] fatal: No such ref: HEAD
+2025-10-19 18:03:41.233 [info] > git rev-parse HEAD [1ms]
+2025-10-19 18:03:41.233 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-10-19 18:03:41.239 [info] > git status -z -uall [3ms]
+2025-10-19 18:03:41.239 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 18:03:41.718 [info] > git check-ignore -v -z --stdin [0ms]
+2025-10-19 18:03:43.180 [info] > git check-ignore -v -z --stdin [2ms]
+2025-10-19 18:03:52.752 [info] > git symbolic-ref --short HEAD [6ms]
+2025-10-19 18:03:52.761 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-10-19 18:03:52.761 [info] > git config --get commit.template [10ms]
+2025-10-19 18:03:52.765 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 18:03:52.766 [info] > git ls-files --stage -- controller/customers.go [6ms]
+2025-10-19 18:03:52.770 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2025-10-19 18:03:52.776 [info] > git cat-file -s b0aa0c8aa1ee565894cb07e4b9c478e778c2e0a7 [7ms]
+2025-10-19 18:03:52.777 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 18:03:52.781 [info] > git show --textconv :controller/customers.go [1ms]
+2025-10-19 18:03:52.802 [info] > git status -z -uall [29ms]
+2025-10-19 18:03:52.811 [info] > git blame --root --incremental a85a076457e054089a2ae8452fd2fa211fdfe9ab -- controller/customers.go [3ms]
+2025-10-19 18:03:52.813 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-10-19 18:03:52.816 [info] > git config --get --local branch.main.vscode-merge-base [1ms]
+2025-10-19 18:03:52.816 [warning] [Git][config] git config failed: Failed to execute git
+2025-10-19 18:03:52.820 [info] > git reflog main --grep-reflog=branch: Created from *. [1ms]
+2025-10-19 18:03:52.823 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [0ms]
+2025-10-19 18:03:52.827 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [0ms]
+2025-10-19 18:03:52.830 [info] > git config --add --local branch.main.vscode-merge-base origin/main [1ms]
+2025-10-19 18:03:52.837 [info] > git symbolic-ref --short HEAD [4ms]
+2025-10-19 18:03:52.840 [info] > git config --get commit.template [4ms]
+2025-10-19 18:03:52.841 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-10-19 18:03:52.843 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/bernio/urbansoul-API/.git/refs/remotes/origin/main'
+2025-10-19 18:03:52.844 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-10-19 18:03:52.850 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-10-19 18:03:52.875 [info] > git status -z -uall [29ms]
+2025-10-19 18:03:52.883 [info] > git merge-base refs/heads/main refs/remotes/origin/main [3ms]
+2025-10-19 18:03:52.886 [info] > git merge-base refs/heads/main refs/remotes/origin/main [4ms]
+2025-10-19 18:03:52.889 [info] > git diff --name-status -z --diff-filter=ADMR a85a076457e054089a2ae8452fd2fa211fdfe9ab...refs/remotes/origin/main [4ms]
+2025-10-19 18:03:52.890 [info] > git diff --name-status -z --diff-filter=ADMR a85a076457e054089a2ae8452fd2fa211fdfe9ab...refs/remotes/origin/main [1ms]
+2025-10-19 18:03:54.016 [info] > git ls-files --stage -- controller/customers.go [2ms]
+2025-10-19 18:03:54.023 [info] > git cat-file -s b0aa0c8aa1ee565894cb07e4b9c478e778c2e0a7 [2ms]
+2025-10-19 18:03:54.033 [info] > git show --textconv :controller/customers.go [2ms]
+2025-10-19 18:05:28.340 [info] > git symbolic-ref --short HEAD [5ms]
+2025-10-19 18:05:28.348 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-10-19 18:05:28.348 [info] > git config --get commit.template [9ms]
+2025-10-19 18:05:28.349 [info] > git ls-files --stage -- controller/customers.go [2ms]
+2025-10-19 18:05:28.360 [info] > git status -z -uall [4ms]
+2025-10-19 18:05:28.361 [info] > git cat-file -s 43bc576fe344de78a23d3d8f4c18e4a4b55c8123 [8ms]
+2025-10-19 18:05:28.362 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-10-19 18:05:28.373 [info] > git merge-base refs/heads/main refs/remotes/origin/main [3ms]
+2025-10-19 18:05:28.376 [info] > git blame --root --incremental 640541f8a493068d08540ee23e36170c28f44646 -- controller/customers.go [9ms]
+2025-10-19 18:05:28.377 [info] > git show --textconv :controller/customers.go [4ms]
+2025-10-19 18:05:28.377 [info] > git diff --name-status -z --diff-filter=ADMR 640541f8a493068d08540ee23e36170c28f44646...refs/remotes/origin/main [1ms]
+2025-10-19 18:08:33.532 [info] > git symbolic-ref --short HEAD [5ms]
+2025-10-19 18:08:33.536 [info] > git config --get commit.template [5ms]
+2025-10-19 18:08:33.537 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-10-19 18:08:33.545 [info] > git status -z -uall [4ms]
+2025-10-19 18:08:33.546 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-10-19 18:08:35.754 [info] > git show -s --decorate=full --shortstat --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z 49767e744d0a099ec4178023958847e0da3fa132 -- [27ms]

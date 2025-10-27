@@ -1,0 +1,54 @@
+2025-10-15 18:53:45.266 [info] Extension host with pid 1198 started
+2025-10-15 18:53:45.266 [info] Skipping acquiring lock for /home/bernio/.config/Code - OSS/User/workspaceStorage/274f7ded4d240217cf11df1db8b58482.
+2025-10-15 18:53:45.290 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-15 18:53:45.295 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-10-15 18:53:45.354 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-15 18:53:45.404 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-15 18:53:45.525 [info] Eager extensions activated
+2025-10-15 18:53:45.580 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:53:45.583 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:53:45.608 [info] ExtensionService#_doActivateExtension alexdauenhauer.catppuccin-noctis-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:53:45.617 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:53:45.655 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:53:45.661 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-15 18:53:45.702 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-15 18:53:45.736 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-15 18:53:45.743 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-15 18:53:45.801 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-15 18:53:50.943 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-10-15 20:29:23.460 [error] [vscode.typescript-language-features] provider FAILED
+2025-10-15 20:29:23.460 [error] Error: <semantic> TypeScript Server Error (5.9.2)
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isParameter'.
+Additional information: BADCLIENT: Bad error code, 7006 not found in range 2167..2171 (found: 2339)
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isParameter'.
+Additional information: BADCLIENT: Bad error code, 7006 not found in range 2167..2171 (found: 2339)
+    at cast (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:3350:16)
+    at doChange33 (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:163974:23)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:163854:21
+    at _ChangeTracker.with (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:179190:5)
+    at Object.getCodeActions (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:163853:62)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:155208:46
+    at flatMap (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:155208:10)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:153472:33
+    at flatMap (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:153470:12)
+    at IpcIOSession.getCodeFixes (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:196490:50)
+    at getCodeFixes (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:194495:43)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:196809:15
+    at IpcIOSession.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:196798:14)
+    at IpcIOSession.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:196807:29)
+    at IpcIOSession.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:196855:68)
+    at process.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:2:357281)
+	at y.dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:2:30813)
+	at y.dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:2:29254)
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:2:28539)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2025-10-15 20:31:01.861 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-15 20:31:01.895 [info] Extension host with pid 1198 exiting with code 0
